@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee773ca8-a10c-4945-ae70-b4c1a4e66282" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anjaysahoo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:anjaysahoo/trading-investment.git&quot;,
+    &quot;accountId&quot;: &quot;a17022ac-f54f-4185-b556-2f033b5a1e36&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3626499327261785" />
+      <entry key="MS500" value="3.5045620899085304" />
+      <entry key="S2" value="5.161106964517841" />
+      <entry key="S5" value="5.641734619545122" />
+      <entry key="S10" value="5.816823931442647" />
+      <entry key="S30" value="5.938017298303338" />
+      <entry key="S60" value="5.9688924846918905" />
+      <entry key="M2" value="5.985463495646012" />
+      <entry key="M5" value="6.208390158283693" />
+      <entry key="M10" value="8.447170653853235" />
+      <entry key="M15" value="11.800476574349828" />
+      <entry key="M30" value="19.960835128345998" />
+      <entry key="H1" value="27.758962976024172" />
+      <entry key="H2" value="33.19120911580069" />
+      <entry key="H4" value="36.40340949322862" />
+      <entry key="D1" value="39.37197187080474" />
+      <entry key="W1" value="39.90955513720714" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2889755426326375" />
+      <entry key="MS500" value="3.4681664840135684" />
+      <entry key="S2" value="5.148129844712991" />
+      <entry key="S5" value="5.636101564627021" />
+      <entry key="S10" value="5.813927172624842" />
+      <entry key="S30" value="5.93703323042891" />
+      <entry key="S60" value="5.9683980982488505" />
+      <entry key="M2" value="5.985215563117479" />
+      <entry key="M5" value="6.208279672205386" />
+      <entry key="M10" value="8.447054260035536" />
+      <entry key="M15" value="11.800336048395536" />
+      <entry key="M30" value="19.9606867530263" />
+      <entry key="H1" value="27.75885096415882" />
+      <entry key="H2" value="33.19113984659646" />
+      <entry key="H4" value="36.40337092396792" />
+      <entry key="D1" value="39.371964835301156" />
+      <entry key="W1" value="39.90955411640728" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K2UeFfSl1lEIhLxol4UWZFT7xD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/anjay.sahoo/personal/trading-investment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ox.security.project.ox-ide.scanResults": "{\"version\":10,\"reports\":[{\"scanId\":\"52d857f9-2f71-4711-a353-45a241f580e3\",\"name\":\"trading-investment\",\"scanHash\":\"df9c436f53bd3df8aa525d2412098be513d9a3b8cf7e1810e48247ed8c00130e\",\"repoPath\":\"/Users/anjay.sahoo/personal/trading-investment\",\"branchName\":\"main\",\"issues\":[],\"fileHashes\":{\"tradermercury/2026/01-the-foundation-of-trading/transcript.md\":\"db1a34a863498878cd313bd1180cc5697874c397f059d38a0678b7c977a20920\",\".DS_Store\":\"ac7f2bfbf8d1ec948102fd4c159e12c936d1065920b6d78039b0b1639a6b3020\",\".cursor/\":\"\",\".idea/\":\"\",\"GLOSSARY.md\":\"1d42168479597e3f392e2b42d6ee2143a525f54d2db3c8b36ce96381907f3dba\",\"MISSION.md\":\"3948abb6f2afd110bdfd1e8bdf185a090fe46911b76a1dc447bffa73c05044f3\",\"NOTES.md\":\"810c58274efde868e2a697eae0893cfafd05829edc7d91e04605e565ff55604f\",\"RESOURCES.md\":\"cd922cf81fbb643d41504c13313f7a9bc5cd5dee5dea6b1c24a491e001160561\",\"lessons/\":\"\",\"reference/\":\"\"},\"createdAt\":1790759897493,\"ideInstanceId\":\"7866c1008ee79e0d\"}]}",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tradermercury/2026/01-the-foundation-of-trading" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee773ca8-a10c-4945-ae70-b4c1a4e66282" name="Changes" comment="" />
+      <created>1790755250930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790755250930</updated>
+      <workItem from="1790755252265" duration="4961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

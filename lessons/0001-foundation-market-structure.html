@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Lesson 1 · The Foundation — Market Structure &amp; Momentum</title>
+<style>
+  :root { --ink:#1a1a1a; --muted:#6b6659; --rule:#d8d3c6; --paper:#fbfaf6; --accent:#7a1f1f;
+    --up:#1f6b3a; --down:#8a2020; --good:#1f6b3a; --bad:#8a2020; --grid:#ece8dd; }
+  html { font-size: 17px; }
+  body { max-width: 42rem; margin: 3rem auto; padding: 0 1.5rem;
+    font-family: Georgia, "Iowan Old Style", serif; color: var(--ink);
+    background: var(--paper); line-height: 1.5; }
+  header .kicker { letter-spacing:.12em; text-transform:uppercase; font-size:.72rem; color:var(--muted); }
+  h1 { font-size: 2rem; margin:.2rem 0 .3rem; line-height:1.12; }
+  .sub { color: var(--muted); font-style: italic; margin: 0 0 1.4rem; }
+  h2 { font-size: 1.2rem; border-bottom: 2px solid var(--rule); padding-bottom:.25rem; margin-top: 2.4rem; }
+  blockquote { border-left: 3px solid var(--accent); margin: 1.2rem 0; padding:.2rem 1rem; color:#3a3a3a; font-style: italic; }
+  p { margin:.6rem 0; }
+  .accent { color: var(--accent); font-weight:bold; }
+  code { background:#efece3; padding:.05rem .3rem; border-radius:3px; font-size:.9em; }
+  a { color: var(--accent); }
+  /* charts */
+  .grid4 { display:grid; grid-template-columns:1fr 1fr; gap:.9rem; margin:1.2rem 0; }
+  figure { margin:0; background:#fff; border:1px solid var(--rule); border-radius:8px; padding:.6rem; }
+  figure svg { width:100%; height:auto; display:block; }
+  figcaption { font-size:.82rem; color:var(--muted); text-align:center; margin-top:.35rem; }
+  figcaption b { color:var(--ink); }
+  .wide { background:#fff; border:1px solid var(--rule); border-radius:8px; padding:.8rem; margin:1.2rem 0; }
+  .wide svg { width:100%; height:auto; display:block; }
+  .lbl { font:600 11px Georgia, serif; }
+  /* quiz */
+  .quiz { background:#fff; border:1px solid var(--rule); border-radius:8px; padding:1rem 1.2rem; margin:1.2rem 0; }
+  .quiz p.q { font-weight:bold; margin:.2rem 0 .6rem; }
+  .opt { display:block; width:100%; text-align:left; font:inherit; background:var(--paper);
+    border:1px solid var(--rule); border-radius:6px; padding:.5rem .7rem; margin:.35rem 0; cursor:pointer; }
+  .opt:hover { border-color:var(--muted); }
+  .opt.correct { border-color:var(--good); background:#eef7f0; }
+  .opt.wrong { border-color:var(--bad); background:#faeeee; }
+  .fb { font-style:italic; color:var(--muted); min-height:1.1rem; margin-top:.35rem; }
+  .take { background:#f2efe6; border-radius:8px; padding:.8rem 1.1rem; }
+  .take li { margin:.3rem 0; }
+  footer { margin-top: 2.6rem; border-top:1px solid var(--rule); padding-top:1rem; color:var(--muted); font-size:.85rem; }
+  .src { background:#f2efe6; border-radius:8px; padding:.8rem 1rem; font-size:.92rem; }
+</style>
+</head>
+<body>
+<header>
+  <p class="kicker">TraderMercury · Video 01 · The Foundation of Trading</p>
+  <h1>Read Any Chart in 4 Seconds</h1>
+  <p class="sub">Market structure · Rule of Fours · momentum over prediction.</p>
+</header>
+
+<blockquote>"The height of cultivation is merely simplicity — the utmost with the minimum." — Bruce Lee, via TraderMercury</blockquote>
+
+<p><b>Why (for you):</b> ~2 sessions/week, no babysitting charts. The edge = a read so fast you
+act only on the strongest few.</p>
+
+<h2>1 · Execution &gt; analysis</h2>
+<p>95% lose, yet all of them analyse. Market only goes up or down — analysis is just a bet on which.
+The gap is <span class="accent">execution</span>, and you can only execute what you understand:
+<b>you cannot borrow conviction</b>.</p>
+
+<h2>2 · The Rule of Fours</h2>
+<p>Four states. Every chart, every timeframe, is one of these. See the shape — don't memorise words.</p>
+
+<div class="grid4">
+  <figure>
+    <svg viewBox="0 0 300 150" role="img" aria-label="Uptrend: higher highs and higher lows">
+      <g stroke="var(--grid)" stroke-width="1">
+        <line x1="0" y1="37" x2="300" y2="37"/><line x1="0" y1="75" x2="300" y2="75"/><line x1="0" y1="113" x2="300" y2="113"/>
+      </g>
+      <polyline fill="none" stroke="var(--up)" stroke-width="3"
+        points="8,130 55,95 95,112 145,60 185,80 235,32 275,52 296,18"/>
+      <g fill="var(--up)">
+        <circle cx="55" cy="95" r="4"/><circle cx="145" cy="60" r="4"/><circle cx="235" cy="32" r="4"/>
+        <circle cx="95" cy="112" r="4"/><circle cx="185" cy="80" r="4"/>
+      </g>
+      <text class="lbl" x="150" y="40" fill="var(--up)">HH ↑</text>
+      <text class="lbl" x="150" y="130" fill="var(--up)">HL ↑</text>
+    </svg>
+    <figcaption><b>Uptrend</b> · higher highs + higher lows ↗ · <span style="color:var(--up)">trade this</span></figcaption>
+  </figure>
+
+  <figure>
+    <svg viewBox="0 0 300 150" role="img" aria-label="Downtrend: lower highs and lower lows">
+      <g stroke="var(--grid)" stroke-width="1">
+        <line x1="0" y1="37" x2="300" y2="37"/><line x1="0" y1="75" x2="300" y2="75"/><line x1="0" y1="113" x2="300" y2="113"/>
+      </g>
+      <polyline fill="none" stroke="var(--down)" stroke-width="3"
+        points="8,20 55,55 95,38 145,90 185,70 235,118 275,98 296,132"/>
+      <g fill="var(--down)">
+        <circle cx="55" cy="55" r="4"/><circle cx="145" cy="90" r="4"/><circle cx="235" cy="118" r="4"/>
+        <circle cx="95" cy="38" r="4"/><circle cx="185" cy="70" r="4"/>
+      </g>
+      <text class="lbl" x="150" y="26" fill="var(--down)">LH ↓</text>
+      <text class="lbl" x="150" y="118" fill="var(--down)">LL ↓</text>
+    </svg>
+    <figcaption><b>Downtrend</b> · lower highs + lower lows ↘ · skip (watch reversal)</figcaption>
+  </figure>
+
+  <figure>
+    <svg viewBox="0 0 300 150" role="img" aria-label="Consolidation: lower highs but higher lows converging">
+      <line x1="8" y1="30" x2="290" y2="70" stroke="var(--muted)" stroke-width="1.5" stroke-dasharray="4 3"/>
+      <line x1="8" y1="120" x2="290" y2="80" stroke="var(--muted)" stroke-width="1.5" stroke-dasharray="4 3"/>
+      <polyline fill="none" stroke="var(--accent)" stroke-width="3"
+        points="8,120 40,32 80,110 120,42 160,100 200,52 240,90 285,74"/>
+      <text class="lbl" x="120" y="22" fill="var(--muted)">lower highs</text>
+      <text class="lbl" x="120" y="138" fill="var(--muted)">higher lows</text>
+    </svg>
+    <figcaption><b>Consolidation</b> · coiling triangle ▷ · wait</figcaption>
+  </figure>
+
+  <figure>
+    <svg viewBox="0 0 300 150" role="img" aria-label="Range: equal highs and equal lows sideways">
+      <line x1="8" y1="35" x2="290" y2="35" stroke="var(--muted)" stroke-width="1.5" stroke-dasharray="4 3"/>
+      <line x1="8" y1="115" x2="290" y2="115" stroke="var(--muted)" stroke-width="1.5" stroke-dasharray="4 3"/>
+      <polyline fill="none" stroke="var(--accent)" stroke-width="3"
+        points="8,115 55,38 100,113 150,36 195,116 240,37 285,114"/>
+      <text class="lbl" x="120" y="27" fill="var(--muted)">equal highs</text>
+      <text class="lbl" x="120" y="133" fill="var(--muted)">equal lows</text>
+    </svg>
+    <figcaption><b>Range</b> · sideways chop ▭ · wait</figcaption>
+  </figure>
+</div>
+<p><span class="accent">4-second rule:</span> a 4-year-old names up/down/sideways instantly. Hard to see the swings? Flip to a <b>line chart</b> — the wave pops.</p>
+
+<h2>3 · Context: higher timeframe wins</h2>
+<p>Same asset, two zooms. A low-timeframe uptrend can sit inside a higher-timeframe downtrend — a trap.</p>
+<div class="wide">
+  <svg viewBox="0 0 640 190" role="img" aria-label="A rising 4h move nested inside a falling weekly downtrend">
+    <g stroke="var(--grid)" stroke-width="1">
+      <line x1="0" y1="47" x2="640" y2="47"/><line x1="0" y1="95" x2="640" y2="95"/><line x1="0" y1="143" x2="640" y2="143"/>
+    </g>
+    <polyline fill="none" stroke="var(--down)" stroke-width="2.5"
+      points="10,30 70,60 120,45 180,90 240,70 300,120 360,100 420,150 470,132 520,168"/>
+    <rect x="440" y="118" width="95" height="62" fill="none" stroke="var(--ink)" stroke-dasharray="4 3"/>
+    <polyline fill="none" stroke="var(--up)" stroke-width="3" points="452,172 480,150 505,158 528,130"/>
+    <text class="lbl" x="150" y="24" fill="var(--down)">WEEKLY: downtrend ↓ (wins)</text>
+    <text class="lbl" x="548" y="150" fill="var(--up)">4h: uptrend ↑</text>
+    <text class="lbl" x="548" y="166" fill="var(--ink)">⚠ trap</text>
+  </svg>
+</div>
+
+<h2>4 · Momentum: strength attracts strength</h2>
+<p>Trade strong assets already trending up, targeting new highs. <b>Long-biased.</b> Bi-weekly job:
+spacebar-scan TradingView, keep clean uptrends, bin the chop.</p>
+
+<h2>5 · Proof — Hyperliquid vs Bitcoin (Jan 27)</h2>
+<p>Same day. Hype broke a higher high on daily+weekly; BTC chopped near range lows in a higher-TF downtrend.</p>
+<div class="wide">
+  <svg viewBox="0 0 640 200" role="img" aria-label="From Jan 27, Hyperliquid rises 300-400% while Bitcoin falls 30%">
+    <line x1="40" y1="10" x2="40" y2="180" stroke="var(--grid)"/>
+    <line x1="40" y1="180" x2="620" y2="180" stroke="var(--grid)"/>
+    <circle cx="40" cy="150" r="4" fill="var(--ink)"/>
+    <text class="lbl" x="8" y="196" fill="var(--muted)">Jan 27</text>
+    <polyline fill="none" stroke="var(--up)" stroke-width="3"
+      points="40,150 130,140 220,110 310,80 400,55 490,38 580,20"/>
+    <text class="lbl" x="500" y="16" fill="var(--up)">HYPE +300–400%</text>
+    <polyline fill="none" stroke="var(--down)" stroke-width="3"
+      points="40,150 130,158 220,150 310,168 400,160 490,172 580,166"/>
+    <text class="lbl" x="500" y="188" fill="var(--down)">BTC −30%</text>
+  </svg>
+</div>
+<p>Same market, opposite outcomes — decided by reading structure and buying strength.</p>
+
+<h2>Skill check — classify the chart</h2>
+<p>Recall from memory. Pick one:</p>
+<div class="quiz" id="quiz">
+  <div data-answer="a">
+    <p class="q">Q1. Peaks 100 → 108 → 115, dips 95 → 102. State?</p>
+    <button class="opt" data-k="a">A clean rising uptrend here</button>
+    <button class="opt" data-k="b">A clean falling downtrend now</button>
+    <button class="opt" data-k="c">A sideways equal-bound range</button>
+    <p class="fb"></p>
+  </div>
+  <div data-answer="c" style="margin-top:1rem">
+    <p class="q">Q2. Lower highs but higher lows, squeezing. State?</p>
+    <button class="opt" data-k="a">Momentum uptrend forming up</button>
+    <button class="opt" data-k="b">Downtrend rolling over hard</button>
+    <button class="opt" data-k="c">Consolidation, a coiling wedge</button>
+    <p class="fb"></p>
+  </div>
+  <div data-answer="b" style="margin-top:1rem">
+    <p class="q">Q3. 4h up, weekly clearly down. Best move?</p>
+    <button class="opt" data-k="a">Go long, the 4h is enough</button>
+    <button class="opt" data-k="b">Respect weekly, skip the long</button>
+    <button class="opt" data-k="c">Short it purely on the 4h</button>
+    <p class="fb"></p>
+  </div>
+</div>
+
+<h2>Takeaways</h2>
+<ul class="take">
+  <li><span class="accent">Rule of Fours:</span> up · down · consolidation · range.</li>
+  <li><span class="accent">4-second rule:</span> hard read = overcomplicating.</li>
+  <li><span class="accent">Context first:</span> higher timeframe trumps lower.</li>
+  <li><span class="accent">Buy strength:</span> momentum longs on clean uptrends.</li>
+  <li><span class="accent">No borrowed conviction:</span> trade only what you understand.</li>
+</ul>
+
+<div class="src">
+  <b>Watch:</b> TraderMercury —
+  <a href="https://www.youtube.com/watch?v=pUflMCUpVuo&list=PLHtuYb7r27pQ">The Foundation of Trading</a>.
+  Live scan ~12:00, Hype/BTC proof ~23:00, chart open beside you.
+  <b>Reference:</b> <a href="../reference/market-structure.html">Market Structure cheat sheet</a>.
+</div>
+
+<footer>
+  <b>Teacher on call.</b> Stuck spotting a swing or judging context? Ask in chat — we work it live.
+  Next: apply this to <i>your</i> watchlist; later, support/resistance + moving averages.
+  Lesson 1 · terms in <code>GLOSSARY.md</code>.
+</footer>
+
+<script>
+  document.querySelectorAll('#quiz > div').forEach(block => {
+    const answer = block.dataset.answer, fb = block.querySelector('.fb');
+    block.querySelectorAll('.opt').forEach(btn => btn.addEventListener('click', () => {
+      block.querySelectorAll('.opt').forEach(b => b.classList.remove('correct','wrong'));
+      if (btn.dataset.k === answer) { btn.classList.add('correct'); fb.textContent = 'Correct — that\u2019s the read.'; }
+      else { btn.classList.add('wrong'); block.querySelector(`.opt[data-k="${answer}"]`).classList.add('correct');
+        fb.textContent = 'Not quite — highlighted one is the structure.'; }
+    }));
+  });
+</script>
+</body>
+</html>

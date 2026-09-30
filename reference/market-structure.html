@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Reference · Market Structure Cheat Sheet</title>
+<style>
+  :root { --ink:#1a1a1a; --muted:#6b6659; --rule:#d8d3c6; --paper:#fbfaf6; --accent:#7a1f1f; }
+  html { font-size: 17px; }
+  body { max-width: 44rem; margin: 3rem auto; padding: 0 1.5rem;
+    font-family: Georgia, "Iowan Old Style", serif; color: var(--ink);
+    background: var(--paper); line-height: 1.5; }
+  h1 { font-size: 1.9rem; margin: 0 0 .2rem; }
+  .sub { color: var(--muted); font-style: italic; margin: 0 0 2rem; }
+  h2 { font-size: 1.15rem; border-bottom: 2px solid var(--rule); padding-bottom: .25rem; margin-top: 2.4rem; }
+  table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .98rem; }
+  th, td { text-align: left; padding: .5rem .6rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+  th { color: var(--muted); font-weight: normal; font-style: italic; }
+  code { background: #efece3; padding: .05rem .3rem; border-radius: 3px; font-size: .9em; }
+  .card { background:#fff; border:1px solid var(--rule); border-radius:8px; padding:1rem 1.2rem; margin:1rem 0; }
+  .accent { color: var(--accent); font-weight: bold; }
+  footer { margin-top: 3rem; border-top: 1px solid var(--rule); padding-top: 1rem; color: var(--muted); font-size: .85rem; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+  <h1>Market Structure — Cheat Sheet</h1>
+  <p class="sub">The Rule of Fours. Print this. It is the whole foundation.</p>
+
+  <h2>The four states</h2>
+  <table>
+    <tr><th>State</th><th>Highs &amp; lows</th><th>Shape</th><th>Trade it?</th></tr>
+    <tr><td class="accent">Uptrend</td><td>Higher highs, higher lows</td><td>Stairs up ↗</td><td><b>Yes</b> — momentum longs</td></tr>
+    <tr><td>Downtrend</td><td>Lower highs, lower lows</td><td>Stairs down ↘</td><td>No (long-biased) — watch for reversal only</td></tr>
+    <tr><td>Consolidation</td><td>Lower highs BUT higher lows</td><td>Triangle ▷</td><td>Wait — coiling, no direction yet</td></tr>
+    <tr><td>Range</td><td>Equal highs, equal lows</td><td>Sideways ▭</td><td>Wait — chop, low momentum</td></tr>
+  </table>
+
+  <h2>Reading routine</h2>
+  <div class="card">
+    <ol>
+      <li><b>4-second glance.</b> Up, down, or sideways? A four-year-old could say.</li>
+      <li><b>Name the swings.</b> HH/HL or LH/LL? If unsure, switch to a <b>line chart</b> to see the wave.</li>
+      <li><b>Zoom out for context.</b> What is the <span class="accent">higher timeframe</span> doing? It trumps the lower one.</li>
+      <li><b>Decide.</b> Strong uptrend with friendly context → watchlist. Chop/downtrend → discard.</li>
+    </ol>
+  </div>
+
+  <h2>Rules of thumb</h2>
+  <ul>
+    <li><b>Strength attracts strength.</b> Buy assets already trending up, not laggards hoping to turn.</li>
+    <li><b>Higher timeframe wins.</b> A low-timeframe uptrend inside a higher-timeframe downtrend is a trap.</li>
+    <li><b>Structure is interpretive.</b> Two honest traders can disagree on the same chart. Capture the <i>gist</i>, don't split textbook hairs.</li>
+    <li><b>No indicator soup.</b> Structure first. RSI/volume/funding are noise at this layer.</li>
+  </ul>
+
+  <footer>
+    Reference for <a href="../lessons/0001-foundation-market-structure.html">Lesson 1 — The Foundation</a>.
+    Source: TraderMercury, <i>Chapter 1–7, 2026 playlist</i>. See <code>GLOSSARY.md</code> for term definitions.
+  </footer>
+</body>
+</html>
