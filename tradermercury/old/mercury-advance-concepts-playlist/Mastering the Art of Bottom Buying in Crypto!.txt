@@ -1,0 +1,2083 @@
+00:00 what's going on guys so today we're
+00:01 
+
+00:01 going to be talking about how I try to
+00:02 
+
+00:02 find Bottoms in the market so stick
+00:04 
+
+00:04 around to the end of the video but first
+00:06 
+
+00:06 we're going to do a quick sponsorship
+00:07 
+
+00:07 message from coin market manager so as
+00:09 
+
+00:09 you know I have been sponsored by coin
+00:11 
+
+00:11 market manager a really helpful
+00:13 
+
+00:13 analytical tool that journals your
+00:15 
+
+00:15 trades for you you just connect your
+00:17 
+
+00:17 exchange account via readon API so this
+00:21 
+
+00:21 is a sub account that I have on fex it's
+00:23 
+
+00:23 not uh my main account so it's not
+00:25 
+
+00:25 totally reflective of I mean obviously
+00:27 
+
+00:27 you can see this is from January 31st so
+00:30 
+
+00:30 this is not very reflective of my actual
+00:32 
+
+00:32 trading activity but it's a decent kind
+00:35 
+
+00:35 of reflection it's still more or less
+00:37 
+
+00:37 the same gist and just this alone has
+00:39 
+
+00:39 really helped me just get some insight
+00:42 
+
+00:42 so just quickly to cover some things
+00:43 
+
+00:43 with you guys uh on this little sub
+00:45 
+
+00:45 account 10 trades seven wins three
+00:48 
+
+00:48 losses something that I found really
+00:50 
+
+00:50 interesting was the times that I'm
+00:52 
+
+00:52 winning uh obviously I'm only a long
+00:54 
+
+00:54 only Trader so I I don't take any shorts
+00:56 
+
+00:56 so that's pretty typical but the times
+00:58 
+
+00:58 that I'm winning I'm in the trade for
+01:00 
+
+01:00 almost two weeks and the times that I'm
+01:03 
+
+01:03 losing I'm only in the trade for less
+01:04 
+
+01:04 than 12 hours right so obviously this is
+01:07 
+
+01:07 a really small sample size and it's a
+01:09 
+
+01:09 sub account but more or less this is
+01:11 
+
+01:11 pretty eye openening it kind of allows
+01:13 
+
+01:13 me to infer that when I'm wrong I should
+01:16 
+
+01:16 know when I'm wrong within you know
+01:18 
+
+01:18 relatively short period of time and you
+01:21 
+
+01:21 know the longer that the trade goes on
+01:23 
+
+01:23 because I'm a higher time frame Trader
+01:25 
+
+01:25 typically that means that I'm watching
+01:26 
+
+01:26 as that trade continues to to play out
+01:29 
+
+01:29 with me in it so that's something that I
+01:31 
+
+01:31 found really interesting and personally
+01:33 
+
+01:33 that's going to allow me to justify
+01:35 
+
+01:35 cutting positions quicker especially in
+01:37 
+
+01:37 the beginning of the trade if I enter a
+01:39 
+
+01:39 trade and I know that something's not
+01:41 
+
+01:41 going the right way or how I expected it
+01:43 
+
+01:43 to go within the first you know 12 hours
+01:45 
+
+01:45 or a day within entering that trade
+01:47 
+
+01:47 because again I am a higher time frame
+01:49 
+
+01:49 Trader I can really justify cutting
+01:51 
+
+01:51 those positions a lot quicker so that's
+01:53 
+
+01:53 just a little neat thing that I found
+01:55 
+
+01:55 personally that I wanted to share with
+01:56 
+
+01:56 you guys definitely check out coin
+01:58 
+
+01:58 market manager they have a lot of data
+02:00 
+
+02:00 here as you can see and obviously you
+02:02 
+
+02:02 know when you have more data and more
+02:04 
+
+02:04 sample size this is going to help you a
+02:05 
+
+02:05 lot more you'll be able to observe what
+02:08 
+
+02:08 your true habits are but just consider
+02:10 
+
+02:10 this a taste of what value coin market
+02:12 
+
+02:12 manager can provide so if you guys do
+02:13 
+
+02:13 want to check out coin market manager
+02:15 
+
+02:15 you do get 40% off I believe for using
+02:17 
+
+02:17 the link that's in my description so
+02:19 
+
+02:19 appreciate you guys back to the video
+02:21 
+
+02:21 all right so the main topic of today's
+02:23 
+
+02:23 video is going to be you know Finding
+02:24 
+
+02:24 bottoms everyone loves to buy the dip
+02:26 
+
+02:26 buy the dip buy the dip the issue is
+02:28 
+
+02:28 that this is not a dip
+02:31 
+
+02:31 the same way that something like all of
+02:33 
+
+02:33 this was right and the way that I like
+02:35 
+
+02:35 to break that down is by what I call
+02:38 
+
+02:38 Trend portrayals all that that really
+02:40 
+
+02:40 means is I'm trying to find the line of
+02:42 
+
+02:42 best fit that portrays whatever the
+02:45 
+
+02:45 higher time frame structure is doing
+02:47 
+
+02:47 because these moving averages which are
+02:49 
+
+02:49 what I'm using the 200 ma 200 EMA are
+02:51 
+
+02:51 lagging indicators right so if I'm using
+02:53 
+
+02:53 something like 200 daily moving averages
+02:55 
+
+02:55 you can see that they're not all that
+02:57 
+
+02:57 relevant right if you're sitting here
+02:59 
+
+02:59 waiting for 200 da you're just having
+03:00 
+
+03:00 fun doing nothing and missing out on the
+03:02 
+
+03:02 rally that entire period so this is more
+03:04 
+
+03:04 or less going to portray like a weekly
+03:07 
+
+03:07 Trend so when we zoom out to the weekly
+03:10 
+
+03:10 we can see this structure right and that
+03:12 
+
+03:12 structure typically is going to be along
+03:14 
+
+03:14 these 200 daily moving averages so it's
+03:17 
+
+03:17 the same thing when we zoom in and all
+03:19 
+
+03:19 of this is very important to the idea of
+03:21 
+
+03:21 finding bottoms at least in my Trend
+03:22 
+
+03:22 trading system so just bear with me so
+03:24 
+
+03:24 that's the idea right it's a concept
+03:27 
+
+03:27 typically you know if we're looking at
+03:28 
+
+03:28 hourly 200s then that's going to portray
+03:31 
+
+03:31 something like our 4-Hour Market
+03:33 
+
+03:33 structure so the trend on the 4H hour
+03:35 
+
+03:35 chart so quick let's just go to the
+03:37 
+
+03:37 hourly time frame you can see you know
+03:38 
+
+03:38 hourly 200 moving averages and then when
+03:40 
+
+03:40 you zoom back out and you assess your 4H
+03:42 
+
+03:42 hour Market structure you're going to
+03:44 
+
+03:44 see high low high low high low right
+03:46 
+
+03:46 more or less uh so this is what I call
+03:48 
+
+03:48 Trend portrayals the way that we're
+03:50 
+
+03:50 portraying the idea that you know the 4H
+03:53 
+
+03:53 hour Market structure is bullish and
+03:54 
+
+03:54 we're uptrending is because we're
+03:56 
+
+03:56 finding support along hourly 200 moving
+03:59 
+
+03:59 averages so when we're doing something
+04:01 
+
+04:01 like that and the context is right so
+04:04 
+
+04:04 this is also pretty important the
+04:06 
+
+04:06 context is in this leg upwards we are
+04:09 
+
+04:09 uptrending on all time frames uh there's
+04:11 
+
+04:11 not really you know we have resistances
+04:13 
+
+04:13 overhead but there's nothing that's
+04:14 
+
+04:14 really downtrending or at least nothing
+04:16 
+
+04:16 that really allows us to assume that we
+04:18 
+
+04:18 would be downtrending so we're bullish
+04:20 
+
+04:20 on every time frame that's the same gist
+04:22 
+
+04:22 here too so that leg upwards we're
+04:24 
+
+04:24 bullish on every time frame we're
+04:25 
+
+04:25 bullish on every time frame so it's very
+04:27 
+
+04:27 straightforward it's it's clear it's not
+04:29 
+
+04:29 you know oh my gosh we're we're sideways
+04:31 
+
+04:31 on this time frame we're downtrending on
+04:33 
+
+04:33 this one we're up trending on this one
+04:34 
+
+04:34 there's not really too much context as
+04:36 
+
+04:36 it is today so we'll get into that it's
+04:38 
+
+04:38 just hey we're going up only right up
+04:40 
+
+04:40 only on every single time frame so
+04:43 
+
+04:43 whenever that's the case the context for
+04:45 
+
+04:45 things is very easy so when you're
+04:48 
+
+04:48 buying the dip along a local Trend you
+04:51 
+
+04:51 are actually buying a dip this is a dip
+04:54 
+
+04:54 that's a that's a dip right this is a 3%
+04:57 
+
+04:57 range and then from that 3% you test
+04:59 
+
+04:59 your hourly 200s you test this support
+05:01 
+
+05:01 level you dip right and then what
+05:04 
+
+05:04 happens you immediately resume the trend
+05:05 
+
+05:05 you get that -1% dip right you wash out
+05:09 
+
+05:09 some of that leverage you retest that
+05:11 
+
+05:11 Trend you retest that support level what
+05:13 
+
+05:13 happens you continue the trend dip dip
+05:16 
+
+05:16 dip right and then the trend breaks
+05:17 
+
+05:17 suddenly you're not buying a dip you are
+05:20 
+
+05:20 now buying a pullback right so that's
+05:23 
+
+05:23 how I'm and it's all semantics uh but
+05:25 
+
+05:25 that's how I'm breaking it down right
+05:27 
+
+05:27 just having a way of making those
+05:29 
+
+05:29 clearcut definitions for what uh we're
+05:32 
+
+05:32 calling things is going to allow you to
+05:34 
+
+05:34 break it down in your head and then
+05:36 
+
+05:36 digest it to your gut so that you
+05:38 
+
+05:38 actually have an idea of what is it that
+05:40 
+
+05:40 I'm actually doing and if you know what
+05:42 
+
+05:42 you're doing then you can skew your
+05:44 
+
+05:44 strategy along you know in tandem with
+05:47 
+
+05:47 that so that should be immediately right
+05:50 
+
+05:50 off the bat providing you more value all
+05:52 
+
+05:52 right so we're going to discuss what a
+05:54 
+
+05:54 dip is now when we lose that local Trend
+05:57 
+
+05:57 portrayal right so we're attaching these
+05:59 
+
+05:59 arbit definitions to my trading system
+06:03 
+
+06:03 we have local Trend we have high time
+06:04 
+
+06:04 frame Trend we have dip pullback right
+06:06 
+
+06:06 that kind of stuff when we lose that
+06:08 
+
+06:08 local Trend those hourly 200s now I'm
+06:10 
+
+06:10 looking for a deeper pull back so that
+06:14 
+
+06:14 is higher time frame retests right
+06:16 
+
+06:16 something like 4H hour 200 moving
+06:17 
+
+06:17 averages so you can see access support
+06:20 
+
+06:20 sometimes on this rally upwards on a
+06:21 
+
+06:21 higher time frame it's also what allowed
+06:23 
+
+06:23 us to see a drastically deeper drop much
+06:27 
+
+06:27 bigger than anything we were able to see
+06:28 
+
+06:28 on this entire you know two months or
+06:30 
+
+06:30 3mon period so losing those 4our 200s
+06:32 
+
+06:32 was pretty significant obviously
+06:34 
+
+06:34 reclaiming those 4our 200s was also
+06:36 
+
+06:36 significant that was the high time frame
+06:38 
+
+06:38 Trend shift so we reclaiming a key Trend
+06:42 
+
+06:42 and obviously if you wanted to create a
+06:44 
+
+06:44 snowman you'd have to build a snow ball
+06:46 
+
+06:46 first so in order to test these 4our
+06:49 
+
+06:49 200s you have to lose that local Trend
+06:53 
+
+06:53 portrayal so once we lose that local
+06:55 
+
+06:55 Trend my immediate assumption is we're
+06:58 
+
+06:58 probably going to retest the higher time
+06:60 
+
+06:60 frame Trend and we do it it works out
+07:02 
+
+07:02 very nicely that time you know it's not
+07:04 
+
+07:04 always that butterflies and rainbows and
+07:06 
+
+07:06 dandelion but when it works it works
+07:08 
+
+07:08 beautifully and man does it feel good so
+07:11 
+
+07:11 I'm allowed to come in and buy this
+07:13 
+
+07:13 pullback right we're testing a higher
+07:15 
+
+07:15 time frame Trend and that is a bottom I
+07:17 
+
+07:17 I refrain from buying the dip here and
+07:20 
+
+07:20 buying the dip there and buying the dip
+07:21 
+
+07:21 there and buying the dip by right I
+07:23 
+
+07:23 refrain from doing that and I only take
+07:26 
+
+07:26 action at what I'm deeming an inflection
+07:28 
+
+07:28 point so all that really means is a
+07:31 
+
+07:31 region where I can scale the assumptions
+07:33 
+
+07:33 to a greater degree on either side so if
+07:36 
+
+07:36 we hold that region then I can assume
+07:39 
+
+07:39 much more bullish arguments on the way
+07:41 
+
+07:41 the same way that I have been for that
+07:43 
+
+07:43 entire rally and if we lose that region
+07:46 
+
+07:46 now all of a sudden we're creating even
+07:48 
+
+07:48 more significant bearish arguments and I
+07:50 
+
+07:50 can start to assume that in the inverse
+07:52 
+
+07:52 direction as well right so it's an
+07:54 
+
+07:54 inflection point it's important region
+07:57 
+
+07:57 regardless of Direction it's probably
+07:59 
+
+07:59 going to allow was to infer the scale
+08:02 
+
+08:02 the the drama of the direction to a
+08:06 
+
+08:06 greater degree than what we previously
+08:07 
+
+08:07 had right so that's the difference
+08:09 
+
+08:09 between something like a pullback and a
+08:11 
+
+08:11 dip now here we get
+08:13 
+
+08:13 into a
+08:15 
+
+08:15 downtrend once we've lost that
+08:17 
+
+08:17 inflection point you're not buying a dip
+08:20 
+
+08:20 anymore and I'm not saying that you're
+08:22 
+
+08:22 not allowed to buy downtrends if that
+08:24 
+
+08:24 were the case then the market wouldn't
+08:25 
+
+08:25 exist right so I need you to be buying
+08:28 
+
+08:28 downtrends actually thank you for
+08:30 
+
+08:30 stepping in front of the trend because
+08:31 
+
+08:31 somebody has to do it so that the trend
+08:33 
+
+08:33 can get reclaimed so that I can come in
+08:35 
+
+08:35 and start trading again but when we
+08:37 
+
+08:37 start downtrending you have to be able
+08:38 
+
+08:38 to recognize hey this time is obviously
+08:42 
+
+08:42 different than all of these times so
+08:45 
+
+08:45 that might mean that the environment is
+08:47 
+
+08:47 a bit
+08:48 
+
+08:48 different so don't go expecting the next
+08:51 
+
+08:51 -2% drop to be immediately retraced the
+08:54 
+
+08:54 same way that it was for a large portion
+08:55 
+
+08:55 of the past two months as we rally 75%
+08:58 
+
+08:58 or so when we get different results
+09:00 
+
+09:00 we're going to expand our thinking for
+09:03 
+
+09:03 different outcomes right so we might be
+09:05 
+
+09:05 able to see even bigger drops breaking
+09:09 
+
+09:09 of support levels right shifts of
+09:10 
+
+09:10 structure drastically deeper pullbacks
+09:14 
+
+09:14 right so that's just it I'm not a buyer
+09:16 
+
+09:16 during downtrends I don't really care to
+09:18 
+
+09:18 be buying you know the dip the dip the
+09:20 
+
+09:20 dip the dip on the way into the support
+09:22 
+
+09:22 level even I go as far as to say I don't
+09:25 
+
+09:25 care to be buying the support level at
+09:27 
+
+09:27 all because that's not my inflection
+09:30 
+
+09:30 point in my head this is just a support
+09:33 
+
+09:33 level the 60k region support is support
+09:36 
+
+09:36 cool you know if you're going to step in
+09:38 
+
+09:38 and try and catch the knife it probably
+09:41 
+
+09:41 makes sense to do that at a support
+09:43 
+
+09:43 level if you're going to take profit on
+09:45 
+
+09:45 your shorts it probably makes sense to
+09:46 
+
+09:46 do that at a support level if you're
+09:48 
+
+09:48 going to dollar cost average into
+09:50 
+
+09:50 Bitcoin over the course of the next 5
+09:52 
+
+09:52 years it probably makes sense to do that
+09:54 
+
+09:54 at a support level but that's not the
+09:57 
+
+09:57 region that I'm really interested in
+09:59 
+
+09:59 don't care to be trading supports I want
+10:02 
+
+10:02 to trade Trends I'm a trend Trader not a
+10:05 
+
+10:05 support level Trader so I'm able to
+10:07 
+
+10:07 catch bottoms quote unquote when we test
+10:10 
+
+10:10 higher time frame Trend portrayals right
+10:12 
+
+10:12 when we test inflection points but I'm
+10:15 
+
+10:15 not catching this bottom let me break it
+10:18 
+
+10:18 down to you there's investor Mercury
+10:19 
+
+10:19 there's Trader Mercury and then there's
+10:21 
+
+10:21 the Gen scalp Trader Mercury so as you
+10:24 
+
+10:24 saw that little femex account for coin
+10:26 
+
+10:26 market manager that was kind of my
+10:28 
+
+10:28 dabble account so I might be taking a
+10:31 
+
+10:31 position here position there but for the
+10:34 
+
+10:34 most part my main account is not really
+10:37 
+
+10:37 interested in these regions I might be
+10:39 
+
+10:39 able to catch a nice scalp I might be
+10:41 
+
+10:41 able to hold a position for a nice
+10:43 
+
+10:43 period of time because we might be
+10:45 
+
+10:45 overextended in the short term but
+10:47 
+
+10:47 that's not where I thrive that's not
+10:49 
+
+10:49 where I make the bulk majority of my
+10:51 
+
+10:51 money in markets so even if I have a
+10:54 
+
+10:54 good trade on that account or that
+10:56 
+
+10:56 approach to the market it's not like I'm
+10:58 
+
+10:58 calling home to Mommy to let her know
+10:60 
+
+10:60 that I caught a bounce right it's just a
+11:02 
+
+11:02 bounce it's it's a support level it is
+11:04 
+
+11:04 what it is in order to test that support
+11:06 
+
+11:06 level we had to break through several
+11:08 
+
+11:08 support levels to get to that one so how
+11:11 
+
+11:11 do I know that this one is any more
+11:13 
+
+11:13 significant than any of the prior ones
+11:15 
+
+11:15 that we broke down to get here in the
+11:16 
+
+11:16 first place and my honest answer is I
+11:20 
+
+11:20 don't so for me I'm able to justify
+11:23 
+
+11:23 looking past this region and I
+11:26 
+
+11:26 understand that when you look at this
+11:27 
+
+11:27 chart you're able to say yeah but
+11:30 
+
+11:30 relatively we're going sideways right so
+11:32 
+
+11:32 this is a range low isn't that shouldn't
+11:34 
+
+11:34 I be buying the range low that's totally
+11:36 
+
+11:36 fine if that's how you see it and that's
+11:37 
+
+11:37 how you want to approach it again thank
+11:39 
+
+11:39 you for trading that way because the
+11:41 
+
+11:41 market would not exist if you agreed
+11:43 
+
+11:43 with my thought to 100% degree but for
+11:46 
+
+11:46 me my Trend style analysis and my Trend
+11:48 
+
+11:48 trading system was applicable since here
+11:51 
+
+11:51 all the way into here the entire way
+11:54 
+
+11:54 through we are at least making higher
+11:55 
+
+11:55 lows on our daily Market structure 4H
+11:58 
+
+11:58 hour 200s are allowing us to to portray
+11:60 
+
+11:60 that idea we never broke that Trend so I
+12:03 
+
+12:03 continue to make that bullish analysis I
+12:05 
+
+12:05 continue to be an uptrend Trader right
+12:08 
+
+12:08 and truthfully a lot of the altcoins in
+12:10 
+
+12:10 the market rewarded me for that way of
+12:13 
+
+12:13 thinking good thing I maintain those
+12:15 
+
+12:15 positions for that extra you know last
+12:17 
+
+12:17 little burst as they made higher highs
+12:20 
+
+12:20 and we'll get into that in a minute so
+12:22 
+
+12:22 once that Trend analysis breaks I don't
+12:24 
+
+12:24 go into a range traders's mindset I only
+12:27 
+
+12:27 do that if the trend gets chopped up
+12:30 
+
+12:30 enough so the way that I'm seeing it I'm
+12:32 
+
+12:32 still allowed to say that this is a
+12:34 
+
+12:34 downtrend because when I assess this
+12:36 
+
+12:36 structure this is a high but that's a
+12:38 
+
+12:38 lower low and this is now a lower high
+12:40 
+
+12:40 so what am I expecting here a lower low
+12:43 
+
+12:43 regardless of the fact that anyone in
+12:45 
+
+12:45 their grandmother can look at this chart
+12:47 
+
+12:47 and say relatively we are headed
+12:49 
+
+12:49 sideways that's totally fine this is
+12:52 
+
+12:52 just not the inflection point that I
+12:54 
+
+12:54 really care about so what is then in
+12:56 
+
+12:56 order to justify buying a downtrend on a
+12:59 
+
+12:59 much higher time time frame I have to
+13:00 
+
+13:00 zoom out to a much higher time frame
+13:03 
+
+13:03 than that one so this is what I'm going
+13:04 
+
+13:04 to call a very high time frame
+13:07 
+
+13:07 inflection point so that would be for me
+13:10 
+
+13:10 200 daily moving averages along with
+13:12 
+
+13:12 this 52k demand zone so if and when we
+13:15 
+
+13:15 get to this region I'm totally fine with
+13:18 
+
+13:18 stepping in front of the Train the
+13:20 
+
+13:20 downtrend on that time frame because I'm
+13:22 
+
+13:22 able to recognize when I zoom out to a
+13:25 
+
+13:25 drastically higher time frame we're
+13:27 
+
+13:27 still uptrending so this analysis is
+13:30 
+
+13:30 largely the foundation to any analysis
+13:34 
+
+13:34 underneath it right anything underneath
+13:36 
+
+13:36 it is going to be more detailed and
+13:38 
+
+13:38 obviously more actionable I can still
+13:40 
+
+13:40 navigate you know 70% movements or
+13:43 
+
+13:43 negative 30% drops that kind of stuff
+13:45 
+
+13:45 but this is the environment that we're
+13:47 
+
+13:47 in so I'm allowed to say we're still in
+13:49 
+
+13:49 a bull market it's just that I don't
+13:51 
+
+13:51 really care that we're still in a bull
+13:53 
+
+13:53 market because we have upon High time
+13:55 
+
+13:55 frame Trend loss and into high time
+13:58 
+
+13:58 frame Trend retest is negative - 25% Gap
+14:02 
+
+14:02 and some of you might say oh that's
+14:03 
+
+14:03 nothing you know you're a battle Harden
+14:05 
+
+14:05 veteran you've been in crypto for a long
+14:07 
+
+14:07 time negative 25% is not a big deal and
+14:10 
+
+14:10 actually I would even agree but when
+14:12 
+
+14:12 you're trading altcoins a lot of these
+14:14 
+
+14:14 altcoins are already down 50% if BTC
+14:18 
+
+14:18 pulls back to 52k which per my analysis
+14:21 
+
+14:21 is not that unfathomable then those
+14:24 
+
+14:24 altcoins are going to get absolutely
+14:26 
+
+14:26 destroyed at least from their recent
+14:28 
+
+14:28 highs that's not fun I definitely want
+14:30 
+
+14:30 to mitigate 50% 70% draw Downs if
+14:35 
+
+14:35 possible obviously so this kind of
+14:38 
+
+14:38 method and way of thinking segregating
+14:40 
+
+14:40 time frames and calling dips dips
+14:42 
+
+14:42 because they're on a lower time frame
+14:44 
+
+14:44 and I can portray it that way and then
+14:46 
+
+14:46 having you know an arbitrary definition
+14:48 
+
+14:48 for a pullback something that is only
+14:50 
+
+14:50 visible on a higher time frame and then
+14:53 
+
+14:53 knowing when it's time to take that bet
+14:55 
+
+14:55 and step in front of that train on a
+14:57 
+
+14:57 higher time frame at a very high time
+14:59 
+
+14:59 time frame inflection point that's how
+15:01 
+
+15:01 I'm going to go about buying bottoms
+15:04 
+
+15:04 right in a bare Market though I'm not
+15:07 
+
+15:07 really a bottom buyer for a lot of this
+15:09 
+
+15:09 downtrend even this bounce I'm just
+15:11 
+
+15:11 chilling on the sideline I don't have
+15:13 
+
+15:13 any fomo I don't have any fear of oh my
+15:16 
+
+15:16 gosh what if the rally you know kick
+15:18 
+
+15:18 starts without me and that was it I
+15:19 
+
+15:19 don't have that it doesn't exist because
+15:22 
+
+15:22 the same methodology that allows me to
+15:24 
+
+15:24 adapt to the new trend in the market
+15:27 
+
+15:27 here is the same methodology that's
+15:29 
+
+15:29 paying off here and here too even after
+15:32 
+
+15:32 we bounce 25% from the low so it's not
+15:36 
+
+15:36 really the end of the world that there's
+15:38 
+
+15:38 no urgency there's no desperation to
+15:41 
+
+15:41 make it in that 25% bounce truthfully if
+15:44 
+
+15:44 you want me to be honest with you I know
+15:46 
+
+15:46 lots of bottom buyers I know lots of
+15:48 
+
+15:48 them every single time that the market
+15:51 
+
+15:51 bottoms there are a million and a half
+15:53 
+
+15:53 people buying that bottom so the bare
+15:55 
+
+15:55 Market lows back here are a great
+15:57 
+
+15:57 example I know a lot of people who
+15:59 
+
+15:59 bought the capitulation had an entry
+16:02 
+
+16:02 point on bitcoin with a 15 handle right
+16:05 
+
+16:05 they bought $15,000 Bitcoin more or less
+16:07 
+
+16:07 somewhere in that region I know so many
+16:10 
+
+16:10 people who bought those lows however I
+16:13 
+
+16:13 don't know many people that managed to
+16:16 
+
+16:16 actually hold that position for the span
+16:18 
+
+16:18 of two months as we chopped sideways in
+16:21 
+
+16:21 a 10% range so that is to say that
+16:24 
+
+16:24 Bottom Buying is mostly a fruitless
+16:27 
+
+16:27 labor at least the way that I Pur
+16:29 
+
+16:29 receive it the only way that I could
+16:31 
+
+16:31 really imagine it being fruitful for
+16:33 
+
+16:33 anybody is if you already have 10 plus
+16:36 
+
+16:36 years of experience in markets and in
+16:39 
+
+16:39 trading and you're able to say that your
+16:41 
+
+16:41 thoughts actually are alpha you can look
+16:44 
+
+16:44 at what the market is doing and say you
+16:45 
+
+16:45 know what I think this is a bit OV
+16:47 
+
+16:47 exaggerated I'm going to start to dabble
+16:49 
+
+16:49 and probe against the trend so now
+16:51 
+
+16:51 you're getting into George Soros quotes
+16:54 
+
+16:54 right probe against the trend if I
+16:55 
+
+16:55 believe it's been played out to excess
+16:57 
+
+16:57 that kind of stuff that's not anything
+16:59 
+
+16:59 that need to worry about right now
+17:00 
+
+17:00 because again we're still in a bull
+17:02 
+
+17:02 market so any High time frame bottom I
+17:04 
+
+17:04 would imagine would be put in around the
+17:07 
+
+17:07 high time frame inflection point so
+17:09 
+
+17:09 maybe you could argue 60k support level
+17:11 
+
+17:11 as a range low or 200 da something along
+17:14 
+
+17:14 those lines you can see even back here
+17:16 
+
+17:16 when we lost the 200 daily moving
+17:17 
+
+17:17 averages we held this range low right
+17:20 
+
+17:20 which is a previous Range High and then
+17:22 
+
+17:22 we immediately reclaimed that Trend
+17:24 
+
+17:24 right along with 4our 200 moving
+17:26 
+
+17:26 averages and we shift the trend right
+17:28 
+
+17:28 back bullishly we get that momentum
+17:29 
+
+17:29 swing into the upside direction again so
+17:32 
+
+17:32 that's pretty much the gist just know
+17:34 
+
+17:34 what you're doing if you're going to be
+17:36 
+
+17:36 doing something if you are going to be
+17:38 
+
+17:38 buying 60k or if you're going to be
+17:40 
+
+17:40 trying to catch a knife on salana or
+17:42 
+
+17:42 whatever it may be at least acknowledge
+17:45 
+
+17:45 that you are catching a knife the worst
+17:47 
+
+17:47 thing honestly is not whether or not
+17:49 
+
+17:49 you're stepping in front of the train
+17:51 
+
+17:51 it's whether or not you know what you're
+17:53 
+
+17:53 doing a lot of people are delusional in
+17:56 
+
+17:56 markets and convince themselves that oh
+17:58 
+
+17:58 no we're still still in the bull market
+18:01 
+
+18:01 so I'm going to buy the dip here even
+18:03 
+
+18:03 though the idea that they're still in a
+18:05 
+
+18:05 bull market doesn't get invalidated for
+18:07 
+
+18:07 another negative 20% lower so you're not
+18:10 
+
+18:10 actually playing into that idea because
+18:12 
+
+18:12 that context isn't very relevant at that
+18:15 
+
+18:15 time A lot can happen in between that -
+18:18 
+
+18:18 20% or so right and again I'm just
+18:19 
+
+18:19 throwing numbers out there but people
+18:21 
+
+18:21 convince themselves that oh this is what
+18:23 
+
+18:23 I'm doing because this is what's
+18:24 
+
+18:24 happening on a higher time frame that
+18:27 
+
+18:27 might be true but that's not what's
+18:28 
+
+18:28 relevant to you on that 5 minute
+18:31 
+
+18:31 Candlestick as you're buying that
+18:33 
+
+18:33 downtrend so you have to know am I
+18:35 
+
+18:35 buying a dip am I buying a pullback am I
+18:37 
+
+18:37 buying a downtrend and I would imagine
+18:39 
+
+18:39 if you're able to objectively Define
+18:42 
+
+18:42 what it is that you're doing you would
+18:44 
+
+18:44 probably skew your approach to doing
+18:48 
+
+18:48 that execution that button press you
+18:50 
+
+18:50 would skew it differently right so
+18:52 
+
+18:52 something simple like hey I'm just going
+18:54 
+
+18:54 to go in with small size something that
+18:56 
+
+18:56 simple right or oh I'm going to ladder
+18:58 
+
+18:58 bids in this room
+18:59 
+
+18:59 whatever it may be whatever your
+19:01 
+
+19:01 approach is but I would imagine if you
+19:03 
+
+19:03 know that you're stepping in front of a
+19:05 
+
+19:05 train you would approach as though you
+19:08 
+
+19:08 are aware you're stepping in front of a
+19:09 
+
+19:09 train that's the only thing that makes
+19:11 
+
+19:11 sense right so this is the gist on the
+19:13 
+
+19:13 Bitcoin time frame and that's my
+19:15 
+
+19:15 analysis more or less really quick let
+19:17 
+
+19:17 me just give you another example
+19:19 
+
+19:19 something that honestly gets the idea
+19:20 
+
+19:20 across a lot better and that would be
+19:22 
+
+19:22 something like salana so for a long
+19:24 
+
+19:24 period here salana is uptrending along
+19:26 
+
+19:26 4H hour 200 moving averages and also
+19:28 
+
+19:28 finding higher highs and higher lows in
+19:30 
+
+19:30 the daily Market structure So eventually
+19:32 
+
+19:32 we lose those 4H hour 200s we put in a
+19:35 
+
+19:35 lower high we then follow through with a
+19:37 
+
+19:37 lower low so if we extrapolate this yep
+19:41 
+
+19:41 that's a downtrend and that's the first
+19:43 
+
+19:43 time that we've seen that in an entire
+19:45 
+
+19:45 2month long rally after
+19:48 
+
+19:48 rallying 120% upon the reclaim that's
+19:52 
+
+19:52 not even from the actual bottom itself
+19:55 
+
+19:55 so immediately when I see that weakness
+19:57 
+
+19:57 come into the market where also losing
+19:59 
+
+19:59 these range lows I forgot to mention
+20:01 
+
+20:01 that too but when I see that weakness
+20:03 
+
+20:03 come into the market it is obviously a
+20:05 
+
+20:05 much greater scale because that's when
+20:07 
+
+20:07 we're putting in that lower low in the
+20:08 
+
+20:08 daily we have not done that this entire
+20:10 
+
+20:10 rally upwards we've not traded below the
+20:12 
+
+20:12 4our 200s obviously if you're only
+20:15 
+
+20:15 zoomed in on this one month area and we
+20:17 
+
+20:17 have not broken down below these range
+20:19 
+
+20:19 lows so immediately upon doing that I'm
+20:22 
+
+20:22 allowed to zoom out I'm not really
+20:25 
+
+20:25 buying a dip anymore on salana I'm
+20:27 
+
+20:27 buying a downtrend if I decide to step
+20:30 
+
+20:30 in front of the train I'm not buying a
+20:32 
+
+20:32 dip right and if I buy this support
+20:34 
+
+20:34 level I might be buying a support level
+20:37 
+
+20:37 but there's also a support level here
+20:38 
+
+20:38 too and there's probably one here too so
+20:41 
+
+20:41 you have to be aware that that's exactly
+20:43 
+
+20:43 what you're doing you're buying a
+20:44 
+
+20:44 support because it's support but you're
+20:46 
+
+20:46 not buying an uptrend you're not buying
+20:48 
+
+20:48 the dip the time to buy dips is when
+20:50 
+
+20:50 we're uptrending along a very low time
+20:53 
+
+20:53 frame Trend and it looks something along
+20:55 
+
+20:55 those lines that's a dip that's a dip
+20:57 
+
+20:57 those are only visible on something like
+20:59 
+
+20:59 the 15minute time frame that's the only
+21:02 
+
+21:02 period of which you can actually see
+21:04 
+
+21:04 these little tiny pullbacks before
+21:07 
+
+21:07 moving 15 20% higher so those are dips
+21:11 
+
+21:11 losing that Trend would probably allow
+21:13 
+
+21:13 for a deeper pull back into your higher
+21:16 
+
+21:16 time frame Trend losing the high time
+21:18 
+
+21:18 frame Trend constitutes us calling that
+21:21 
+
+21:21 a downtrend now so now we're giving
+21:23 
+
+21:23 ourselves context to work with when we
+21:26 
+
+21:26 Zoom back out to a higher time frame we
+21:29 
+
+21:29 can determine an inflection point for
+21:31 
+
+21:31 salana something that has been
+21:33 
+
+21:33 historically relevant for Solana's
+21:35 
+
+21:35 entire
+21:36 
+
+21:36 existence and that region would be these
+21:39 
+
+21:39 200 daily moving averages along with we
+21:41 
+
+21:41 even have Confluence in a support level
+21:43 
+
+21:43 around
+21:44 
+
+21:44 $110 so if salana gets to this $110 $100
+21:49 
+
+21:49 region I can tell myself yeah I'm buying
+21:51 
+
+21:51 a downtrend on this time frame but I'm
+21:54 
+
+21:54 still buying into an uptrending asset on
+21:58 
+
+21:58 this time frame and I'm buying the
+21:59 
+
+21:59 inflection point either salana holds
+22:02 
+
+22:02 this region and we can resume the bull
+22:04 
+
+22:04 market Rally or if we lose this region o
+22:09 
+
+22:09 That's not looking too great and I can
+22:11 
+
+22:11 continuously scale along with the time
+22:14 
+
+22:14 frame itself and I can give myself a
+22:16 
+
+22:16 very objective analysis to e and flow
+22:19 
+
+22:19 with at any given time now I know a lot
+22:22 
+
+22:22 of you going to ask hey but what if we
+22:25 
+
+22:25 never get to that region what if we
+22:27 
+
+22:27 front run your bids what if right and
+22:29 
+
+22:29 that's totally fine and to that I say if
+22:32 
+
+22:32 you ever wanted to Build a Snowman and
+22:35 
+
+22:35 you wanted to see salana go to a $1,000
+22:37 
+
+22:37 and be the ethereum killer or whatever
+22:39 
+
+22:39 you want what do you have to do first
+22:42 
+
+22:42 well you have to put in a higher high in
+22:45 
+
+22:45 the daily in order to put in a higher
+22:47 
+
+22:47 high in the daily you have to reclaim
+22:49 
+
+22:49 your 4our 200 moving averages so that
+22:52 
+
+22:52 would probably look something along
+22:54 
+
+22:54 these lines in order to reclaim your
+22:56 
+
+22:56 4our 200 moving averages you have have
+22:59 
+
+22:59 to reclaim your local Trend your hourly
+23:02 
+
+23:02 200 moving averages in order to reclaim
+23:04 
+
+23:04 your hourly 200 moving averages you have
+23:07 
+
+23:07 to reclaim and we continue that analysis
+23:11 
+
+23:11 we keep it going as long as it's
+23:13 
+
+23:13 applicable we can scale it to whatever
+23:15 
+
+23:15 degree that you're comfortable trading
+23:17 
+
+23:17 we can e and flow along with markets
+23:19 
+
+23:19 rather than be reliant on something on a
+23:23 
+
+23:23 much greater time frame and then be very
+23:26 
+
+23:26 unpleasantly surprised when a bottom is
+23:28 
+
+23:28 not found on that time frame what that
+23:31 
+
+23:31 does is you're inviting in actionable
+23:33 
+
+23:33 analysis you're allowing yourself to be
+23:36 
+
+23:36 paralyzed by the market you're being
+23:37 
+
+23:37 reliant on the idea and the fact that
+23:41 
+
+23:41 we're still in a bull market and if you
+23:42 
+
+23:42 zoom out on a much higher time frame we
+23:44 
+
+23:44 can portray that idea we're still
+23:46 
+
+23:46 holding higher lows in the weekly stuff
+23:48 
+
+23:48 like that but you are relying on that to
+23:51 
+
+23:51 be the case and if it isn't you are
+23:53 
+
+23:53 going to get absolutely destroyed that
+23:55 
+
+23:55 is an inevitability and I was saying
+23:58 
+
+23:58 that at these lows for every bull market
+24:00 
+
+24:00 there's a bare market for every bare
+24:02 
+
+24:02 Market there's a bull market at the lows
+24:04 
+
+24:04 I was saying human greed still exists we
+24:06 
+
+24:06 have to remind ourselves of that it's
+24:07 
+
+24:07 not like just because price went lower
+24:10 
+
+24:10 that nobody's going to want to play the
+24:11 
+
+24:11 game anymore and it's the same thing now
+24:14 
+
+24:14 just inverse now everybody wants to play
+24:16 
+
+24:16 the game we're really in the era of
+24:18 
+
+24:18 greed and Euphoria we have to remind
+24:21 
+
+24:21 ourselves that fear didn't just go away
+24:23 
+
+24:23 eventually we will enter a bare Market
+24:26 
+
+24:26 you have to have an actionable way
+24:29 
+
+24:29 approaching the market so that you're
+24:30 
+
+24:30 not reliant on drastically higher time
+24:33 
+
+24:33 frames to be maintained in order to
+24:36 
+
+24:36 succeed otherwise you're basically an
+24:39 
+
+24:39 investor and you're just convincing
+24:40 
+
+24:40 yourself that you're a Trader and if
+24:42 
+
+24:42 that's the case you're constantly going
+24:44 
+
+24:44 to be in the state of limbo where every
+24:46 
+
+24:46 time the market goes up you're a shitty
+24:48 
+
+24:48 investor that isn't invested enough and
+24:51 
+
+24:51 every time the market goes down you're a
+24:53 
+
+24:53 shitty Trader because you didn't hedge
+24:55 
+
+24:55 enough and that's not really a good way
+24:56 
+
+24:56 to live that invites a lot of paranoia
+24:58 
+
+24:58 and anxiety and I've been there before
+25:00 
+
+25:00 and it's really honestly just very
+25:03 
+
+25:03 torturous so this is my methodology of
+25:05 
+
+25:05 trying to find bottoms and how I dictate
+25:08 
+
+25:08 what is a pullback what's a downtrend
+25:10 
+
+25:10 how can I look for much higher time
+25:12 
+
+25:12 frame bottoms and how can I give myself
+25:15 
+
+25:15 some kind of comfort and relief in the
+25:16 
+
+25:16 meantime just in case we never even get
+25:18 
+
+25:18 to those regions in the first place so I
+25:20 
+
+25:20 really hope you guys found this video
+25:22 
+
+25:22 informative just so you know I am doing
+25:24 
+
+25:24 a bybit giveaway and I will be giving
+25:26 
+
+25:26 away an iPhone 15 and all all you have
+25:29 
+
+25:29 to do is submit the Google form that's
+25:30 
+
+25:30 in the description below additionally if
+25:32 
+
+25:32 you are on my bit or my fex referral
+25:36 
+
+25:36 links you will get access to my private
+25:38 
+
+25:38 Discord and in that private Discord we
+25:40 
+
+25:40 host live streams three times a week
+25:42 
+
+25:42 those live streams usually drag on for
+25:44 
+
+25:44 two or three hours by the way so there's
+25:47 
+
+25:47 tons of content for you to study from I
+25:50 
+
+25:50 also post my trade ideas in those
+25:52 
+
+25:52 channels and I talk about my top picks
+25:54 
+
+25:54 in the altcoin market every single week
+25:56 
+
+25:56 so if you are interested in joining that
+25:58 
+
+25:58 private Discord all you have to do is
+25:60 
+
+25:60 register and trade on the bybit or fex
+26:03 
+
+26:03 referral links also in the description
+26:05 
+
+26:05 below I hope you enjoyed the video much
+26:07 
+
+26:07 love and take it easy

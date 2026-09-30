@@ -1,0 +1,2617 @@
+00:00 all right what is going on guys so today
+00:02 
+
+00:02 we're going to be going in depth on my
+00:03 
+
+00:03 trading system and how I navigate all
+00:06 
+
+00:06 markets but more specifically the crypto
+00:08 
+
+00:08 market and I know that I made a video
+00:09 
+
+00:09 covering this before but there were some
+00:11 
+
+00:11 things that I kind of wish that I
+00:13 
+
+00:13 clarified went a bit more in detail on
+00:15 
+
+00:15 so I'm going to try and make a better
+00:17 
+
+00:17 version this time around so to start off
+00:19 
+
+00:19 very quickly my system consists of three
+00:22 
+
+00:22 moving parts we have Market structure
+00:24 
+
+00:24 there's moving averages and then there's
+00:25 
+
+00:25 support and resistance it's very simple
+00:28 
+
+00:28 there's no o beneath the surface he's
+00:30 
+
+00:30 actually lowkey using open interest and
+00:32 
+
+00:32 RSI and this and that no no no
+00:34 
+
+00:34 everything that I'm showing you is
+00:35 
+
+00:35 exactly what I use it's that Bare Bones
+00:37 
+
+00:37 it's that simplified what you're going
+00:39 
+
+00:39 to come to terms with and realize is
+00:41 
+
+00:41 that even with a system that is simple
+00:44 
+
+00:44 and a technical analysis a way of making
+00:47 
+
+00:47 an analysis on markets that's incredibly
+00:49 
+
+00:49 simplified markets themselves are
+00:52 
+
+00:52 incredibly convoluted they're very
+00:54 
+
+00:54 complicated so there's a lot of thinking
+00:56 
+
+00:56 that goes into it what you don't realize
+00:59 
+
+00:59 is that technical analysis tends to be
+01:01 
+
+01:01 the least meaningful part of approaching
+01:04 
+
+01:04 markets because what actually matters is
+01:07 
+
+01:07 the discipline the execution the
+01:09 
+
+01:09 psychology managing emotions how your
+01:12 
+
+01:12 discretionary opinions are are swaying
+01:14 
+
+01:14 you is this a breakdown below the moving
+01:16 
+
+01:16 averages or is it still a bullish retest
+01:18 
+
+01:18 that kind of thing so that's going to be
+01:21 
+
+01:21 where your emphasis should reside but
+01:24 
+
+01:24 granted you need somewhere to start from
+01:27 
+
+01:27 right so you have to start using
+01:29 
+
+01:29 something to to break down and be able
+01:31 
+
+01:31 to justify to your gut make it more
+01:34 
+
+01:34 digestible to your gut so that your
+01:36 
+
+01:36 brain can execute off of your gut
+01:38 
+
+01:38 instincts and what you're thinking and
+01:39 
+
+01:39 how you want to approach markets and
+01:41 
+
+01:41 then you have a more tangible way of
+01:42 
+
+01:42 breaking down that information and
+01:44 
+
+01:44 understanding it so you have a bit more
+01:46 
+
+01:46 conviction and are able to adhere to
+01:48 
+
+01:48 that way of thinking and to that
+01:50 
+
+01:50 execution and to those justifications
+01:52 
+
+01:52 thereafter in your execution so that's
+01:55 
+
+01:55 kind of the premise right all of these
+01:57 
+
+01:57 things Market structure moving averages
+01:58 
+
+01:58 support and resistance that is going to
+02:00 
+
+02:00 account for maybe five maybe at most 10%
+02:04 
+
+02:04 of what it means to actually be a winner
+02:06 
+
+02:06 in markets the other 90% really is a lot
+02:10 
+
+02:10 of the psychology it's a lot more mental
+02:12 
+
+02:12 than it is tangible and quantifiable but
+02:15 
+
+02:15 regardless let's quickly cover all three
+02:18 
+
+02:18 topics in their own regard and then I'll
+02:19 
+
+02:19 answer some basic questions that I tend
+02:21 
+
+02:21 to get and I'll wrap everything up
+02:23 
+
+02:23 together and give you actual examples of
+02:25 
+
+02:25 how I'm applying this system in real
+02:26 
+
+02:26 time so Market structure what is market
+02:29 
+
+02:29 structure I do have a video on this
+02:30 
+
+02:30 actually it was the first YouTube video
+02:32 
+
+02:32 I've ever created was talking about
+02:34 
+
+02:34 Market structure because it is that
+02:35 
+
+02:35 important and the title of that video is
+02:37 
+
+02:37 called something along the lines of stop
+02:39 
+
+02:39 trading until you understand this in
+02:41 
+
+02:41 order to understand Market structure you
+02:42 
+
+02:42 really just have to have the
+02:43 
+
+02:43 comprehensive ability of a four-year-old
+02:45 
+
+02:45 so all that means is you have to be able
+02:47 
+
+02:47 to tell me which way is the chart headed
+02:49 
+
+02:49 and then we can break down exactly why
+02:52 
+
+02:52 or how is the chart heading in that
+02:54 
+
+02:54 direction from a more technical
+02:56 
+
+02:56 standpoint so even a four-year-old knows
+02:58 
+
+02:58 that this chart when I Circle this
+03:00 
+
+03:00 portion out is headed sideways right
+03:03 
+
+03:03 when we interpret our Market structure
+03:06 
+
+03:06 we can see that this high is lower than
+03:09 
+
+03:09 that high but this low is higher than
+03:13 
+
+03:13 that low so when we combine all those
+03:15 
+
+03:15 things we interpret the market structure
+03:16 
+
+03:16 the squiggly boxes right the squiggly
+03:18 
+
+03:18 lines that I'm drawing we can portray
+03:20 
+
+03:20 that idea using a trend line now granted
+03:22 
+
+03:22 I do not trade trend lines but it's a
+03:25 
+
+03:25 portrayal it's showing you a more
+03:27 
+
+03:27 tangible way of visualizing the market
+03:30 
+
+03:30 structure that I've already identified
+03:33 
+
+03:33 so this is going to be a key concept
+03:34 
+
+03:34 right we can tell within 4 seconds of
+03:36 
+
+03:36 looking at the chart that this chart is
+03:38 
+
+03:38 headed sideways we have now defined that
+03:40 
+
+03:40 because we are clearly making lower
+03:43 
+
+03:43 Highs but we're also making higher lows
+03:45 
+
+03:45 so we're consolidating right if we
+03:48 
+
+03:48 instead were forming an
+03:52 
+
+03:52 uptrend so even a four-year-old knows
+03:54 
+
+03:54 that this chart is headed to the top
+03:55 
+
+03:55 right corner then we would instead be
+03:57 
+
+03:57 making high low higher high High higher
+04:01 
+
+04:01 low higher high higher low right we can
+04:04 
+
+04:04 see that that is an uptrend If instead
+04:07 
+
+04:07 we were making a
+04:08 
+
+04:08 downtrend high low lower high lower low
+04:12 
+
+04:12 lower high lower low would' be
+04:14 
+
+04:14 downtrending you can tell that within
+04:16 
+
+04:16 four seconds of looking at the chart If
+04:18 
+
+04:18 instead we are not downtrending we are
+04:21 
+
+04:21 not uptrending we are not consolidating
+04:23 
+
+04:23 we are finding relatively equal highs
+04:26 
+
+04:26 and relatively equal
+04:29 
+
+04:29 lows that is sideways once again so it's
+04:33 
+
+04:33 not consolidation but it is a form of
+04:34 
+
+04:34 sideways we just call that a range so
+04:36 
+
+04:36 relatively equal highs relatively equal
+04:38 
+
+04:38 lows now you know every single Market
+04:42 
+
+04:42 environment that can ever possibly exist
+04:44 
+
+04:44 there's only ever those one of four
+04:47 
+
+04:47 things that a chart could ever possibly
+04:49 
+
+04:49 do right and then when you break that
+04:51 
+
+04:51 down even further so you break out of a
+04:54 
+
+04:54 range or eventually consolidation has to
+04:56 
+
+04:56 consolidate right we come to a climax
+04:58 
+
+04:58 and you can't just keep going sideways
+04:59 
+
+04:59 forever
+05:00 
+
+05:00 right you have to break up or down
+05:03 
+
+05:03 eventually so to sum it up markets can
+05:06 
+
+05:06 only ever do one of four things go up go
+05:09 
+
+05:09 down go sideways in the form of a range
+05:10 
+
+05:10 or go sideways in the form of
+05:12 
+
+05:12 consolidation and out of those four
+05:14 
+
+05:14 things really you have to either go up
+05:16 
+
+05:16 or go down so it's almost as though
+05:18 
+
+05:18 Market's going only either go up or go
+05:20 
+
+05:20 down wow thank you so much mercury for
+05:21 
+
+05:21 this amazing Alpha what do I tip you the
+05:23 
+
+05:23 three Bitcoin that I owe you for
+05:24 
+
+05:24 dropping all this knowledge on my head
+05:26 
+
+05:26 exactly so we dumb it down right it's
+05:28 
+
+05:28 simple we understand the market
+05:30 
+
+05:30 structure so we have the ability to
+05:32 
+
+05:32 identify at very quickly can identify
+05:36 
+
+05:36 what is happening in the Market at any
+05:37 
+
+05:37 given time and we have the more
+05:40 
+
+05:40 technical way of being able to give a
+05:42 
+
+05:42 definitive kind of interpretation of
+05:45 
+
+05:45 what is exactly happening and how is it
+05:47 
+
+05:47 happening so we're finding higher lows
+05:49 
+
+05:49 that is higher than that low we're
+05:51 
+
+05:51 finding a lower high that's lower than
+05:53 
+
+05:53 that high that kind of thing now let's
+05:55 
+
+05:55 move on so that was pretty bare bone
+05:57 
+
+05:57 simple right uh now let's add some more
+05:60 
+
+05:60 depth to it so now we have moving
+06:02 
+
+06:02 averages so these moving averages I like
+06:04 
+
+06:04 to use 200 Ma and 200 EMA and by the way
+06:08 
+
+06:08 I'm going to coin these three things as
+06:10 
+
+06:10 the Mercury system so I've been in the
+06:13 
+
+06:13 space for a very long time now and I've
+06:14 
+
+06:14 been an educator for probably the past I
+06:17 
+
+06:17 don't know three or four years now uh
+06:19 
+
+06:19 there is a lot of people who have
+06:20 
+
+06:20 learned from me I'm very humbled by that
+06:22 
+
+06:22 fact they have now taken on my system
+06:24 
+
+06:24 and maybe even become influencers of
+06:26 
+
+06:26 their own in their own regard some of
+06:28 
+
+06:28 which have started creating YouTube
+06:29 
+
+06:29 videos as well totally fine I wish them
+06:31 
+
+06:31 nothing but the very best but they use
+06:33 
+
+06:33 my system prior to me I've never seen
+06:36 
+
+06:36 anybody that uses 200 Ma and 200 EMA so
+06:40 
+
+06:40 I get this question a lot Mercury why do
+06:42 
+
+06:42 you use both and the answer is because
+06:45 
+
+06:45 once upon a time when I was trying to
+06:47 
+
+06:47 find my own way of thinking and wanted
+06:49 
+
+06:49 to develop my own strategy to approach
+06:51 
+
+06:51 markets with at some point I had every
+06:54 
+
+06:54 single moving average turned on on my
+06:56 
+
+06:56 chart and now granted shout out Pierre
+06:59 
+
+06:59 I'm not Pierre uh I can't look at this
+07:02 
+
+07:02 chart and tell you what's happening so I
+07:03 
+
+07:03 can't just look at one time frame and
+07:05 
+
+07:05 then give you a breakdown of every
+07:07 
+
+07:07 single possible outcome that that
+07:09 
+
+07:09 Bitcoin can do oh it has to reclaim the
+07:11 
+
+07:11 21 EMA but then it has to break out of
+07:12 
+
+07:12 the 55 but then it has to yeah yeah I
+07:15 
+
+07:15 can't do that so now you've lost me now
+07:17 
+
+07:17 this is starting to become uh very
+07:19 
+
+07:19 complicated I cannot fathom what's
+07:21 
+
+07:21 happening I can't comprehend what's
+07:23 
+
+07:23 happening uh because I can't even really
+07:25 
+
+07:25 see what's happening so I wanted to dumb
+07:27 
+
+07:27 it down I I wanted to keep it incredibly
+07:30 
+
+07:30 simple so I started to ask people do you
+07:32 
+
+07:32 use 200 ma or do you use 200 EMA so it
+07:35 
+
+07:35 happened to be that some people
+07:37 
+
+07:37 preferred 200 Ma and some people
+07:39 
+
+07:39 preferred 200 EMA every single person
+07:42 
+
+07:42 that I was asking I respected deeply and
+07:44 
+
+07:44 admired as a traitor but I was getting
+07:47 
+
+07:47 different answers it was kind of 5050
+07:49 
+
+07:49 someone would tell me this and then
+07:50 
+
+07:50 someone would totally contradict what
+07:51 
+
+07:51 the last person just told me and I had
+07:53 
+
+07:53 to continue going through that over and
+07:55 
+
+07:55 over and over again So eventually I came
+07:56 
+
+07:56 to the conclusion that you know what I'm
+07:58 
+
+07:58 just going to turn both of them on for
+07:60 
+
+07:60 my chart and I'm going to see I'm going
+08:01 
+
+08:01 to test through forward testing which
+08:03 
+
+08:03 one do I like better which one uh is
+08:06 
+
+08:06 giving me a more efficient kind of way
+08:08 
+
+08:08 of navigating this market and what I
+08:09 
+
+08:09 found over time was that I actually like
+08:13 
+
+08:13 having both of them turned on for the
+08:14 
+
+08:14 chart because then it's portraying more
+08:17 
+
+08:17 of a general kind of cloud if you want
+08:20 
+
+08:20 to view it as such and I know a lot of
+08:22 
+
+08:22 people have even gone into Pine script
+08:24 
+
+08:24 very basic kind of coding and made an
+08:27 
+
+08:27 actual cloud between the two to give
+08:29 
+
+08:29 them a better Visual and feel for that
+08:32 
+
+08:32 kind of way of thinking but granted I've
+08:34 
+
+08:34 been using this system for four or five
+08:36 
+
+08:36 years now I don't really need an actual
+08:38 
+
+08:38 Cloud to go along with it I get the gist
+08:40 
+
+08:40 right I've mastered my own system at
+08:42 
+
+08:42 this point I would hope so that's just
+08:43 
+
+08:43 it I view it as a general kind of a
+08:45 
+
+08:45 region as opposed to when I only have
+08:48 
+
+08:48 one of them turned on my brain kind of
+08:50 
+
+08:50 wants to magnetize to that line as a
+08:54 
+
+08:54 Pico bottom or a Pico top indicator now
+08:57 
+
+08:57 that's not exactly how I'm looking to
+08:59 
+
+08:59 use these please remember and this is
+09:01 
+
+09:01 very key and it's a question that I get
+09:03 
+
+09:03 very frequently these moving averages
+09:06 
+
+09:06 never ever ever tell me something that I
+09:10 
+
+09:10 do not already know that's key let's
+09:13 
+
+09:13 hold on to that they never tell me
+09:15 
+
+09:15 something I don't already understand
+09:17 
+
+09:17 okay the moving averages themselves they
+09:20 
+
+09:20 do not provide new information where I
+09:23 
+
+09:23 was lacking prior they give me a better
+09:26 
+
+09:26 visualization to the information of
+09:28 
+
+09:28 which I already
+09:30 
+
+09:30 understood okay so I just told you that
+09:33 
+
+09:33 if we turn these off the market
+09:35 
+
+09:35 structure is this is a high that's a
+09:38 
+
+09:38 lower high this is a higher low this is
+09:40 
+
+09:40 a higher low when we turn the moving
+09:42 
+
+09:42 averages on the only thing that I'm
+09:44 
+
+09:44 allowed to say that's different is that
+09:47 
+
+09:47 we are finding these higher lows along
+09:49 
+
+09:49 the 200 moving averages on the 4H hour
+09:52 
+
+09:52 time frame that's it that is about as
+09:55 
+
+09:55 far as that goes they do not tell me
+09:57 
+
+09:57 something I didn't already understand
+09:59 
+
+09:59 here's where this gets exacerbated you
+10:01 
+
+10:01 zoom in to lower time frames hourly 200s
+10:04 
+
+10:04 are portraying a very nice local Trend
+10:07 
+
+10:07 so for all of this rally upwards 75%
+10:09 
+
+10:09 move the course of like 6 weeks or so
+10:11 
+
+10:11 we're using hourly 200s as a way of
+10:13 
+
+10:13 portraying the idea that on all time
+10:16 
+
+10:16 frames we are essentially headed to the
+10:18 
+
+10:18 top right corner when we lose those
+10:19 
+
+10:19 hourly 200s I can then have a more
+10:22 
+
+10:22 tangible way of being able to
+10:24 
+
+10:24 definitively say we're not doing the
+10:26 
+
+10:26 same thing that we have been doing for
+10:28 
+
+10:28 the past 6 weeks
+10:30 
+
+10:30 I already knew that just by looking at
+10:32 
+
+10:32 this chart when you just solo out this
+10:34 
+
+10:34 price action as a whole you understand
+10:37 
+
+10:37 that that is skewed to that bottom right
+10:40 
+
+10:40 corner right and you can definitively
+10:42 
+
+10:42 tell that by the market structure
+10:45 
+
+10:45 interpretation that's a high that's a
+10:46 
+
+10:46 low that's a lower high that's a lower
+10:48 
+
+10:48 low it's a lower high that's a lower low
+10:50 
+
+10:50 it's a lower high it's a lower low you
+10:51 
+
+10:51 get the point so the moving averages do
+10:54 
+
+10:54 not tell me something that I don't
+10:56 
+
+10:56 already know they just give me a better
+10:59 
+
+10:59 representation
+10:60 
+
+11:00 for that something that's about as far
+11:02 
+
+11:02 as that goes other than that all I'm
+11:05 
+
+11:05 really going to say is that there's not
+11:07 
+
+11:07 a specific time frame of which I'm
+11:09 
+
+11:09 always going to use the moving averages
+11:11 
+
+11:11 on hear me out if something is
+11:13 
+
+11:13 applicable for Bitcoin so let's say 4
+11:15 
+
+11:15 Hour 200s and hourly 200s as we can see
+11:18 
+
+11:18 if something's applicable for Bitcoin
+11:20 
+
+11:20 specifically I'm not then going to take
+11:22 
+
+11:22 that and apply the exact same thing for
+11:25 
+
+11:25 a coin that doesn't really care about
+11:27 
+
+11:27 the hourly 200s and it doesn't really
+11:28 
+
+11:28 care about the 4our 200s either I want
+11:31 
+
+11:31 to find essentially what is the line of
+11:34 
+
+11:34 best fit that most efficiently portrays
+11:38 
+
+11:38 the idea that I'm trying to get across
+11:41 
+
+11:41 so if that is visible on the 6h hour or
+11:44 
+
+11:44 maybe the 3-h hour or the 2 hour or the
+11:46 
+
+11:46 15 minute or the hourly or the daily it
+11:49 
+
+11:49 doesn't matter I can attribute a set of
+11:52 
+
+11:52 definitions like local Trend High time
+11:55 
+
+11:55 frame Trend very high time frame Trend
+11:58 
+
+11:58 and then I have to fill in the blanks
+12:00 
+
+12:00 for whatever asset that I'm looking at
+12:02 
+
+12:02 so it just so happens to be as of
+12:05 
+
+12:05 current time that the hourly 200s and
+12:08 
+
+12:08 the 4our 200s are both very nicely
+12:10 
+
+12:10 applicable for Bitcoin that's not always
+12:13 
+
+12:13 the case there are times where you're
+12:14 
+
+12:14 going to see me use 30- minute 200s as a
+12:16 
+
+12:16 local Trend or even back here I was
+12:18 
+
+12:18 using 2 hour 200s as a high time frame
+12:20 
+
+12:20 Trend portrayal so I have to remain
+12:23 
+
+12:23 malleable and adapt to whatever the
+12:24 
+
+12:24 market is giving me so I have to ask the
+12:26 
+
+12:26 chart hey what is it that you respect
+12:30 
+
+12:30 and then I start abiding by whatever
+12:32 
+
+12:32 that portrayal is regardless of whether
+12:35 
+
+12:35 you're using 4our 200s or 2our 200s in
+12:38 
+
+12:38 this environment I would hope that you
+12:41 
+
+12:41 understand that we are in an uptrending
+12:43 
+
+12:43 Market nonetheless so the portrayal is
+12:45 
+
+12:45 not as meaningful as the general gist of
+12:49 
+
+12:49 the Market's Direction overall now with
+12:52 
+
+12:52 that out of the way we can go to the
+12:54 
+
+12:54 last piece of the puzzle which is
+12:56 
+
+12:56 support and resistance this is probably
+12:58 
+
+12:58 the most basic one
+13:01 
+
+13:01 really quick I just want to give a shout
+13:03 
+
+13:03 out to the sponsor of this video coin
+13:04 
+
+13:04 market manager the lead journaling and
+13:06 
+
+13:06 Analytics tool for crypto Traders
+13:08 
+
+13:08 connect and exchange account via readon
+13:11 
+
+13:11 API for fully automated Imports saving
+13:13 
+
+13:13 you hundreds of hours of manual data
+13:15 
+
+13:15 entry analyze your trading habits in
+13:17 
+
+13:17 just a few clicks and improve strategies
+13:19 
+
+13:19 with data driven insights Link in the
+13:21 
+
+13:21 description
+13:22 
+
+13:22 below so something that crypto cred
+13:24 
+
+13:24 actually instilled in me very very long
+13:26 
+
+13:26 time ago and has reiterated several
+13:28 
+
+13:28 times since is is that you do not form
+13:32 
+
+13:32 support or resistance by moving
+13:34 
+
+13:34 vertically you form supports and
+13:36 
+
+13:36 resistances by moving horizontally so
+13:39 
+
+13:39 when I'm drawing out these horizontal
+13:41 
+
+13:41 levels these gray boxes to portray daily
+13:44 
+
+13:44 demand and daily Supply zones which are
+13:46 
+
+13:46 just a fancier way of saying support and
+13:49 
+
+13:49 resistance when I'm doing that I'm
+13:51 
+
+13:51 looking for Regions where we
+13:52 
+
+13:52 consistently test and we get the same or
+13:56 
+
+13:56 the opposite result each time so I'm
+13:59 
+
+13:59 finding this 60 Kish Zone on The Daily
+14:03 
+
+14:03 is giving me resistance resistance
+14:05 
+
+14:05 resistance yeah sure we broke out above
+14:07 
+
+14:07 whatever resistance and then support and
+14:10 
+
+14:10 then the same thing support support
+14:13 
+
+14:13 resistance resistance resistance
+14:14 
+
+14:14 resistance right you can see
+14:17 
+
+14:17 horizontally I'm finding these regions
+14:20 
+
+14:20 that make sense to my puny little brain
+14:23 
+
+14:23 you can agree you can disagree you can
+14:25 
+
+14:25 say Mercury this should be drawn this
+14:27 
+
+14:27 way you can say oh it should have been
+14:28 
+
+14:28 drawn that way like it better it's
+14:30 
+
+14:30 totally fine again please remember we're
+14:33 
+
+14:33 kind of speculating we're drawing
+14:35 
+
+14:35 something on a chart that is not
+14:37 
+
+14:37 physically there objectively so how I
+14:40 
+
+14:40 draw something might be different than
+14:42 
+
+14:42 how you draw something you might see a
+14:43 
+
+14:43 trend line here but I maybe like the
+14:46 
+
+14:46 trend line better this way right that
+14:48 
+
+14:48 kind of thing so it's speculative I try
+14:51 
+
+14:51 not to get too speculative with it which
+14:53 
+
+14:53 is also why I'm using boxes rather than
+14:58 
+
+14:58 horizontal lines lines so similar to
+15:00 
+
+15:00 what I just said for the 200 Ma and 200
+15:03 
+
+15:03 EMA as I view them as kind of a cloud
+15:05 
+
+15:05 I'm not really viewing the support and
+15:07 
+
+15:07 resistance as Pico tops and Pico bottoms
+15:10 
+
+15:10 I kind of just want the general gist of
+15:13 
+
+15:13 hey maybe sellers are willing to step in
+15:16 
+
+15:16 somewhere in this 51k region and the
+15:18 
+
+15:18 same thing sure we don't use this as a
+15:20 
+
+15:20 Pico top but in hindsight I can pretty
+15:23 
+
+15:23 much say that's a nice clean test of
+15:25 
+
+15:25 resistance level just as much as this is
+15:28 
+
+15:28 right so I'm using a general kind of
+15:31 
+
+15:31 portrayal in all senses I'm just trying
+15:33 
+
+15:33 to get a gist for what the overall trend
+15:36 
+
+15:36 is and those inflection points along
+15:38 
+
+15:38 them those moving averages as well as
+15:40 
+
+15:40 when I'm pinpointing key regions then
+15:43 
+
+15:43 I'm usually just kind of targeting a
+15:45 
+
+15:45 general Zone rather than a very specific
+15:48 
+
+15:48 level now granted the Nuance here is
+15:51 
+
+15:51 that I tend to be a higher time frame
+15:53 
+
+15:53 Trader and often times if I'm trading
+15:56 
+
+15:56 something on the daily chart then I
+15:58 
+
+15:58 might be targeting a daily or even a
+15:60 
+
+15:60 weekly resistance level as my take
+16:02 
+
+16:02 profit and that region could be anywhere
+16:04 
+
+16:04 between 5 and 10% and yeah I'm I'm going
+16:07 
+
+16:07 to sit here and tell you that yeah we
+16:09 
+
+16:09 might find resistance anywhere between
+16:11 
+
+16:11 38k but also all the way up into like
+16:13 
+
+16:13 38.8 that's a 3% difference so for some
+16:16 
+
+16:16 of you that's not viable because you're
+16:19 
+
+16:19 trading the five minute time frame you
+16:21 
+
+16:21 can't afford to be very general and very
+16:23 
+
+16:23 Broad in your analysis so you have to
+16:26 
+
+16:26 pinpoint it and you have to use
+16:27 
+
+16:27 horizontal levels so that's an
+16:29 
+
+16:29 adaptation that you might have to take
+16:31 
+
+16:31 on per your way of approaching to the
+16:33 
+
+16:33 market but that's not how I approach
+16:35 
+
+16:35 right I tend to be higher time frame I
+16:37 
+
+16:37 tend to be more General and play higher
+16:39 
+
+16:39 time frame outlooks more spot bags that
+16:41 
+
+16:41 kind of thing so I'm playing into what
+16:44 
+
+16:44 favors me there rather than try and over
+16:46 
+
+16:46 complicate things and lar as a genius
+16:50 
+
+16:50 and so that's all three parts of my
+16:51 
+
+16:51 system so now what we're going to do is
+16:53 
+
+16:53 we're going to take those Concepts we're
+16:54 
+
+16:54 going to apply them to something that is
+16:56 
+
+16:56 relevant locally now in the Market at
+16:58 
+
+16:58 the moment because we're talking about
+16:60 
+
+16:60 hourly 200s and 4H hour 200s there's a
+17:02 
+
+17:02 couple coins that fit the bill for that
+17:05 
+
+17:05 kind of way of thinking now one
+17:07 
+
+17:07 obviously would be Bitcoin because we
+17:09 
+
+17:09 use that as the example to begin with
+17:11 
+
+17:11 there's two more in the Market at the
+17:12 
+
+17:12 moment and I want to discuss those
+17:14 
+
+17:14 concepts with you so first we have
+17:16 
+
+17:16 Dogecoin and Dogecoin is something that
+17:18 
+
+17:18 I've been talking about uh for a very
+17:20 
+
+17:20 long time now probably since it broke
+17:22 
+
+17:22 out of this range so late February early
+17:24 
+
+17:24 March and for good reason I mean since
+17:26 
+
+17:26 then it's gone on like 150% rally and
+17:29 
+
+17:29 very relatively short period of time now
+17:32 
+
+17:32 with Dogecoin I've seen a lot of people
+17:33 
+
+17:33 freaking out because this pullback is
+17:35 
+
+17:35 pretty deep obviously that's not
+17:36 
+
+17:36 something that I can just write off as
+17:38 
+
+17:38 oh it was nothing you guys are idiots a
+17:40 
+
+17:40 negative 26% pullback is definitely
+17:41 
+
+17:41 nothing to scoff at but again I cannot
+17:44 
+
+17:44 give you a bearish argument of which I
+17:46 
+
+17:46 couldn't have already given you on the
+17:48 
+
+17:48 way down into that test and it really
+17:51 
+
+17:51 wouldn't have mattered anyways because
+17:53 
+
+17:53 we just continued the uptrend amongst
+17:54 
+
+17:54 all time frames and please remember even
+17:57 
+
+17:57 a four-year-old knows that this is an
+17:58 
+
+17:58 uptrend even a four-year-old knows that
+18:00 
+
+18:00 that's an uptrend so the context is we
+18:02 
+
+18:02 are uptrending on all higher time frames
+18:05 
+
+18:05 and when we interpret our Market
+18:06 
+
+18:06 structure that's a low that's a high and
+18:09 
+
+18:09 then we're kind of assuming that if
+18:10 
+
+18:10 we're ever going to find a higher low we
+18:12 
+
+18:12 would find them at the same region of
+18:15 
+
+18:15 which we've been able to find higher
+18:16 
+
+18:16 lows along in recent examples so now we
+18:19 
+
+18:19 can definitively say this is an
+18:21 
+
+18:21 inflection point for Doge which means it
+18:25 
+
+18:25 might be in our best interest to take
+18:26 
+
+18:26 advantage of this kind of pinpoint
+18:28 
+
+18:28 region where we can play into an
+18:30 
+
+18:30 asymmetric kind of risk-reward way of
+18:32 
+
+18:32 thinking so essentially what I'm saying
+18:34 
+
+18:34 is we're pinpointing a Zone a general
+18:37 
+
+18:37 region where Dogecoin might find high
+18:39 
+
+18:39 time frame support and eventually
+18:41 
+
+18:41 reverse the low time frame downtrend
+18:44 
+
+18:44 into an uptrend once again only to
+18:46 
+
+18:46 resume the uptrend on all time frames
+18:50 
+
+18:50 thereafter now here's where I want to
+18:51 
+
+18:51 hedge myself because a lot of you are
+18:53 
+
+18:53 going to come back to this video in a
+18:55 
+
+18:55 week or so if this trade does not work
+18:57 
+
+18:57 out and say haha you're an idiot you're
+18:59 
+
+18:59 a top indicator I'm going to counter
+19:01 
+
+19:01 trade you for the rest of forever please
+19:02 
+
+19:02 take note that everything that I'm
+19:04 
+
+19:04 applying right here right now has been
+19:06 
+
+19:06 applicable several times over and it's
+19:09 
+
+19:09 been applicable on several time frames
+19:12 
+
+19:12 so that's the gist if you're going to be
+19:15 
+
+19:15 a trend Trader you have to accept losses
+19:18 
+
+19:18 you have to understand that every single
+19:21 
+
+19:21 trend is eventually going to break
+19:23 
+
+19:23 that's why it's called a trend and not a
+19:25 
+
+19:25 permanent do we all remember a time when
+19:28 
+
+19:28 fidget Spinners were the hottest thing
+19:29 
+
+19:29 on earth now you can find them at your
+19:31 
+
+19:31 local gas station for $2 and there's
+19:33 
+
+19:33 like a thousand of them because nobody
+19:34 
+
+19:34 wants them anymore all Trends break
+19:37 
+
+19:37 every single one the concept is that you
+19:40 
+
+19:40 will have made enough from that trend on
+19:44 
+
+19:44 the way up into the one time that it
+19:46 
+
+19:46 eventually breaks that you'll have
+19:48 
+
+19:48 drastically overcompensated for that
+19:50 
+
+19:50 inevitable loss so the concepts of which
+19:53 
+
+19:53 I'm applying today are also the same
+19:55 
+
+19:55 exact concepts of which I've been
+19:57 
+
+19:57 applying at this recent
+19:59 
+
+19:59 prior to a 77% Rally or whatever but
+20:03 
+
+20:03 here we go enough hedging myself let's
+20:05 
+
+20:05 get into it so what does the setup look
+20:07 
+
+20:07 like please remember that technically
+20:10 
+
+20:10 we're playing into the three parts of
+20:12 
+
+20:12 our system right we would love to find
+20:14 
+
+20:14 demand Zone Confluence as support if we
+20:17 
+
+20:17 can we prefer to have the uptrend be
+20:20 
+
+20:20 portrayed by a very clean moving average
+20:23 
+
+20:23 per Trail and we would love to hide stop
+20:27 
+
+20:27 losses below previous Market structure
+20:29 
+
+20:29 in order to have a definitive way of
+20:32 
+
+20:32 saying ah this is downtrending now so
+20:34 
+
+20:34 it's probably time to get out now here's
+20:36 
+
+20:36 where things get a little bit
+20:37 
+
+20:37 complicated the setup for Dogecoin this
+20:40 
+
+20:40 time around is not necessarily as clean
+20:43 
+
+20:43 as what it was the time PRI please take
+20:46 
+
+20:46 note if we are hiding our stop loss
+20:48 
+
+20:48 below previous Market structure and if
+20:51 
+
+20:51 that's the case on the daily then where
+20:53 
+
+20:53 does our stop loss need to
+20:55 
+
+20:55 be right there that is the technical
+20:59 
+
+20:59 daily Market structure meaning when you
+21:01 
+
+21:01 zoom out to your daily chart you're
+21:03 
+
+21:03 going to see a structure that looks
+21:05 
+
+21:05 something along the lines of this and
+21:06 
+
+21:06 granted this is a deep Wix so it might
+21:08 
+
+21:08 be visible but generally speaking I'm
+21:10 
+
+21:10 interpreting the market structure as
+21:12 
+
+21:12 high low high low high low Okay cool so
+21:17 
+
+21:17 we just have a negative 36% stop loss
+21:20 
+
+21:20 and the market makers can never hurt you
+21:22 
+
+21:22 and yeah that's not realistic so we're
+21:24 
+
+21:24 not going to do that so instead what we
+21:26 
+
+21:26 have to do is we have to kind of be a
+21:27 
+
+21:27 little bit speculative right I want to
+21:29 
+
+21:29 play into the objective kind of way of
+21:31 
+
+21:31 thinking I want to be least amount
+21:33 
+
+21:33 speculative as possible truthfully I
+21:35 
+
+21:35 want to avoid using trend lines or
+21:37 
+
+21:37 calling uptrends downtrends or calling
+21:39 
+
+21:39 breakouts fake outs right I want to
+21:41 
+
+21:41 avoid that kind of stuff but at the same
+21:43 
+
+21:43 time it's not viable for me to have a
+21:45 
+
+21:45 negative 37% stop loss so instead what I
+21:49 
+
+21:49 have to do is I have to speculate a
+21:51 
+
+21:51 little bit so I have to kind of say hey
+21:53 
+
+21:53 you know what if we break down below 4H
+21:55 
+
+21:55 hour 200s and we break down below this
+21:57 
+
+21:57 demand Zone and we break let's say
+21:59 
+
+21:59 uh this Market structure low then we're
+22:02 
+
+22:02 probably going to pull back to a much
+22:04 
+
+22:04 more significant degree anyways and uh
+22:07 
+
+22:07 maybe we'll even lose this level as
+22:10 
+
+22:10 support and go on and break the market
+22:11 
+
+22:11 structure as a whole regardless so this
+22:14 
+
+22:14 is a concept of which I call scaling
+22:17 
+
+22:17 assumptions we've now taken the system
+22:19 
+
+22:19 of course the system itself is very
+22:21 
+
+22:21 barebones and
+22:22 
+
+22:22 simplified but then there's all these
+22:24 
+
+22:24 nuances and it's like oh my gosh wait
+22:26 
+
+22:26 this is actually incredibly overwhelming
+22:28 
+
+22:28 it's not always very textbook and all I
+22:30 
+
+22:30 get to just buy 4our 200s and hide stop
+22:32 
+
+22:32 below previous structure and Target
+22:34 
+
+22:34 uptrend so it's the same kind of gist
+22:36 
+
+22:36 this time around to right the 4H hour
+22:39 
+
+22:39 200s are portraying the high time frame
+22:41 
+
+22:41 trend of course we know that already we
+22:43 
+
+22:43 bet on them the last time and it works
+22:45 
+
+22:45 so it's in our best interest to want to
+22:46 
+
+22:46 bet on them again but the issue is again
+22:50 
+
+22:50 similarly if we're going to hide below
+22:52 
+
+22:52 that market structure and use that as
+22:54 
+
+22:54 Confluence to our reasoning for entering
+22:56 
+
+22:56 the trade but also as to why would want
+22:59 
+
+22:59 to get out of the trade then that means
+23:01 
+
+23:01 that our stop loss needs to be all the
+23:03 
+
+23:03 way down here and again a negative 28%
+23:06 
+
+23:06 stop loss just isn't really all that
+23:07 
+
+23:07 realistic so maybe we want to speculate
+23:10 
+
+23:10 a little bit and let's say uh let's just
+23:12 
+
+23:12 hide the stop below here and that should
+23:14 
+
+23:14 be good enough additionally there's not
+23:17 
+
+23:17 really a Confluence in a support level
+23:19 
+
+23:19 this time around previously we had this
+23:22 
+
+23:22 like local 4-Hour demand Zone that had
+23:24 
+
+23:24 been established on this rally as
+23:26 
+
+23:26 Confluence to the idea that we were
+23:28 
+
+23:28 trying trying to portray on a much
+23:30 
+
+23:30 higher time frame and we don't really
+23:32 
+
+23:32 have that at the moment actually if
+23:33 
+
+23:33 anything we're below my support and
+23:35 
+
+23:35 resistance draw so we're currently using
+23:38 
+
+23:38 it as resistance and we're kind of
+23:39 
+
+23:39 pinching and using the 4H hour 200s as a
+23:41 
+
+23:41 bounce pad to continuously bash at that
+23:44 
+
+23:44 resistance level but that's not really
+23:47 
+
+23:47 what we want it's not acting as a
+23:49 
+
+23:49 Confluence and a support level so maybe
+23:52 
+
+23:52 you're able to justify not taking the
+23:55 
+
+23:55 trade at all and that's totally fine
+23:58 
+
+23:58 maybe the Confluence factor is lacking
+24:01 
+
+24:01 too much to the point where now you're
+24:02 
+
+24:02 unappealed to take the trade at all
+24:05 
+
+24:05 because your perception of the
+24:06 
+
+24:06 probabilities of the outcome of the
+24:08 
+
+24:08 trade actually going on and playing out
+24:10 
+
+24:10 is just that low for whatever reason and
+24:13 
+
+24:13 that's totally fine and that's why it's
+24:15 
+
+24:15 called perception of probabilities
+24:17 
+
+24:17 because there's no standard 52 card deck
+24:19 
+
+24:19 we can't break it down and start
+24:20 
+
+24:20 counting cards like in blackjack and
+24:22 
+
+24:22 give ourselves standard deviations we
+24:24 
+
+24:24 can't really do that so the way that you
+24:26 
+
+24:26 perceive it it's not really all that
+24:28 
+
+24:28 appealing of a trade so that means then
+24:30 
+
+24:30 you're just going to be sidelined on
+24:32 
+
+24:32 Dogecoin forever if it continues
+24:33 
+
+24:33 rallying from here and we get to apply
+24:36 
+
+24:36 the same form of thinking but on a
+24:37 
+
+24:37 different time frame and we can use that
+24:40 
+
+24:40 as a way to rely on our own abilities in
+24:43 
+
+24:43 the event that a better setup comes into
+24:46 
+
+24:46 fruition later down the line we can
+24:48 
+
+24:48 refrain from taking a setup that we're
+24:50 
+
+24:50 not really all that comfortable with if
+24:52 
+
+24:52 that's the conclusion that you come to
+24:54 
+
+24:54 so here's how we do that for Dogecoin we
+24:56 
+
+24:56 can zoom into something like the hourly
+24:58 
+
+24:58 200s and assess that this is the local
+25:00 
+
+25:00 Trend portrayal that we were using on
+25:02 
+
+25:02 the way up if you recall one of the
+25:03 
+
+25:03 recent videos that I did we also used
+25:05 
+
+25:05 hourly 200s as a portrayal to say hey
+25:08 
+
+25:08 that probably was the bottom and we're
+25:10 
+
+25:10 now allowed to resume the uptrend from
+25:12 
+
+25:12 here and granted they didn't hold all
+25:14 
+
+25:14 that well but hourly 200s are still a
+25:16 
+
+25:16 trending portrayal so maybe reclaiming
+25:19 
+
+25:19 hourly 200s might give us a better way
+25:21 
+
+25:21 of justifying with a higher perceived
+25:24 
+
+25:24 probability that you know what the full
+25:26 
+
+25:26 hour 200s did act as the bottom we can
+25:29 
+
+25:29 assume yet another higher low and then
+25:31 
+
+25:31 look for higher high in continuation on
+25:33 
+
+25:33 all time frames thereafter here's where
+25:35 
+
+25:35 we get to compound the analysis even
+25:39 
+
+25:39 further previously I told you that we
+25:41 
+
+25:41 have local Trends we have high time
+25:42 
+
+25:42 frame Trends we have very high time
+25:44 
+
+25:44 frame Trends we also have what I call
+25:47 
+
+25:47 parabolic Trend so check this out this
+25:50 
+
+25:50 is the 15minute 200 moving averages and
+25:52 
+
+25:52 on this chart we can see that this trend
+25:55 
+
+25:55 portrayed a 66% move on Dogecoin now
+25:60 
+
+25:60 that is absolutely ridiculous only in
+26:02 
+
+26:02 crypto kind of thing right 66% move on
+26:06 
+
+26:06 15minute 200 moving averages now granted
+26:09 
+
+26:09 they did get chopped up eventually and
+26:10 
+
+26:10 then from that chop we expand lower and
+26:13 
+
+26:13 then from there we start using them as
+26:14 
+
+26:14 resistance but that means then we can
+26:17 
+
+26:17 start to use them as a support
+26:19 
+
+26:19 indication once again as a bullish
+26:21 
+
+26:21 argument for why we will likely continue
+26:24 
+
+26:24 expanding upwards and why the 4our 200s
+26:26 
+
+26:26 did successfully hold so now rather than
+26:29 
+
+26:29 stepping in front of the low time frame
+26:32 
+
+26:32 downtrending train and bet on a higher
+26:35 
+
+26:35 time frame support level we can opt to
+26:38 
+
+26:38 wait for a reversal on these lower time
+26:40 
+
+26:40 frames to start moving in tandem with
+26:43 
+
+26:43 the higher time frame analysis and then
+26:45 
+
+26:45 we can look to implement a setup from
+26:47 
+
+26:47 there we would perceive this setup to be
+26:50 
+
+26:50 higher probability but it tends to come
+26:53 
+
+26:53 with the draw down of less reward I say
+26:56 
+
+26:56 tends to it's not always the case
+26:58 
+
+26:58 sometimes you you can find a better way
+26:60 
+
+26:60 of pinpointing an accurate region and
+27:02 
+
+27:02 then actually having a more fruitful
+27:04 
+
+27:04 reward in tandem with a more likely
+27:07 
+
+27:07 outcome because at that point we have
+27:09 
+
+27:09 fully reversed all of these lower time
+27:11 
+
+27:11 frame Trends and now we're uptrending on
+27:13 
+
+27:13 all time frames once again which is
+27:16 
+
+27:16 please keep in mind the same thing that
+27:18 
+
+27:18 I've been saying since 10 cents doge is
+27:20 
+
+27:20 uptrending in all time frames so now I
+27:23 
+
+27:23 just gave you two viable ways to play
+27:26 
+
+27:26 Dogecoin using the exact same system
+27:29 
+
+27:29 you and your dictation of your success
+27:31 
+
+27:31 or failure has nothing to do with
+27:34 
+
+27:34 whether Dogecoin holds the 4H hour 200s
+27:37 
+
+27:37 or whether it reclaims 15minute 200s and
+27:39 
+
+27:39 then immediately continues higher that
+27:41 
+
+27:41 has nothing to do with it it has a lot
+27:43 
+
+27:43 more to do with how you decided to
+27:46 
+
+27:46 approach that outcome so you and your
+27:49 
+
+27:49 execution always are going to matter
+27:51 
+
+27:51 more than just the simple technical
+27:54 
+
+27:54 analysis and that's why in the most
+27:56 
+
+27:56 recent video I went heavy into the idea
+27:59 
+
+27:59 of pros and cons and less right and
+28:01 
+
+28:01 wrong you have to have a kind of pros
+28:03 
+
+28:03 and cons way of thinking about things
+28:06 
+
+28:06 and it applies in way more ways than
+28:08 
+
+28:08 just one that concept goes very very
+28:10 
+
+28:10 deep in itself so the last thing that
+28:12 
+
+28:12 I'll discuss here before we finish up
+28:14 
+
+28:14 the video would be a salana and very
+28:17 
+
+28:17 similarly salana is uptrending on all
+28:19 
+
+28:19 time frames really I should say on all
+28:22 
+
+28:22 high time frames because 4H hour 200s
+28:25 
+
+28:25 are allowing us to portray the idea that
+28:27 
+
+28:27 salana is up up trending on daily Market
+28:30 
+
+28:30 structure now granted this is probably a
+28:32 
+
+28:32 higher low and then that's like a lower
+28:35 
+
+28:35 high and then this is supposed to be a
+28:36 
+
+28:36 higher low and then we can form some
+28:38 
+
+28:38 kind of consolidation pattern that's
+28:39 
+
+28:39 what we're kind of assuming and we have
+28:42 
+
+28:42 the range lows as perfect Confluence on
+28:44 
+
+28:44 a lower time frame in tandem with the
+28:47 
+
+28:47 4our 200s that are portraying the
+28:50 
+
+28:50 overall structure on the higher time
+28:52 
+
+28:52 frame so this is what I'm going to deem
+28:55 
+
+28:55 an inflection point for salana and the
+28:57 
+
+28:57 setup this time around is a lot more
+28:59 
+
+28:59 straightforward because we get to buy
+29:01 
+
+29:01 the 4our 200s outright we have a local
+29:05 
+
+29:05 demand Zone as Confluence so what I'm
+29:07 
+
+29:07 calling like a 4-Hour demand Zone kind
+29:09 
+
+29:09 of acting like a a range low kind of a
+29:12 
+
+29:12 thing and we can just simply hide our
+29:14 
+
+29:14 stoploss below previous structure and
+29:16 
+
+29:16 Target
+29:17 
+
+29:17 continuation so we would Target probably
+29:20 
+
+29:20 mid-range range highs and then a break
+29:22 
+
+29:22 out of this High time frame Zone as a
+29:25 
+
+29:25 whole as well as a breakout of this
+29:27 
+
+29:27 range or or consolidation however you're
+29:30 
+
+29:30 viewing it and we would look for uptrend
+29:32 
+
+29:32 continuation amongst all time frames in
+29:35 
+
+29:35 which case we can assess that salano
+29:37 
+
+29:37 would essentially be in price Discovery
+29:40 
+
+29:40 and the reason that I'm allowed to
+29:42 
+
+29:42 assume that is because there's no
+29:44 
+
+29:44 horizontal region of which we've been
+29:46 
+
+29:46 able to consistently test on this time
+29:49 
+
+29:49 frame that has formed a support Andor a
+29:52 
+
+29:52 resistance level going back to what we
+29:54 
+
+29:54 said earlier please remember that
+29:57 
+
+29:57 supports and resistances do not form by
+29:59 
+
+29:59 moving vertically they form by moving
+30:02 
+
+30:02 horizontally so as you can see this tiny
+30:04 
+
+30:04 little region where we end up stalling
+30:07 
+
+30:07 for a couple weeks back in 2021 ends up
+30:10 
+
+30:10 being a high time frame support level
+30:13 
+
+30:13 all the way over here in 2022 and that
+30:16 
+
+30:16 is probably because we were able to go
+30:18 
+
+30:18 sideways around that zone rather than
+30:20 
+
+30:20 just straight up going up and down
+30:23 
+
+30:23 through it so again the high time frame
+30:25 
+
+30:25 setup for salana is just as valid as any
+30:28 
+
+30:28 other high time frame setup and again I
+30:31 
+
+30:31 know a lot of people are going to clown
+30:33 
+
+30:33 me if this doesn't end up playing out
+30:35 
+
+30:35 beautifully and I didn't just spoon feed
+30:36 
+
+30:36 you free money please understand that
+30:38 
+
+30:38 copy trading is never going to work for
+30:40 
+
+30:40 you anyways but also allow me to hedge
+30:43 
+
+30:43 myself again and say that it's the same
+30:45 
+
+30:45 setup that could have been applied this
+30:48 
+
+30:48 time around and the time prior and the
+30:50 
+
+30:50 time prior to that and in the meantime
+30:53 
+
+30:53 as we're refusing to trade along these
+30:56 
+
+30:56 4our 200s it's on you to find a more
+30:59 
+
+30:59 efficient portrayal to start trading
+31:01 
+
+31:01 salana along so you can see for a little
+31:04 
+
+31:04 bit here hourly 200s are pretty
+31:06 
+
+31:06 reputable and then at some point we even
+31:08 
+
+31:08 go so parabolic that we stop caring
+31:11 
+
+31:11 about hourly 200s as well for a little
+31:13 
+
+31:13 bit of a gist here there was a time
+31:15 
+
+31:15 period where probably something like 15
+31:17 
+
+31:17 minute 200s were the only thing that
+31:19 
+
+31:19 were even visible but again it's on you
+31:23 
+
+31:23 to adapt it's on you and your discretion
+31:25 
+
+31:25 to see what trends you want to use how
+31:28 
+
+31:28 you want to trade those Trends and what
+31:30 
+
+31:30 kind of setups you want to look for I
+31:32 
+
+31:32 can give you the system but that is the
+31:34 
+
+31:34 easy part and that is why I'm not afraid
+31:37 
+
+31:37 to give you my system if the system
+31:40 
+
+31:40 itself were Alpha then I wouldn't be
+31:42 
+
+31:42 sharing it with you it has nothing to do
+31:44 
+
+31:44 with the system it has nothing to do
+31:46 
+
+31:46 with what moving averages you're using
+31:48 
+
+31:48 or what time frame you're using them on
+31:51 
+
+31:51 it has everything to do with who is the
+31:53 
+
+31:53 person behind the system clicking the
+31:56 
+
+31:56 buttons so before I go I do have a quick
+31:59 
+
+31:59 announcement bybit is allowing me to
+32:01 
+
+32:01 give away an iPhone 15 to anybody who's
+32:03 
+
+32:03 on my ref link all you have to do is
+32:05 
+
+32:05 submit a bybit giveaway form the form
+32:08 
+
+32:08 link will be in the description below if
+32:10 
+
+32:10 you're on byit but you're not on my ref
+32:12 
+
+32:12 link you can still submit that form and
+32:14 
+
+32:14 you'll still be eligible for the
+32:15 
+
+32:15 giveaway if you're on my reflink even
+32:18 
+
+32:18 better you can submit the form and you
+32:20 
+
+32:20 will be eligible if you do not have a
+32:22 
+
+32:22 bybit account at all you can register
+32:25 
+
+32:25 one using my ref Link in the description
+32:27 
+
+32:27 of this video and then submit the form
+32:29 
+
+32:29 and then you'll be eligible for the
+32:31 
+
+32:31 giveaway in addition to that using
+32:33 
+
+32:33 either my bybit and or my fex referral
+32:36 
+
+32:36 link will grant you access to my private
+32:39 
+
+32:39 Discord in that private Discord I do
+32:41 
+
+32:41 live streams three times a week every
+32:44 
+
+32:44 single week I talk about my top altcoins
+32:46 
+
+32:46 heading into the next week and I'm
+32:48 
+
+32:48 constantly showing my trade ideas in the
+32:51 
+
+32:51 market so if you want access to that
+32:53 
+
+32:53 private Discord all you have to do is
+32:55 
+
+32:55 register an account on either a bybit or
+32:57 
+
+32:57 female X and start trading there moving
+32:60 
+
+32:60 forward and then just give me a DM and
+33:02 
+
+33:02 let me know that you've done that and
+33:04 
+
+33:04 I'll get you in the private Discord so
+33:06 
+
+33:06 with that said I hope you guys enjoyed
+33:08 
+
+33:08 the video I hope you're getting value
+33:09 
+
+33:09 from me much love and take it
+33:12 
+
+33:12 easy

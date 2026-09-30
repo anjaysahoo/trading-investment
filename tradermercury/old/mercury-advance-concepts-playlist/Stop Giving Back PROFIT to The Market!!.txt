@@ -1,0 +1,1534 @@
+00:00 all right what is up everybody back at
+00:02 
+
+00:02 it with another video So today we're
+00:04 
+
+00:04 going to be discussing how to make
+00:05 
+
+00:05 wealth trading markets and actually keep
+00:07 
+
+00:07 it so you've heard me say this before
+00:09 
+
+00:09 but I'll say it again the greatest Edge
+00:11 
+
+00:11 in discretionary trading is well your
+00:14 
+
+00:14 discretion but your discretion in the
+00:16 
+
+00:16 form of knowing when not to use your own
+00:19 
+
+00:19 system so the reality is we all have to
+00:21 
+
+00:21 kind of take two steps back and realize
+00:24 
+
+00:24 that whatever indicator or style system
+00:27 
+
+00:27 that we're using any 15 year old can go
+00:30 
+
+00:30 read Investopedia and figure out exactly
+00:33 
+
+00:33 how to use that system so that would
+00:35 
+
+00:35 mean that somebody who has a decade of
+00:38 
+
+00:38 experience is on the same kind of level
+00:40 
+
+00:41 in terms of ability to read the market
+00:43 
+
+00:43 as a 15 year old kid who just read an
+00:45 
+
+00:45 article and spent all of 15 minutes
+00:47 
+
+00:47 studying a certain subject now obviously
+00:49 
+
+00:49 that's not reality so truly The Edge
+00:52 
+
+00:52 there is the discretion the experience
+00:54 
+
+00:54 that you've gained from using that
+00:56 
+
+00:56 system and knowing when not to apply it
+00:59 
+
+00:59 and theoretically if you know when not
+01:01 
+
+01:01 to apply your system you would also know
+01:03 
+
+01:03 when to apply your system however the
+01:05 
+
+01:05 inverse is not true if you know when to
+01:07 
+
+01:08 apply something you can just simply
+01:09 
+
+01:09 continue applying it that doesn't
+01:11 
+
+01:11 necessarily mean that you know when not
+01:12 
+
+01:12 to apply it it just means that you know
+01:14 
+
+01:14 how to identify those specific triggers
+01:17 
+
+01:17 and every time they trigger you know
+01:20 
+
+01:20 what sort of action that you need to be
+01:21 
+
+01:21 taking the reality is that no indicator
+01:24 
+
+01:24 is actually profitable none RSI macd
+01:27 
+
+01:27 stochastic RSI moving averages it does
+01:30 
+
+01:30 not matter there's no way in hell that
+01:32 
+
+01:32 you're going to be able to apply any
+01:33 
+
+01:33 arbitrary indicator slap it on chart and
+01:36 
+
+01:36 magically become profitable tomorrow
+01:38 
+
+01:38 that's just not realistic so the edge
+01:40 
+
+01:40 truly isn't knowing when not to do
+01:42 
+
+01:42 something now you have to be able to
+01:44 
+
+01:44 expand your mind a little bit and play
+01:46 
+
+01:46 onto that concept if you're using RSI
+01:49 
+
+01:49 which I don't and you're looking for
+01:51 
+
+01:51 bear divs and you know when those bear
+01:52 
+
+01:53 divs have triggered you'll come to
+01:54 
+
+01:54 realize soon enough that if you were to
+01:56 
+
+01:56 short every single time a bear div
+01:58 
+
+01:58 triggers you're not going to make any
+01:60 
+
+01:60 money in fact you're probably gonna have
+02:02 
+
+02:02 a terrible time so the edge there would
+02:03 
+
+02:03 be knowing when to actually listen to
+02:06 
+
+02:06 that indicator of that bear div
+02:08 
+
+02:08 triggering maybe there's Confluence
+02:10 
+
+02:10 maybe you have a certain set of rules
+02:12 
+
+02:12 that have identified why that bearish
+02:15 
+
+02:15 Divergence is different than all the
+02:17 
+
+02:17 other bearish divergences leading up to
+02:19 
+
+02:19 that one and why you should probably try
+02:22 
+
+02:22 to trade and play into that specific one
+02:25 
+
+02:25 now obviously I don't use RSI I don't
+02:27 
+
+02:27 use all these different indicators and
+02:29 
+
+02:29 whatnot so the only way that I know how
+02:31 
+
+02:31 to get this idea across is using my
+02:34 
+
+02:34 system so let's go ahead and break that
+02:36 
+
+02:36 down in today's price action on bitcoin
+02:38 
+
+02:38 and I'll actually even give you some
+02:40 
+
+02:40 examples both ones that have worked and
+02:43 
+
+02:43 ones that have not worked and I'll show
+02:45 
+
+02:45 you in real time exactly how I'm
+02:48 
+
+02:48 expanding my thoughts to adapt to
+02:50 
+
+02:50 whatever price action is doing catching
+02:51 
+
+02:51 extreme Trends towards the upside
+02:53 
+
+02:53 avoiding extreme drawdown hopping back
+02:56 
+
+02:56 into Trends once they're being reclaimed
+02:59 
+
+02:59 and avoiding choppy periods after
+03:01 
+
+03:01 realizing that the market environment
+03:03 
+
+03:03 has shifted so really quick here's how I
+03:05 
+
+03:05 break it down alright so generally
+03:06 
+
+03:06 speaking the way that I break this down
+03:08 
+
+03:08 is I have an initial thesis so that
+03:11 
+
+03:11 would be plan a and then whatever that
+03:13 
+
+03:13 thesis is is no longer valid that would
+03:15 
+
+03:15 be Plan B that thesis becomes relevant
+03:17 
+
+03:17 again so plan a part two and then plan C
+03:20 
+
+03:20 triggering is actually plan a part two
+03:22 
+
+03:23 not working yet again right so going
+03:25 
+
+03:25 from plan a to plan B to plan a back to
+03:27 
+
+03:27 plan B at which point right we skip this
+03:30 
+
+03:30 we say okay hold on wait wait
+03:32 
+
+03:32 we should probably go to plan C and
+03:35 
+
+03:35 totally reassess how we're doing things
+03:36 
+
+03:36 I don't expect you to have caught up
+03:38 
+
+03:38 with that so let's go ahead and break it
+03:40 
+
+03:40 down first you need to understand how
+03:42 
+
+03:42 exactly I go about doing things and what
+03:45 
+
+03:45 the kind of mindset is as a trend Trader
+03:47 
+
+03:47 for me personally so do keep in mind
+03:49 
+
+03:49 that a lot of the examples I'm going to
+03:50 
+
+03:50 show you have to do with 15 minute 200
+03:52 
+
+03:53 moving averages I'm going to go ahead
+03:54 
+
+03:54 and front run a lot of your questions I
+03:56 
+
+03:56 don't necessarily care about the 15
+03:58 
+
+03:58 minute 200s per se but what I do care
+04:00 
+
+04:00 about is whatever Bitcoin is respecting
+04:03 
+
+04:03 or really whatever asset that I'm
+04:05 
+
+04:05 looking at is respecting on any given
+04:07 
+
+04:07 time frame and that way I can kind of
+04:09 
+
+04:09 dedicate these labels of low time frame
+04:11 
+
+04:11 Trend portrayal parabolic Trend
+04:13 
+
+04:13 portrayal High time frame Trend
+04:15 
+
+04:15 portrayal to those specific time frames
+04:17 
+
+04:17 and that allows me to adjust my bias
+04:19 
+
+04:19 depending on what time frame I'm looking
+04:21 
+
+04:21 at the other Nuance is I'm going to
+04:23 
+
+04:23 assume that Trends are going to move
+04:25 
+
+04:25 directionally proportional to the trend
+04:27 
+
+04:27 prior which essentially just means if we
+04:29 
+
+04:29 reclaim a seven month long downtrend
+04:32 
+
+04:32 over the course of negative 70 I'm
+04:35 
+
+04:35 probably not just gonna look for a five
+04:36 
+
+04:36 percent push upwards and vice versa if
+04:39 
+
+04:39 we reclaim a negative three percent
+04:41 
+
+04:41 downtrend over the course of three hours
+04:43 
+
+04:43 you probably won't hear me start to call
+04:45 
+
+04:45 for new all-time highs so that's about
+04:47 
+
+04:47 it and those philosophies allow us to
+04:49 
+
+04:49 apply some sort of context so if you're
+04:52 
+
+04:52 in my free Discord you already know that
+04:54 
+
+04:54 we caught this move the way that this
+04:56 
+
+04:56 analysis scaled into was basically an
+04:58 
+
+04:58 assumption that we would see this kind
+05:00 
+
+05:00 of a push upwards I do daily Market
+05:02 
+
+05:02 updates in that Discord every single
+05:04 
+
+05:04 morning so you get to see my thoughts in
+05:06 
+
+05:06 real time and how I scaled into that
+05:08 
+
+05:08 kind of a bias to assume that this move
+05:10 
+
+05:10 was gonna come of course the analysis
+05:12 
+
+05:12 does not matter unless I actually traded
+05:13 
+
+05:13 it so here you go here's what that
+05:15 
+
+05:15 analysis looked like in the form of a
+05:17 
+
+05:17 setup but all right now that I got my
+05:18 
+
+05:18 clout claiming out of the way let's go
+05:20 
+
+05:20 back and discuss what the entire purpose
+05:22 
+
+05:22 of this video is the context here is the
+05:25 
+
+05:25 15 minute 200 moving averages have
+05:27 
+
+05:27 allowed for an uptrend over the course
+05:29 
+
+05:29 of truly it's from this low but we'll go
+05:31 
+
+05:31 from where I start to scale into a
+05:33 
+
+05:33 higher time frame bullish bias so we'll
+05:35 
+
+05:35 just say this low so that means that
+05:36 
+
+05:36 these 15 minute 200 Mas had portrayed
+05:38 
+
+05:38 the trend for over a week and have
+05:40 
+
+05:40 encompassed about 19 or let's just say
+05:43 
+
+05:43 20 of price action so just remember that
+05:46 
+
+05:46 put that as part of your context 20 one
+05:49 
+
+05:50 week one bias there's no ups and downs
+05:53 
+
+05:53 it's just clearly an uptrend even though
+05:55 
+
+05:55 four-year-old knows that we're headed to
+05:57 
+
+05:57 the top right corner so that would mean
+05:59 
+
+05:59 losing that Trend would probably allow
+06:01 
+
+06:01 for a much deeper pullback anything that
+06:04 
+
+06:04 we've seen on that rally upwards for the
+06:06 
+
+06:06 past week and 20 and we kind of assume
+06:08 
+
+06:08 that things are going to move
+06:09 
+
+06:09 directionally proportional so even
+06:11 
+
+06:11 though we're talking about a 15 minute
+06:13 
+
+06:13 time frame here that is the low time
+06:15 
+
+06:15 frame Trend portrayal so that does allow
+06:17 
+
+06:17 us to assume some sort of significance
+06:20 
+
+06:20 and that's what I call a snowball of
+06:23 
+
+06:23 weakness if you've seen that why price
+06:25 
+
+06:25 action is a snowball video if not I'll
+06:27 
+
+06:27 leave a link to that that does have a
+06:28 
+
+06:28 lot to do with this kind of philosophy
+06:30 
+
+06:30 and outlook on the market so it is kind
+06:31 
+
+06:31 of impaired narrative that you do
+06:33 
+
+06:33 understand that concept but moving
+06:34 
+
+06:34 forward so now that our snowball of
+06:36 
+
+06:36 weakness has formed we're now in Plan B
+06:39 
+
+06:39 where we can assume a much deeper
+06:41 
+
+06:41 drawdown at that point that's when I
+06:43 
+
+06:43 come in and just start marking levels of
+06:45 
+
+06:45 support and try and pinpoint some sort
+06:47 
+
+06:47 of higher time frame maybe swing long
+06:49 
+
+06:49 setup because again it's not that we're
+06:52 
+
+06:52 bearish now it's that this trend is
+06:54 
+
+06:54 bearish and there is some adjustment
+06:56 
+
+06:56 necessary right the best way to think
+06:58 
+
+06:58 about it is anybody who's been just
+06:60 
+
+06:60 simply buying the 15 minute 200 Amaze
+07:02 
+
+07:02 Trend this entire way up has done
+07:03 
+
+07:03 incredibly well for themselves except
+07:05 
+
+07:05 for this time they took a loss in an
+07:07 
+
+07:07 ideal world where everything is rainbows
+07:09 
+
+07:09 and butterflies it doesn't matter
+07:10 
+
+07:10 because you've already printed enough
+07:12 
+
+07:12 off of that Trend in the first place
+07:13 
+
+07:13 hence it's just kind of a gradual
+07:16 
+
+07:16 adjustment to shift your mindset just
+07:18 
+
+07:18 slightly to go into Plan B so once we're
+07:21 
+
+07:21 in Plan B there's really two things that
+07:23 
+
+07:23 we're watching for we're watching for
+07:25 
+
+07:25 that snowball to continue compounding
+07:27 
+
+07:27 towards key support levels so something
+07:30 
+
+07:30 like this 29.7 K demand Zone own we also
+07:33 
+
+07:33 have hourly 200s which were confluent
+07:35 
+
+07:35 with this demand Zone at that time so
+07:37 
+
+07:37 those are our downside targets so that's
+07:39 
+
+07:39 the first thing we're keeping an eye on
+07:41 
+
+07:41 either we get to those regions and then
+07:43 
+
+07:43 maybe support bounces and access support
+07:45 
+
+07:45 but truly as long as we remain below
+07:48 
+
+07:48 those 15 minute 200 moving averages
+07:50 
+
+07:50 we're acknowledging the higher time
+07:51 
+
+07:51 frame bullish bias but we're not so
+07:54 
+
+07:54 eager to hop back into this leg upwards
+07:57 
+
+07:57 because in order to resume the Snowman
+08:00 
+
+08:00 of bullish arguments you would have to
+08:02 
+
+08:02 crush this snowball first so at that
+08:05 
+
+08:05 point we put ourselves in a position
+08:07 
+
+08:07 where either the snowball of weakness
+08:09 
+
+08:09 continues compounding and we can look
+08:11 
+
+08:11 for our bids wherever they are to
+08:13 
+
+08:13 potentially continue getting tapped
+08:15 
+
+08:15 right maybe that snowball continues
+08:17 
+
+08:17 compounding from here it becomes a
+08:19 
+
+08:19 bigger snowball and body of a snowman
+08:21 
+
+08:21 here and then so on and so forth you can
+08:23 
+
+08:23 continue with that mindset for each and
+08:25 
+
+08:25 every single dedicated significant Trend
+08:27 
+
+08:27 portrayal or perhaps we test that level
+08:30 
+
+08:30 of support whatever you have dedicated
+08:32 
+
+08:32 it is significant perhaps we don't but
+08:34 
+
+08:34 regardless reclaiming the exact same
+08:37 
+
+08:37 thing that has allowed for this profit
+08:39 
+
+08:39 in the first place would be the next
+08:41 
+
+08:41 significant step that kind of implies
+08:43 
+
+08:43 potential uptrend resumption so that's
+08:46 
+
+08:46 where we go from plan a to plan B to
+08:50 
+
+08:50 plan a part two so remember this is a
+08:52 
+
+08:52 glimpse of weakness the context here is
+08:55 
+
+08:55 our higher time frames are also
+08:57 
+
+08:57 uptrending so that means we have
+08:59 
+
+08:59 uptrends across the board on every
+09:01 
+
+09:01 single time frame except for this 15
+09:03 
+
+09:03 minute chart the reason that we go back
+09:06 
+
+09:06 to plan A here is because this tiny
+09:09 
+
+09:09 little glimpse of an argument towards
+09:11 
+
+09:11 the downside has now been negated and
+09:13 
+
+09:13 we've Fallen back in line with the
+09:16 
+
+09:16 context of every single time frame is
+09:18 
+
+09:18 bullish this is exactly what the case
+09:20 
+
+09:20 was on plan a the first time around we
+09:24 
+
+09:24 liked plan a 20 of uptrend one week one
+09:28 
+
+09:28 bias very clear lots of money made so
+09:31 
+
+09:31 when this trigger again I'm forced to go
+09:33 
+
+09:33 back into that plan it's not even really
+09:35 
+
+09:35 that I'm forced I'm gladly going back to
+09:38 
+
+09:38 that plan all we're doing is going back
+09:40 
+
+09:40 to plan A I liked plan a plan a made me
+09:43 
+
+09:43 a lot of money so I will happily shift
+09:45 
+
+09:45 the bias once again but alas plan a part
+09:48 
+
+09:48 two does not work so typically this is
+09:51 
+
+09:51 where the person goes from plan a to
+09:53 
+
+09:53 plan B to plan a back to plan B back to
+09:57 
+
+09:57 plan A back to plan B back to plan A
+09:59 
+
+09:59 right and you continue that process for
+10:02 
+
+10:02 weeks before you can actually realize
+10:05 
+
+10:05 that hey maybe I need to stop using a
+10:07 
+
+10:07 trend style analysis because the market
+10:09 
+
+10:09 itself is not trending at that point
+10:12 
+
+10:12 it's way too late so instead of go back
+10:15 
+
+10:15 to plan B for the second time I take a
+10:18 
+
+10:18 totally different approach and I kind of
+10:20 
+
+10:20 just say you know what this is all just
+10:23 
+
+10:23 kind of BS and I need to stop making the
+10:26 
+
+10:26 same kind of assumptions that I was
+10:27 
+
+10:27 previously that rewarded me so greatly
+10:30 
+
+10:30 because the reality is is that reward
+10:33 
+
+10:33 was stemmed off of the market
+10:35 
+
+10:35 environment itself which has now shifted
+10:38 
+
+10:38 so if I continue to apply the same kind
+10:40 
+
+10:40 of approach in a static manner meaning
+10:43 
+
+10:43 I'm just doing the same exact thing each
+10:45 
+
+10:45 and every single time every time we're
+10:47 
+
+10:47 above these 15 minute 200s I'm bullish
+10:49 
+
+10:49 every time we're below them I'm bearish
+10:51 
+
+10:51 I would quickly become the laughing
+10:53 
+
+10:53 stock on crypto Twitter and truthfully
+10:55 
+
+10:55 that doesn't seem like a lot of fun more
+10:57 
+
+10:57 importantly than that though your
+10:58 
+
+10:58 portfolio would absolutely see the side
+11:01 
+
+11:01 effects of that lackluster approach and
+11:04 
+
+11:04 it makes sense so I mean again put it
+11:06 
+
+11:06 back into context we had one bias we had
+11:09 
+
+11:09 one outlook on the market and that
+11:11 
+
+11:11 Outlook was never invalidated there were
+11:13 
+
+11:13 never any snowballs of weakness that
+11:16 
+
+11:16 formed for an entirety of one week that
+11:19 
+
+11:19 encompassed 20 of upside and suddenly
+11:22 
+
+11:22 just within the past three days we've
+11:25 
+
+11:25 had three bias shifts alone you're
+11:27 
+
+11:27 finally wrong on plan a you're wrong on
+11:30 
+
+11:30 Plan B and you're wrong on plan a again
+11:32 
+
+11:32 this all happens within the span of
+11:35 
+
+11:35 three days with each Trend assumption
+11:37 
+
+11:37 allowing for an additional negative two
+11:40 
+
+11:40 percent of drawdown and then reclaim
+11:43 
+
+11:43 allowing for two percent of upside so
+11:45 
+
+11:45 with that I'm allowed to kind of assume
+11:48 
+
+11:48 that hey maybe whatever I was using
+11:51 
+
+11:51 previously that worked very very well is
+11:54 
+
+11:54 probably not going to work anymore and I
+11:56 
+
+11:56 need to take not just one but two steps
+11:58 
+
+11:58 back and totally reassess how I'm going
+12:01 
+
+12:01 about approaching this price action so
+12:02 
+
+12:02 at that point that's when I can kind of
+12:04 
+
+12:04 justify just hiding these entirely and
+12:07 
+
+12:07 taking on more of a range Traders
+12:09 
+
+12:09 mindset this is how we're going to look
+12:10 
+
+12:11 to approach price action moving forward
+12:12 
+
+12:12 and only after we break up or break down
+12:16 
+
+12:16 below the range am I then allowed to
+12:18 
+
+12:18 start scaling my bias from a low time
+12:21 
+
+12:21 frame perspective into a higher time
+12:24 
+
+12:24 frame Outlook so all that really means
+12:26 
+
+12:26 is in the event that we break up and out
+12:28 
+
+12:28 of the range that's when I'm allowed to
+12:30 
+
+12:30 come back and say that the high a time
+12:32 
+
+12:32 frame trend has taken priority and we're
+12:34 
+
+12:34 probably going to resume the uptrend
+12:36 
+
+12:36 just as we have for the entire price
+12:39 
+
+12:39 action that led up into creating this
+12:41 
+
+12:41 range and it works for the other side
+12:42 
+
+12:42 too so in the event that we lost this
+12:45 
+
+12:45 range low I would then be allowed to
+12:46 
+
+12:47 scale my bias into saying that perhaps
+12:49 
+
+12:49 now we've locked in more of a macro kind
+12:53 
+
+12:53 of top rather than just a local top
+12:55 
+
+12:55 because we're talking about low time
+12:57 
+
+12:57 frames here for Bitcoin and part of this
+12:59 
+
+12:59 video is actually me giving an
+13:01 
+
+13:01 actionable analysis today you do have to
+13:04 
+
+13:04 keep in mind that the higher time frame
+13:06 
+
+13:06 Trend would still be favored bullish
+13:08 
+
+13:08 anyways so the reality is that us
+13:11 
+
+13:11 breaking down below this range would
+13:13 
+
+13:13 just allow us to look for a deeper
+13:14 
+
+13:14 pullback and then the whole process
+13:16 
+
+13:16 starts all over again from there you go
+13:18 
+
+13:18 back into the snowball way of thinking
+13:20 
+
+13:20 at this point we can say that the
+13:22 
+
+13:22 snowball of weakness has compounded and
+13:25 
+
+13:25 allowed for additional bearish arguments
+13:28 
+
+13:28 to be made at which point we would zoom
+13:30 
+
+13:30 out and look for higher time frame
+13:32 
+
+13:32 levels of support to still play into the
+13:34 
+
+13:34 uptrend on higher time frames so in an
+13:37 
+
+13:37 ideal world where everything is rainbows
+13:39 
+
+13:39 and butterflies and dandelions BTC would
+13:41 
+
+13:41 break down below this range and head for
+13:43 
+
+13:43 this 28.6 K demand Zone and by the time
+13:46 
+
+13:46 that that happened our four hour 200
+13:48 
+
+13:48 moving averages would be confluent with
+13:51 
+
+13:51 that region as support to allow us to
+13:53 
+
+13:53 justify a higher low on the daily chart
+13:56 
+
+13:56 with a deeper sense of conviction due to
+13:58 
+
+13:58 the fact that there's some Confluence in
+14:00 
+
+14:00 that region so really quickly I just
+14:02 
+
+14:02 want to tie in everything that we've
+14:04 
+
+14:04 learned so here are a couple real life
+14:06 
+
+14:06 examples of exactly how I was trading
+14:08 
+
+14:08 Bitcoin using this kind of a mindset so
+14:11 
+
+14:11 as we can see the 15 minute 200 moving
+14:13 
+
+14:13 averages allowed for a massive push
+14:15 
+
+14:15 upwards now again there are some nuances
+14:18 
+
+14:18 here the 15 minute 200s were not the
+14:20 
+
+14:20 reason that I went bullish and traded
+14:23 
+
+14:23 this trend upwards in the first place
+14:24 
+
+14:24 but they eventually became the best way
+14:27 
+
+14:27 to portray that uptrend so that's plan a
+14:30 
+
+14:30 which means that the breakdown out of
+14:32 
+
+14:32 those 15 minute 200s creates Plan B the
+14:35 
+
+14:35 reclaim of those 15 minute 200s makes me
+14:38 
+
+14:38 want to go back to this plan remember we
+14:40 
+
+14:40 like this plan we made a lot of money
+14:42 
+
+14:42 using that plan so we will happily go
+14:45 
+
+14:45 back to it we use that as a
+14:46 
+
+14:46 justification for our entry you hide
+14:48 
+
+14:48 that stop loss below those moving
+14:50 
+
+14:50 averages below the recent Market
+14:52 
+
+14:52 structure and any sort of key local
+14:54 
+
+14:54 demand that might go along with them and
+14:56 
+
+14:56 you look for uptrend continuation
+14:58 
+
+14:58 amongst all time frames all that really
+15:01 
+
+15:01 means is I implemented plan a part two
+15:04 
+
+15:04 thankfully the market was nice enough to
+15:06 
+
+15:06 where plan C never really became a thing
+15:08 
+
+15:08 and now we're going to take the exact
+15:10 
+
+15:10 same concept and apply it to a higher
+15:12 
+
+15:12 time frame perspective on bitcoin not
+15:15 
+
+15:15 too long ago and in similar fashion a
+15:17 
+
+15:17 reclaim of the two hour 200s was not the
+15:20 
+
+15:20 bullish thesis but eventually the two
+15:22 
+
+15:22 hour 200s did become the most efficient
+15:25 
+
+15:25 Trend portrayal for Bitcoin I do kind of
+15:28 
+
+15:28 want to just state that it's impossible
+15:29 
+
+15:29 for you to miss this move if you're the
+15:31 
+
+15:31 person and playing into a snowball to
+15:34 
+
+15:34 snowman kind of way of thinking the
+15:35 
+
+15:35 entirety of my system is is built around
+15:38 
+
+15:38 catching extreme Trend kind of moves
+15:41 
+
+15:41 which lots of people do but not
+15:43 
+
+15:43 everybody can have a way of scaling out
+15:46 
+
+15:46 of that kind of a move so again two hour
+15:48 
+
+15:48 two hundreds most efficient Trend
+15:50 
+
+15:50 portrayal that's plan a losing that
+15:52 
+
+15:52 Trend breaking the market structure on
+15:55 
+
+15:55 something like the four hour or as I
+15:57 
+
+15:57 said it at the time the daily allows us
+15:59 
+
+15:59 to adapt that approach and take on Plan
+16:03 
+
+16:03 B and eventually the snowball of
+16:05 
+
+16:05 strength that gets reclaimed somewhere
+16:07 
+
+16:07 in this region allows for that snowball
+16:09 
+
+16:09 to compound into a much bigger argument
+16:11 
+
+16:11 at which point for all of say eight
+16:14 
+
+16:14 hours I'm forced to start looking for
+16:16 
+
+16:16 entries again literally eight hours
+16:18 
+
+16:18 later we fully retrace the move at which
+16:21 
+
+16:21 point we have gone from one bias over
+16:24 
+
+16:24 the course of a month that encompassed
+16:26 
+
+16:26 about 35 percent of price action to now
+16:29 
+
+16:29 one two three bias this is in the course
+16:32 
+
+16:32 of a week that have encompassed about 10
+16:34 
+
+16:34 percent of price action at that point
+16:36 
+
+16:36 this tweet basically saying at best
+16:39 
+
+16:39 maybe we chop sideways for a week is
+16:42 
+
+16:42 definitely me shifting into that plan C
+16:45 
+
+16:45 kind of a mindset at which point I can
+16:47 
+
+16:47 then go and draw a range and for the
+16:50 
+
+16:50 most part pretty much neglect these two
+16:52 
+
+16:52 hour 200 moving averages and only
+16:54 
+
+16:54 attribute significance to the much
+16:56 
+
+16:56 higher time frame upon breaking out of
+16:58 
+
+16:58 the range in either direction so then
+17:00 
+
+17:00 upon losing the range low I'm then
+17:03 
+
+17:03 allowed to come back and say that bias
+17:06 
+
+17:06 that initially shifted somewhere over
+17:08 
+
+17:08 here around 29k from about a month ago
+17:11 
+
+17:11 is actually the bias that I should be
+17:13 
+
+17:13 playing into as of now to which I was
+17:16 
+
+17:16 rewarded with further drawdown over the
+17:18 
+
+17:18 course of the next few weeks or so so I
+17:20 
+
+17:20 hope this helps you guys get a little
+17:22 
+
+17:22 bit of insight to how my brain works
+17:24 
+
+17:24 when I'm approaching Trends again this
+17:26 
+
+17:26 is probably the most Alpha that I'm ever
+17:29 
+
+17:29 going to possibly be able to drop
+17:31 
+
+17:31 because truly the greatest Edge in
+17:33 
+
+17:33 discretionary trading is your discretion
+17:35 
+
+17:35 in the form of knowing when not to be
+17:38 
+
+17:38 trading the style that you consider your
+17:40 
+
+17:41 bread and butter so if you're not using
+17:42 
+
+17:42 200 ma 200 EMA you don't see Market
+17:45 
+
+17:45 structure the way that I do and you
+17:47 
+
+17:47 don't see support and resistance the way
+17:48 
+
+17:48 that I do I want you to take the exact
+17:50 
+
+17:50 same Concepts and apply it to your
+17:52 
+
+17:53 system and kind of figure out how can
+17:55 
+
+17:55 you go about knowing when not to apply
+17:57 
+
+17:57 your system if you can figure that out
+17:59 
+
+17:59 and you have the balls to actually go
+18:02 
+
+18:02 and press the buttons in accordance with
+18:04 
+
+18:04 that way of thinking then I have a high
+18:06 
+
+18:06 degree of confidence that you're going
+18:07 
+
+18:07 to do very well for yourself in markets
+18:09 
+
+18:09 last thing before we go I am giving away
+18:11 
+
+18:11 a MacBook to anyone who's trading on my
+18:13 
+
+18:13 buy bit referral link so any of you
+18:15 
+
+18:15 watching this right now if you're
+18:17 
+
+18:17 already supporting me by trading on my
+18:19 
+
+18:19 buy bit referral link that really does
+18:20 
+
+18:20 help a lot so I do appreciate you very
+18:22 
+
+18:23 much and because of that Bible is
+18:25 
+
+18:25 allowing me to give back to you in some
+18:27 
+
+18:27 way so all you have to do is fill out
+18:29 
+
+18:29 that Google form in the description
+18:30 
+
+18:30 below and you'll be automatically
+18:32 
+
+18:32 entered to potentially win a Macbook for
+18:34 
+
+18:34 anyone who's already on by bit but
+18:36 
+
+18:36 you're not under my referral link you
+18:38 
+
+18:38 can still submit the form and that will
+18:41 
+
+18:41 actually make you eligible for the
+18:42 
+
+18:42 giveaway and put you underneath my buy
+18:45 
+
+18:45 bit link which by the way if you don't
+18:47 
+
+18:47 have a buy bit account but you want to
+18:48 
+
+18:48 make one again that is the greatest way
+18:50 
+
+18:50 to support me so the link to
+18:52 
+
+18:52 registerabibit account is also in the
+18:54 
+
+18:54 description below but other than that
+18:55 
+
+18:56 thank you so much guys make sure you
+18:58 
+
+18:58 like comment subscribe and share this
+18:59 
+
+18:59 with your grandmother I'm pretty sure
+19:01 
+
+19:01 she wants to know what the greatest Edge
+19:03 
+
+19:03 in trading is and to each of you much
+19:05 
+
+19:05 love and take it easy

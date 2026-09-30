@@ -1,0 +1,1033 @@
+00:01 all right what's going on everybody uh
+00:03 
+
+00:03 so today's video is just gonna be a
+00:04 
+
+00:04 quick video discussing leverage uh and
+00:07 
+
+00:07 how to use it appropriately so that
+00:08 
+
+00:08 we're not
+00:10 
+
+00:10 taking on the inherent risk of being
+00:12 
+
+00:12 exposed to a specific exchange
+00:14 
+
+00:14 um obviously you know crypto operates
+00:17 
+
+00:17 around this whole you know peer-to-peer
+00:18 
+
+00:18 sort of you know decentralization uh
+00:21 
+
+00:21 notion so we need to make sure that we
+00:24 
+
+00:24 are taking that into account and not
+00:27 
+
+00:27 giving everything and putting everything
+00:30 
+
+00:30 into the hands of one entity whether
+00:33 
+
+00:33 that be
+00:34 
+
+00:34 the market itself right you don't want
+00:36 
+
+00:36 to have to rely on the market to go up
+00:38 
+
+00:38 or go down via being over leveraged and
+00:40 
+
+00:40 then you have to start adding more and
+00:43 
+
+00:43 more collateral
+00:44 
+
+00:44 to uh or adding more margin
+00:47 
+
+00:47 um to bring down liquidation prices uh
+00:50 
+
+00:50 you don't want to be exposed to a
+00:52 
+
+00:52 specific exchange or specific entity
+00:53 
+
+00:53 right and you don't want to have to rely
+00:55 
+
+00:55 on these billionaires to come in and
+00:57 
+
+00:57 bail out other billionaires so obviously
+00:60 
+
+00:60 I know that this is pretty hard to hear
+01:03 
+
+01:03 for a lot of you because you are deeply
+01:04 
+
+01:04 affected by FTX and for that I'm sorry I
+01:07 
+
+01:07 have many friends that were deeply
+01:08 
+
+01:08 affected I managed to get out unscathed
+01:10 
+
+01:11 but
+01:12 
+
+01:12 um this is obviously more relevant to us
+01:14 
+
+01:14 today than ever so the market still
+01:17 
+
+01:17 exists it's still here it's still liquid
+01:20 
+
+01:20 as you know liquid enough for us to come
+01:23 
+
+01:23 in and want to trade it
+01:25 
+
+01:25 so that means that there's is still an
+01:28 
+
+01:28 incentive to deposit into other
+01:30 
+
+01:30 exchanges and then trade derivatives
+01:32 
+
+01:32 right so
+01:33 
+
+01:33 um if you are looking to do that then
+01:35 
+
+01:35 you need to take this into account at
+01:38 
+
+01:38 least moving forward uh but basically I
+01:41 
+
+01:41 just want to give a message and say that
+01:43 
+
+01:43 if you are using leverage you need to be
+01:45 
+
+01:45 using it appropriately and a lot of
+01:47 
+
+01:47 people don't understand why leverage was
+01:49 
+
+01:49 even created in the first place uh
+01:51 
+
+01:51 leverage was initially created as a way
+01:53 
+
+01:53 to incentivize people to onboard their
+01:56 
+
+01:56 Capital without having to take on the
+01:58 
+
+01:58 inherent risk of onboarding all of their
+02:01 
+
+02:01 Capital right so and Leverage is a
+02:04 
+
+02:04 concept that goes back for decades this
+02:06 
+
+02:06 is not something that was created
+02:08 
+
+02:08 specifically for crypto it's just that
+02:10 
+
+02:10 crypto has then taken that
+02:13 
+
+02:13 sort of
+02:14 
+
+02:14 um you know incentive and Tool and it
+02:17 
+
+02:17 started to become utilized for different
+02:20 
+
+02:20 reasons right hey now we can trade with
+02:22 
+
+02:22 more money than what we're actually
+02:23 
+
+02:23 Worth and be total degenes and run up
+02:26 
+
+02:26 accounts by you know unbelievable uh
+02:30 
+
+02:30 exponential amounts right that is not
+02:32 
+
+02:32 the appropriate way to use leverage so
+02:35 
+
+02:35 um using Leverage is essentially oh just
+02:38 
+
+02:38 give a quick example if you're worth a
+02:40 
+
+02:40 hundred thousand dollars uh and let's
+02:42 
+
+02:42 say you want to be trading with all
+02:45 
+
+02:45 hundred thousand of of your capital of
+02:48 
+
+02:48 your net worth right uh instead of
+02:50 
+
+02:50 depositing all 100 000 onto an exchange
+02:53 
+
+02:53 let's say buy bit for example you don't
+02:56 
+
+02:56 have to do that you can instead only
+02:58 
+
+02:58 deposit ten thousand and then use 10x
+03:02 
+
+03:02 leverage and then imitate as if you're
+03:05 
+
+03:05 still trading with your full hundred
+03:06 
+
+03:06 thousand dollars right and that way
+03:08 
+
+03:08 you're not taking on the inherent risk
+03:10 
+
+03:10 of I'm not trying to FUD by bit I'm
+03:13 
+
+03:13 literally sponsored by Bible and and
+03:15 
+
+03:15 they just put out a tweets saying that
+03:17 
+
+03:17 they're perfectly one-to-one backed but
+03:20 
+
+03:20 you know obviously this goes just as a
+03:23 
+
+03:23 general rule of thumb you don't want
+03:25 
+
+03:25 your exposure and you don't want your
+03:27 
+
+03:27 safety and your security to be in the
+03:29 
+
+03:29 hands of buy bit or any other entity
+03:31 
+
+03:31 period so you utilize leverage to to
+03:34 
+
+03:35 mitigate that sort of risk and you use
+03:37 
+
+03:38 10 000 of your net worth right out of
+03:40 
+
+03:40 your hundred thousand so you're only
+03:42 
+
+03:42 using ten percent but then when you put
+03:44 
+
+03:44 on 10x leverage all of a sudden you are
+03:46 
+
+03:46 imitating trading with your full amount
+03:47 
+
+03:47 and as long as you are not being a
+03:51 
+
+03:51 full-fledged [ __ ] degenerate and you
+03:54 
+
+03:54 need access to your liquid Capital the
+03:56 
+
+03:56 other ninety thousand that could be
+03:58 
+
+03:58 perfectly fine and sitting in your bank
+04:00 
+
+04:00 account or under your mattress or in a
+04:02 
+
+04:02 cold storage or whatever the [ __ ] right
+04:04 
+
+04:04 as long as you don't need liquid access
+04:06 
+
+04:06 to that Capital to then deposit to that
+04:09 
+
+04:09 exchange to add on you know collateral
+04:12 
+
+04:12 because you're a degenerate and you're
+04:13 
+
+04:13 at risk of getting liquidated or
+04:15 
+
+04:15 whatever
+04:16 
+
+04:16 then you should be fine you should be
+04:18 
+
+04:18 able to fully operate with that ten
+04:19 
+
+04:19 thousand dollars right and let's say hey
+04:22 
+
+04:22 you want to go buy Spot okay cool
+04:23 
+
+04:23 deposit thirty thousand dollars of spot
+04:26 
+
+04:26 buy whatever you need to buy and then
+04:28 
+
+04:28 move it to a cold storage or move it to
+04:30 
+
+04:30 a hot wallet or you know metamask or
+04:31 
+
+04:32 whatever right that's the proper way to
+04:35 
+
+04:35 go about this so it's becoming more and
+04:38 
+
+04:38 more apparent to me I talked with a good
+04:40 
+
+04:40 friend of mine he was a mega mega mega
+04:42 
+
+04:42 whale and has been in the space for for
+04:44 
+
+04:44 a very very long time and he asked me
+04:47 
+
+04:47 has the recent events as of the past
+04:49 
+
+04:49 year change the way that you view bear
+04:51 
+
+04:51 markets and my exact response was
+04:54 
+
+04:54 actually it absolutely has because it's
+04:57 
+
+04:57 shown me that risk management and the
+04:59 
+
+04:59 term Bearer Market refers to more than
+05:02 
+
+05:02 just price action it refers to just
+05:05 
+
+05:05 being affiliated with the space in
+05:07 
+
+05:07 general
+05:08 
+
+05:08 all right some of your favorite people
+05:09 
+
+05:09 your favorite influencers have given up
+05:11 
+
+05:11 some of your exchanges that you use have
+05:14 
+
+05:14 been proven to be insolvent some of the
+05:16 
+
+05:16 people that you have looked up to have
+05:18 
+
+05:18 have uh proven to be scammy and scum of
+05:22 
+
+05:22 the earth right some of these stable
+05:24 
+
+05:24 coins that you've been invested in have
+05:26 
+
+05:26 gone to zero right that's what it means
+05:29 
+
+05:29 to be in a bear market and that needs to
+05:32 
+
+05:32 be the understanding moving forward and
+05:35 
+
+05:35 it's becoming more and more apparent to
+05:37 
+
+05:37 me with each and every single passing
+05:39 
+
+05:39 moment so uh and therefore risk
+05:42 
+
+05:42 management and what it means to be a
+05:46 
+
+05:46 well-managed sort of Trader or a
+05:49 
+
+05:49 well-managed sort of Market participant
+05:51 
+
+05:51 that accounts for risk has now totally
+05:55 
+
+05:55 been redefined right and that should
+05:58 
+
+05:58 have always been the case and based off
+06:00 
+
+06:00 of this notion is how I've been uh able
+06:03 
+
+06:03 to really be pretty much unaffected by
+06:06 
+
+06:06 the whole craziness that is FTX but it's
+06:09 
+
+06:09 just becoming more relevant to us today
+06:11 
+
+06:11 right because something like Celsius
+06:13 
+
+06:13 even might not have been that eye-opener
+06:17 
+
+06:17 because let's be honest how many of your
+06:19 
+
+06:19 friends had money on Celsius right I
+06:21 
+
+06:21 maybe know two or three people that had
+06:23 
+
+06:23 money on Celsius and were heavily
+06:25 
+
+06:25 affected by that sort of thing but when
+06:27 
+
+06:27 it's something like FTX now that's
+06:29 
+
+06:29 dragging down a big portion of the
+06:31 
+
+06:31 market right FTX is a big player so all
+06:34 
+
+06:34 of a sudden we start to become affected
+06:36 
+
+06:36 or people that we know and love and
+06:38 
+
+06:38 cherish right as friends uh start to
+06:40 
+
+06:40 become affected your favorite
+06:41 
+
+06:41 influencers have started to become
+06:43 
+
+06:43 infected so it's it's more relevant
+06:47 
+
+06:47 today so let other people's mistakes
+06:49 
+
+06:49 guide you into not making those mistakes
+06:52 
+
+06:52 yourself right and then the second
+06:55 
+
+06:55 portion of this video is a very quick
+06:57 
+
+06:57 hey here's how to manage risk per just
+07:00 
+
+07:00 simply as a trade to trade sort of basis
+07:03 
+
+07:03 right it's very simple so all we're
+07:06 
+
+07:06 going to do is we're going to talk about
+07:07 
+
+07:07 how do you manage risk on a specific
+07:10 
+
+07:10 trade and all that means is you take
+07:13 
+
+07:13 this very very simple
+07:18 
+
+07:18 it's very simple equation and all it is
+07:22 
+
+07:22 is where's my text box
+07:24 
+
+07:24 um all right hold on I'll pause and I'll
+07:26 
+
+07:26 come back
+07:28 
+
+07:28 all right so here we go so the very
+07:31 
+
+07:31 simple equation to determine your risk
+07:33 
+
+07:33 management how you're going to manage
+07:35 
+
+07:35 your risk for every single individual
+07:37 
+
+07:37 trade right now we're getting more basic
+07:39 
+
+07:39 we're not talking about risk management
+07:41 
+
+07:41 as a whole being a participant we're
+07:43 
+
+07:43 just talking about how are you managing
+07:45 
+
+07:45 your risk on a specific trade and you're
+07:46 
+
+07:46 going to see how most of the time
+07:48 
+
+07:48 Leverage is pretty useless you shouldn't
+07:51 
+
+07:51 really always need to use Leverage
+07:53 
+
+07:53 well let's just give an example really
+07:55 
+
+07:55 quick right so uh let's say you have a
+07:57 
+
+07:57 ten thousand dollar account right so ten
+07:59 
+
+07:59 thousand dollar account
+08:01 
+
+08:01 let's just go ahead and write that out
+08:03 
+
+08:03 and out of that ten thousand dollars you
+08:06 
+
+08:06 you use a very generic sort of general
+08:09 
+
+08:09 rule and you you risk one percent of
+08:12 
+
+08:12 your account per trade so that would
+08:15 
+
+08:15 mean that your risk amount is a hundred
+08:18 
+
+08:18 dollars right so your risk amount
+08:21 
+
+08:21 hundred dollars
+08:23 
+
+08:23 your total account ten thousand dollars
+08:25 
+
+08:25 you risk one percent hundred dollar risk
+08:27 
+
+08:27 amount and now you wanna divide that per
+08:30 
+
+08:30 or whatever your stop loss is for that
+08:33 
+
+08:33 specific trade that you're going to be
+08:34 
+
+08:34 taking
+08:35 
+
+08:35 so we'll do a hundred dollars divided by
+08:40 
+
+08:40 0.02 so all your whoops
+08:44 
+
+08:44 0.02 right all you do is turn that stop
+08:47 
+
+08:47 loss amount that two percent into a
+08:49 
+
+08:49 decimal uh it's very easy you just move
+08:51 
+
+08:51 over the decimal point you know two uh
+08:54 
+
+08:54 and then you have your stop loss amount
+08:57 
+
+08:57 and then once you do that equation 100
+08:60 
+
+08:60 divided by 0.02 that's going to give you
+09:02 
+
+09:02 a number and if as long as I'm not a
+09:04 
+
+09:04 complete [ __ ] idiot that number is
+09:07 
+
+09:07 five thousand dollars right so five
+09:09 
+
+09:09 thousand dollars is the position size
+09:11 
+
+09:11 that you should be going into for this
+09:14 
+
+09:14 specific trade setup that I'm showing
+09:16 
+
+09:16 you here right if you have two grand
+09:20 
+
+09:20 deposited onto that Exchange
+09:23 
+
+09:23 meaning you're you're risking 20 of your
+09:27 
+
+09:27 overall account onto that centralized
+09:29 
+
+09:29 exchange specifically you need about two
+09:33 
+
+09:33 and a half so we'll just call it 3x
+09:35 
+
+09:35 leverage in order to fully fill into
+09:39 
+
+09:39 this trade for your proper position size
+09:43 
+
+09:43 whilst still managing your risk via your
+09:48 
+
+09:48 risk amount right so now you're using
+09:50 
+
+09:50 leverage appropriately you're you're
+09:52 
+
+09:52 allocating a specific amount to that
+09:54 
+
+09:54 exchange and then per that every single
+09:57 
+
+09:57 setup that you take you're going to
+09:58 
+
+09:58 start to work out with this very simple
+10:01 
+
+10:01 equation and then you can determine how
+10:03 
+
+10:03 much leverage do I need to size
+10:05 
+
+10:05 appropriately right and then assuming
+10:07 
+
+10:07 that your stop loss is something much
+10:09 
+
+10:09 larger right unless so let's say uh 10
+10:12 
+
+10:12 percent
+10:13 
+
+10:13 then you don't need leverage if you have
+10:16 
+
+10:16 two thousand dollars deposited and your
+10:18 
+
+10:18 stop loss is ten percent and you have
+10:20 
+
+10:20 two grand deposited onto that exchange
+10:23 
+
+10:23 well in order to risk a hundred dollars
+10:27 
+
+10:27 on that specific trade you would only
+10:29 
+
+10:29 need a thousand dollar position size
+10:31 
+
+10:31 right so you wouldn't need leverage at
+10:34 
+
+10:34 all so that's the proper way to use
+10:36 
+
+10:36 leverage and I would hope that this
+10:38 
+
+10:38 video just gives everybody a nice little
+10:39 
+
+10:39 rundown uh somebody on Twitter asked me
+10:42 
+
+10:42 about
+10:43 
+
+10:43 um what is leveraged exactly and how how
+10:45 
+
+10:45 should we be managing risk per trade
+10:47 
+
+10:47 setup so this video is a nice little
+10:49 
+
+10:49 combination uh in between both of those
+10:53 
+
+10:53 um and like I said guys I know that this
+10:54 
+
+10:54 is probably
+10:56 
+
+10:56 um might come off as insensitive because
+10:57 
+
+10:57 I'm sitting here and trying to give oh
+10:60 
+
+10:60 here's how to manage your risk guys
+11:01 
+
+11:01 right during the midst of all this
+11:03 
+
+11:03 [ __ ] chaos and whatnot
+11:05 
+
+11:05 um but there is still opportunity here
+11:08 
+
+11:08 in the market obviously I know that you
+11:10 
+
+11:10 guys are [ __ ] degenerates just like
+11:11 
+
+11:11 myself and you're still going to be
+11:12 
+
+11:12 trading
+11:14 
+
+11:14 um and that's just the reality of the
+11:15 
+
+11:15 situation so if you're going to continue
+11:17 
+
+11:17 trading
+11:19 
+
+11:19 um do so appropriately don't be a
+11:21 
+
+11:21 [ __ ] degenerate don't ever risk more
+11:23 
+
+11:23 than what you need to risk uh and use
+11:26 
+
+11:26 leverage appropriately be methodical in
+11:28 
+
+11:28 your sort of approach and also use my
+11:30 
+
+11:30 buy bit referral link
+11:32 
+
+11:32 right so that uh you know it's a bear
+11:35 
+
+11:35 Market guys Bitcoin is currently trading
+11:37 
+
+11:37 at 17K so I need you guys to use my buy
+11:40 
+
+11:40 bit referral link
+11:42 
+
+11:42 um but no in all seriousness uh that
+11:44 
+
+11:44 does really help me out a lot it is the
+11:46 
+
+11:46 greatest way to support me just using
+11:47 
+
+11:47 that by bit referral link and also at
+11:49 
+
+11:49 the moment they have a pretty sweet
+11:51 
+
+11:51 um deposit campaign going on where
+11:53 
+
+11:53 depending on how much you deposit the
+11:56 
+
+11:56 maximum you could possibly get as a
+11:58 
+
+11:58 deposit incentive is thirty thousand
+11:60 
+
+11:60 dollars as a bonus so I'm Gonna Leave
+12:03 
+
+12:03 the details to that in the description
+12:04 
+
+12:05 below and and obviously a link because I
+12:07 
+
+12:07 like to show I like to show my reflink
+12:09 
+
+12:09 uh
+12:11 
+
+12:11 um you know contrary to popular belief
+12:13 
+
+12:13 I'm not that much of a scammy piece of
+12:15 
+
+12:15 [ __ ] I've been using by bit since 2019
+12:17 
+
+12:17 so I have no problem Shilling them uh
+12:20 
+
+12:20 and also like I said Ben bybit just
+12:21 
+
+12:21 tweeted out yesterday that uh there's no
+12:24 
+
+12:24 problem with customer funds they're
+12:25 
+
+12:25 backed one to one uh so that's obviously
+12:28 
+
+12:28 enlightening a little bit uh makes me
+12:30 
+
+12:30 feel better about chilling but obviously
+12:33 
+
+12:33 I I myself apply this same exact
+12:36 
+
+12:36 understanding because I understand that
+12:38 
+
+12:38 there's inherent risk as being involved
+12:41 
+
+12:41 with crypto just at the very basic level
+12:43 
+
+12:43 and that goes for centralized exchanges
+12:45 
+
+12:45 that goes for stable coins that goes for
+12:47 
+
+12:47 everything uh your safety is not safety
+12:50 
+
+12:50 right safety in this uh space is an
+12:52 
+
+12:52 absolute fallacy it's too lucrative it's
+12:55 
+
+12:55 too Innovative it's too new it's too
+12:57 
+
+12:57 it's too infant right it it's just the
+12:60 
+
+12:60 reality of the situation so obviously
+13:02 
+
+13:02 you do your due diligence
+13:04 
+
+13:04 um but if you are interested in in
+13:06 
+
+13:06 continuing to trade then or supporting
+13:08 
+
+13:08 me then signing up to my Library full
+13:10 
+
+13:10 link is definitely the best way to go
+13:12 
+
+13:12 about doing that so much love I hope
+13:14 
+
+13:14 this video found a lot of you well I
+13:16 
+
+13:16 hope it's not insensitive
+13:18 
+
+13:18 um I'm just trying to help where I can
+13:20 
+
+13:20 and make sure that everybody's all good
+13:23 
+
+13:23 um much love everybody I hope you're
+13:24 
+
+13:24 doing okay and take it easy peace

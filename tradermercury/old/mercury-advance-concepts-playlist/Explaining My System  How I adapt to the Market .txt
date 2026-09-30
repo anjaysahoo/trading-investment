@@ -1,0 +1,1933 @@
+00:01 all right what's up guys so recently I
+00:03 
+
+00:03 had a good friend of mine ask me a bit
+00:05 
+
+00:05 more about my system
+00:07 
+
+00:07 uh and a lot of you guys have been
+00:08 
+
+00:08 asking me about my system because of
+00:10 
+
+00:10 that whole Alpha Illustrated interview
+00:13 
+
+00:13 uh and there's a lot of nuances to go
+00:16 
+
+00:16 with the system it seems very simple and
+00:18 
+
+00:18 truthfully uh in that interview I even
+00:20 
+
+00:20 said hey my Approach is overly
+00:22 
+
+00:22 simplified and pretty straightforward
+00:25 
+
+00:25 um and then I kind of dig into like hey
+00:27 
+
+00:27 you know I use Market structure I use
+00:29 
+
+00:29 200 moving averages and I use you know
+00:32 
+
+00:32 support and resistance which I use those
+00:34 
+
+00:34 in the form of like gray boxes uh and
+00:36 
+
+00:36 then the occasional Fibonacci draw
+00:38 
+
+00:38 usually when we're in price discovery
+00:41 
+
+00:41 so just to kind of give everybody a bit
+00:44 
+
+00:44 better of an understanding about how I
+00:46 
+
+00:46 approach things today's video is going
+00:48 
+
+00:48 to be more about technical analysis it's
+00:50 
+
+00:50 not really going to be so heavily
+00:52 
+
+00:52 psychology based because you guys know
+00:54 
+
+00:54 that I am primarily like that is kind of
+00:57 
+
+00:57 my bread and butter right it's kind of
+00:59 
+
+00:59 where I shine uh and I you know deemed
+01:01 
+
+01:01 that my forte or whatever so
+01:04 
+
+01:04 um not as much psychology however I do
+01:07 
+
+01:07 want to kind of front run myself and say
+01:08 
+
+01:08 the TA aspect of trading is very much
+01:13 
+
+01:13 arbitrary right in my eyes uh it's just
+01:17 
+
+01:17 vanity it's a way of portraying
+01:19 
+
+01:19 is very simple concepts of like hey if I
+01:23 
+
+01:23 look at this chart
+01:25 
+
+01:25 you know from April to current price
+01:28 
+
+01:28 which way are we trending okay well
+01:31 
+
+01:31 we're heading to the bottom right corner
+01:33 
+
+01:33 right and even when we zoom out further
+01:34 
+
+01:34 you can say hey
+01:36 
+
+01:36 from November to today which way are we
+01:39 
+
+01:39 trending and then a four-year-old would
+01:41 
+
+01:41 be able to tell you well we're heading
+01:42 
+
+01:42 to the bottom right corner right so ta
+01:44 
+
+01:44 to me is more of an arbitrary way to
+01:48 
+
+01:48 portray that that very simple
+01:50 
+
+01:50 understanding uh and it's nothing more
+01:52 
+
+01:52 than that right
+01:53 
+
+01:53 how you go about approaching that
+01:56 
+
+01:56 analysis that very simple concept kind
+01:59 
+
+01:59 of determines are you a winner are you a
+02:01 
+
+02:01 loser at the end of the year right so
+02:03 
+
+02:03 that's the way that I look at it uh it's
+02:05 
+
+02:05 not so much like you know this is my
+02:08 
+
+02:08 Alpha this is my Edge it's reaffirming
+02:11 
+
+02:11 ideas that I already have just based off
+02:13 
+
+02:14 of looking at things and taking it at
+02:16 
+
+02:16 face value for what it is right and it's
+02:18 
+
+02:18 a way for me to give my puny little
+02:20 
+
+02:20 brain a way of justifying those thoughts
+02:23 
+
+02:23 so that I can actually go and take
+02:25 
+
+02:25 action off of them and hopefully make
+02:28 
+
+02:28 money right so let's dig into it a
+02:31 
+
+02:31 little bit I am a price action Trader
+02:33 
+
+02:33 that uses things like Market structure
+02:36 
+
+02:36 along with 200 moving averages and gray
+02:39 
+
+02:39 boxes right I get a lot of questions
+02:41 
+
+02:41 about Mercury how do you draw your
+02:43 
+
+02:43 support and resistance it's very simple
+02:45 
+
+02:45 do not overthink it
+02:47 
+
+02:47 don't hurt yourself it's every single
+02:49 
+
+02:49 time that I see consistent TAPS at a
+02:52 
+
+02:52 single kind of horizontal General region
+02:55 
+
+02:55 right and I emphasize General because
+02:57 
+
+02:57 I'm primarily like a swing Trader I'm
+02:60 
+
+02:60 not really on the five minute you very
+03:02 
+
+03:02 rarely catch me on the 15 minute even so
+03:04 
+
+03:05 I don't really scalp right so I don't
+03:07 
+
+03:07 need a very precise understanding of
+03:09 
+
+03:09 where is the support and resistance you
+03:12 
+
+03:12 could also kind of cheat is what I call
+03:14 
+
+03:14 it I call it cheating
+03:15 
+
+03:15 uh this is a less speculative kind of
+03:18 
+
+03:18 way of viewing things when you have
+03:19 
+
+03:19 ranges though uh you tend to have volume
+03:22 
+
+03:22 kind of mixing all within that price
+03:24 
+
+03:24 action and that's not really going to
+03:26 
+
+03:26 give you two uh great of an
+03:28 
+
+03:28 understanding of where is the support
+03:30 
+
+03:30 and resistance it's just giving you an
+03:32 
+
+03:32 idea of hey there's a you know a large
+03:34 
+
+03:34 volume block here and that's obviously
+03:37 
+
+03:37 the point of control but really you can
+03:38 
+
+03:38 say you know for the majority of that
+03:40 
+
+03:40 that's kind of all one block so you
+03:43 
+
+03:43 would have to label all of this as
+03:46 
+
+03:46 support and resistance right and that's
+03:47 
+
+03:47 a really big gray box and that's not an
+03:49 
+
+03:49 actionable analysis so there's times
+03:51 
+
+03:51 where this uh fixed range volume profile
+03:53 
+
+03:53 is a bit
+03:54 
+
+03:54 um better uh but I primarily like 99 of
+03:59 
+
+03:59 the time just rely on my own very simple
+04:02 
+
+04:02 understanding of where is the support
+04:03 
+
+04:03 where is the resistance
+04:05 
+
+04:05 so very simple I'm just drawing gray
+04:07 
+
+04:07 boxes every single time that I see
+04:09 
+
+04:09 something tapped right
+04:12 
+
+04:12 so we could go straight across and this
+04:13 
+
+04:13 is again it's very arbitrary like you
+04:16 
+
+04:16 might not see the same gray boxes that I
+04:19 
+
+04:19 see right uh the four hour 200 moving
+04:22 
+
+04:22 averages which is what we're currently
+04:23 
+
+04:23 looking at I get a lot of questions
+04:25 
+
+04:25 about hey Merc the four hour two
+04:27 
+
+04:27 hundreds four hour 200s four hour two
+04:29 
+
+04:29 hundreds right I get a lot of questions
+04:31 
+
+04:31 about charts about the four hour 200s
+04:34 
+
+04:34 when charts look like this
+04:36 
+
+04:36 and it's like uh what the hell is going
+04:39 
+
+04:39 on here right we're trading below and
+04:41 
+
+04:41 then we're trading above and then back
+04:42 
+
+04:42 below and then back above and back below
+04:44 
+
+04:44 and back above but back below again and
+04:46 
+
+04:46 back above right you're not really
+04:49 
+
+04:49 giving yourself any sort of edge there
+04:51 
+
+04:51 there's no Alpha using these four hour
+04:53 
+
+04:53 two hundreds you want to stay dynamic
+04:56 
+
+04:56 you want to stop kind of force feeding
+04:58 
+
+04:58 your system onto the market and instead
+05:01 
+
+05:01 just kind of ask whatever chart you're
+05:04 
+
+05:04 looking at hey what is it that you
+05:06 
+
+05:06 respect right so in this sort of Market
+05:08 
+
+05:08 environment and I talked about this uh
+05:11 
+
+05:11 early February somewhere around here
+05:12 
+
+05:12 where I said hey I have a fear of chop
+05:15 
+
+05:15 and that was just kind of based off of
+05:17 
+
+05:17 instinct and experience but we
+05:19 
+
+05:19 eventually saw this chop right and you
+05:22 
+
+05:22 wouldn't want to apply a trend Trader
+05:25 
+
+05:25 system in in a market that is not
+05:28 
+
+05:28 trending so you would more so just kind
+05:31 
+
+05:31 of gravitate towards hey we're either
+05:33 
+
+05:33 ranging right and we said range highs
+05:35 
+
+05:35 and then range lows or you could even
+05:38 
+
+05:38 say in this case we went from a range to
+05:40 
+
+05:40 more of like a consolidation right where
+05:42 
+
+05:42 we saw lower Highs but then higher lows
+05:44 
+
+05:44 and that just kind of portrays that
+05:46 
+
+05:46 exact same idea so remember uh the way
+05:49 
+
+05:49 that I see it is I have a four second
+05:51 
+
+05:51 rule and within four seconds you should
+05:54 
+
+05:54 be able to tell me
+05:55 
+
+05:55 are we uptrending are we down trending
+05:58 
+
+05:58 are we going sideways in the form of a
+05:59 
+
+05:59 range
+06:00 
+
+06:00 right or are we going sideways in the
+06:02 
+
+06:02 form of consolidation
+06:04 
+
+06:04 so that would be
+06:05 
+
+06:05 we started ranging and then we
+06:07 
+
+06:07 eventually Consolidated right and these
+06:09 
+
+06:09 sort of Market environments you're not
+06:11 
+
+06:11 applying a trend Trader system which is
+06:14 
+
+06:14 the moving averages aspect of my system
+06:18 
+
+06:18 right I wouldn't be applying that there
+06:19 
+
+06:19 I would be very much ignoring it and
+06:22 
+
+06:22 waiting until it starts to become useful
+06:24 
+
+06:24 once again and the way that you kind of
+06:26 
+
+06:26 go about doing that and adapting
+06:28 
+
+06:28 is you acknowledge that this is an alpha
+06:31 
+
+06:31 right it's Alpha it's an edge uh it's
+06:34 
+
+06:34 very clearly respected it's clearly
+06:36 
+
+06:36 defined we're portraying this arbitrary
+06:38 
+
+06:38 thought that hey we are quite clearly
+06:40 
+
+06:40 headed to the bottom right corner a 10
+06:43 
+
+06:43 year old could tell us this so what are
+06:45 
+
+06:45 we gonna use to portray that idea so
+06:47 
+
+06:47 that we can kind of get an edge and a
+06:49 
+
+06:49 jump before our 10 year old and
+06:51 
+
+06:51 determine when things are no longer
+06:53 
+
+06:53 heading to the bottom right corner right
+06:55 
+
+06:55 and you would say well four hour two
+06:57 
+
+06:57 hundreds because we respected those
+06:59 
+
+06:59 several times as macro tops right so
+07:01 
+
+07:01 then this price action you would reclaim
+07:04 
+
+07:04 you would immediately assume bullishness
+07:07 
+
+07:07 and you would only get 10 before
+07:11 
+
+07:11 immediately retesting your Trend that is
+07:13 
+
+07:13 technically the ideal
+07:15 
+
+07:15 sort of pull back long that is you know
+07:18 
+
+07:18 longer Longs all in spot kind of Entry
+07:20 
+
+07:20 Zone you only get about five to eight
+07:23 
+
+07:23 percent push up after that and then you
+07:26 
+
+07:26 immediately lose your Trend all over
+07:27 
+
+07:27 again so what does that kind of tell you
+07:29 
+
+07:29 now you went from a three month long
+07:30 
+
+07:30 Trend to like a week-long trend to okay
+07:35 
+
+07:35 now you have to assume either downtrend
+07:37 
+
+07:37 or chop and now you have to assume chop
+07:40 
+
+07:40 right because we went from week-long
+07:43 
+
+07:43 Trend week-long Trend after a three
+07:46 
+
+07:46 month long right negative 50 kind of
+07:49 
+
+07:49 drawdown you get one month or I'm sorry
+07:51 
+
+07:51 one week ten percent one week negative
+07:54 
+
+07:54 10 whatever right one week or not even
+07:56 
+
+07:56 couple days ten percent
+07:58 
+
+07:58 couple days negative five percent right
+08:01 
+
+08:01 so now you're chopping that kind of
+08:02 
+
+08:02 tells you hey you need to adjust stop
+08:05 
+
+08:05 applying a very very static approach to
+08:07 
+
+08:08 the market
+08:08 
+
+08:08 so again I say this a lot but your
+08:12 
+
+08:12 system is not going to be Alpha 100 of
+08:15 
+
+08:15 the time and again we are using
+08:18 
+
+08:18 something very arbitrary like moving
+08:21 
+
+08:21 averages obviously if we are down
+08:23 
+
+08:23 trending and heading to the bottom right
+08:24 
+
+08:24 corner these moving averages are going
+08:27 
+
+08:27 to be a kind of self-fulfilling prophecy
+08:29 
+
+08:29 because they follow whatever price is
+08:31 
+
+08:31 doing right so if we were ever going to
+08:34 
+
+08:34 downtrend into literal zero for Bitcoin
+08:36 
+
+08:36 you would have to see these moving
+08:38 
+
+08:38 averages sloped downwards right it's
+08:41 
+
+08:41 this self-fulfilling kind of Prophecy
+08:42 
+
+08:42 but
+08:45 
+
+08:45 when we're not trending and we're going
+08:47 
+
+08:47 in a sideways environment you don't want
+08:49 
+
+08:49 to be applying your moving average
+08:51 
+
+08:51 strategy
+08:52 
+
+08:52 uh you will get very much chopped up
+08:54 
+
+08:54 right assuming hey if we had to go to
+08:57 
+
+08:57 100K we have to do this first hey if
+08:59 
+
+08:59 we're going to go to zero we have to do
+09:00 
+
+09:00 this first hey if we're going to go 100K
+09:02 
+
+09:02 we have to do this first zero first
+09:03 
+
+09:03 right and you would just absolutely hate
+09:06 
+
+09:06 your life and your your entire portfolio
+09:07 
+
+09:08 would draw down very quickly so
+09:10 
+
+09:10 um the important part is not knowing
+09:13 
+
+09:13 when to apply the strategy is knowing
+09:16 
+
+09:16 when not to apply the strategy in the
+09:18 
+
+09:18 system right so I'm using a Confluence
+09:20 
+
+09:20 of these things like gray boxes moving
+09:23 
+
+09:23 averages right to give myself a general
+09:25 
+
+09:25 kind of understanding that hey there's
+09:28 
+
+09:28 probably some horizontal resistance in
+09:30 
+
+09:30 this region as well as I know that
+09:32 
+
+09:32 there's like this macro Trend resistance
+09:34 
+
+09:34 in this region so I can kind of assume
+09:38 
+
+09:38 that if we were ever going to continue
+09:39 
+
+09:39 down trending this is a really good
+09:41 
+
+09:41 place to continue doing that at right so
+09:44 
+
+09:44 it's a nice place to put in a macro top
+09:46 
+
+09:47 and to coincide with that analysis I
+09:49 
+
+09:50 could also say hey if we reclaim those
+09:52 
+
+09:52 zones well now we are trending above the
+09:55 
+
+09:56 that gray box we've reclaimed the four
+09:57 
+
+09:57 hour 200s our Market structure however
+09:60 
+
+09:60 we want to look at it right it doesn't
+10:02 
+
+10:02 really matter what time frame you'll
+10:03 
+
+10:03 look at you would have to say we are in
+10:06 
+
+10:06 fact up trending heading to this top
+10:07 
+
+10:08 right corner look at that all of a
+10:10 
+
+10:10 sudden our entire system agrees right
+10:12 
+
+10:12 and from there we're either right or
+10:16 
+
+10:16 we're forced to readjust
+10:18 
+
+10:18 in this case
+10:20 
+
+10:20 all the way back here
+10:22 
+
+10:22 right this is July of 2021. in this case
+10:25 
+
+10:25 if you make that assumption you are
+10:27 
+
+10:27 right you don't have to adjust all you
+10:30 
+
+10:30 have to do is continue compounding
+10:32 
+
+10:32 across an a lower time frame Trend and
+10:36 
+
+10:36 maybe move up your stop loss a bit and
+10:39 
+
+10:39 kind of Trail it maybe manage your
+10:41 
+
+10:41 position in this case you are trading a
+10:43 
+
+10:43 very high time frame I would think spot
+10:45 
+
+10:45 position right this is a 50 move of the
+10:48 
+
+10:48 course of like a month and a half so
+10:50 
+
+10:50 you're not going to be so eager to uh
+10:52 
+
+10:52 get out of that position you just got
+10:55 
+
+10:55 out of a three month long negative 50
+10:57 
+
+10:57 downtrend
+10:59 
+
+10:59 right so you're going to hold on to that
+11:02 
+
+11:02 position you would scale assumptions and
+11:04 
+
+11:04 you would scale them very drastically
+11:06 
+
+11:06 you would look to ride that wave so the
+11:08 
+
+11:08 next kind of question that my good
+11:09 
+
+11:09 friend had was Merck how do you look to
+11:12 
+
+11:12 kind of scale your stop loss and adjust
+11:14 
+
+11:14 your position uh you know with entries
+11:19 
+
+11:19 so the way that I do that and I have
+11:21 
+
+11:21 another saying which is often or
+11:25 
+
+11:25 your entry is oftentimes you are in
+11:28 
+
+11:28 validation
+11:29 
+
+11:29 right so if we're entering a short here
+11:33 
+
+11:33 along these four hour two hundreds
+11:36 
+
+11:36 that would also mean that reclaiming the
+11:38 
+
+11:38 four hour 200s would be our invalidation
+11:40 
+
+11:40 right so you would have your stop loss
+11:42 
+
+11:42 right above those highs so your entry
+11:45 
+
+11:45 was also your invalidation
+11:48 
+
+11:48 if you
+11:49 
+
+11:49 hit your invalidation you've now no
+11:52 
+
+11:52 longer you're now no longer able to
+11:54 
+
+11:54 justify hey we are heading to this
+11:56 
+
+11:56 bottom right corner at least on The
+11:58 
+
+11:59 Daily time frame right you could still
+12:00 
+
+12:00 absolutely justify it on the weekly
+12:03 
+
+12:03 but remember we're using these lower
+12:05 
+
+12:05 time frames to remain actionable we want
+12:07 
+
+12:08 to give ourselves a way of actually
+12:10 
+
+12:10 going and trading this price action so
+12:12 
+
+12:12 we could potentially make money so we
+12:15 
+
+12:15 would scale assumptions and say well hey
+12:17 
+
+12:17 yes the weekly is still bearish but
+12:20 
+
+12:20 we're now invalid in assuming that on
+12:23 
+
+12:23 the daily so as of the past two months
+12:25 
+
+12:26 at this point uh that we're still down
+12:28 
+
+12:28 trending and heading to the bottom right
+12:29 
+
+12:29 corner we can't justify that analysis
+12:31 
+
+12:31 anymore why not because we're above the
+12:34 
+
+12:34 gray box because we're uh up trending in
+12:37 
+
+12:37 terms of Market structure and because
+12:38 
+
+12:38 we've reclaimed a significant level in
+12:41 
+
+12:41 this case the four hour 200 moving
+12:43 
+
+12:43 averages remember we like these four
+12:45 
+
+12:45 hour two hundreds not because we like
+12:47 
+
+12:47 four hour two hundreds but because
+12:49 
+
+12:49 Bitcoin likes four hour two hundreds in
+12:52 
+
+12:52 this case right we're adjusting we're
+12:54 
+
+12:54 asking ourselves what is relevant
+12:56 
+
+12:56 so we would kind of scale those
+12:59 
+
+12:59 assumptions along with the four hour
+13:01 
+
+13:01 200s the market structure the gray boxes
+13:04 
+
+13:04 right so the same thing that made you
+13:06 
+
+13:06 enter in the first place would be the
+13:08 
+
+13:08 same thing that would make you want to
+13:09 
+
+13:09 exit that's the great thing about having
+13:12 
+
+13:12 a something in your system that is
+13:14 
+
+13:14 dynamic like Market structure is
+13:17 
+
+13:17 continuously changing right we're either
+13:19 
+
+13:19 uptrending down trending uh trading in a
+13:22 
+
+13:22 range or trading and consolidation so
+13:24 
+
+13:24 that's going to be dynamic you have to
+13:25 
+
+13:26 adjust with whatever the market
+13:27 
+
+13:27 structure is doing the moving averages
+13:29 
+
+13:29 are also going to be dynamic they're not
+13:31 
+
+13:31 just sitting in one spot and waiting for
+13:33 
+
+13:33 Price action to come up into them or
+13:35 
+
+13:35 down into them they're going to
+13:36 
+
+13:36 continuously move with whatever price
+13:38 
+
+13:38 action is doing so that's the great
+13:40 
+
+13:40 thing about having something Dynamic
+13:42 
+
+13:42 like
+13:43 
+
+13:43 um these moving averages so if we go
+13:44 
+
+13:44 down to a lower time frame
+13:46 
+
+13:46 right uh in our previous video we said
+13:49 
+
+13:49 scaling assumptions so we kind of use
+13:51 
+
+13:51 the mixture of like a range right and
+13:54 
+
+13:54 that's kind of our range I'm I guess I
+13:56 
+
+13:56 could just do a parallel Channel
+13:58 
+
+13:58 scaling assumptions we have a bit of a
+14:01 
+
+14:01 range here let's delete the squiggly
+14:03 
+
+14:03 lines
+14:07 
+
+14:07 and uh we have our 200 or I'm sorry two
+14:10 
+
+14:10 hour 200 moving averages within this
+14:12 
+
+14:12 range why are we using the two hour 200s
+14:14 
+
+14:14 on a lower time frame because although
+14:16 
+
+14:16 we love our four hour 200s they're not
+14:19 
+
+14:19 actionable right
+14:21 
+
+14:21 so uh or really I should say they're
+14:24 
+
+14:24 irrelevant so things can be Irrelevant
+14:26 
+
+14:26 for one of two reasons or maybe I guess
+14:28 
+
+14:28 both
+14:29 
+
+14:29 um but they're relevant because
+14:32 
+
+14:32 we're not trading anywhere near them
+14:33 
+
+14:33 right if we're sitting here arguing hey
+14:36 
+
+14:36 four hour two hundreds four hour two
+14:37 
+
+14:37 hundreds four hour two hundreds four
+14:39 
+
+14:39 hour two hundreds four hour two hundreds
+14:40 
+
+14:40 yes it's a valid analysis but
+14:45 
+
+14:45 that's a 45 move right we don't want to
+14:48 
+
+14:48 sit there and wait for 45 to then say Oh
+14:51 
+
+14:51 44 hour 200s and that's the same
+14:54 
+
+14:54 argument we were making all the way down
+14:55 
+
+14:55 here we want to give ourselves a more
+14:58 
+
+14:58 actionable analysis so we're constantly
+14:59 
+
+14:59 adapting and shifting along with the
+15:02 
+
+15:02 market on low time frames and that's
+15:04 
+
+15:04 kind of where that snowball into bigger
+15:06 
+
+15:06 snowball into the body of a snowman into
+15:08 
+
+15:08 a full-fledged snowman kind of comes
+15:10 
+
+15:10 into play right if you ever wanted to
+15:12 
+
+15:12 build a big snowman you have to start
+15:15 
+
+15:15 with the snowball first so as the
+15:18 
+
+15:18 snowball kind of forms we would be
+15:20 
+
+15:20 constantly adjusting
+15:22 
+
+15:22 we go back to the two hour and this is
+15:24 
+
+15:24 kind of where we can say we absolutely
+15:26 
+
+15:26 have a snowball why because we would
+15:28 
+
+15:29 stop applying uh a very trendy kind of
+15:32 
+
+15:32 style analysis because we would be able
+15:36 
+
+15:36 to determine that this is in fact a
+15:38 
+
+15:38 range let's look at something even lower
+15:39 
+
+15:39 time frame like the 15 minute
+15:41 
+
+15:41 right so we are kind of ranging yes the
+15:43 
+
+15:44 15 minute 200s are still getting pretty
+15:45 
+
+15:45 nicely respected but we are ranging
+15:48 
+
+15:48 within this price action uh so that's
+15:51 
+
+15:51 kind of what we want to adjust into and
+15:54 
+
+15:54 then after we reclaim something like our
+15:57 
+
+15:57 range lows we're still trending along
+15:60 
+
+15:60 these 15 minute 200s we even then go as
+16:03 
+
+16:03 far as to build that snowball
+16:05 
+
+16:05 higher than the two hour two hundreds
+16:08 
+
+16:08 and continuously scale it upwards right
+16:10 
+
+16:10 we would scale our assumptions along the
+16:12 
+
+16:12 way
+16:15 
+
+16:15 all right sorry uh so we're scaling our
+16:18 
+
+16:18 assumptions along the way and we're
+16:20 
+
+16:20 building up that snowball we're building
+16:21 
+
+16:21 these bullish arguments so that's how
+16:23 
+
+16:23 we're able to even assume that we're
+16:26 
+
+16:26 going to see a test of our higher time
+16:29 
+
+16:29 frame trend of those four hour two
+16:31 
+
+16:31 hundreds right
+16:32 
+
+16:32 because again whether it's 30 45 or even
+16:36 
+
+16:36 just 10 percent we don't want to sit
+16:38 
+
+16:38 there and wait for that 10 percent to
+16:41 
+
+16:41 then start making uh the same bearish
+16:43 
+
+16:43 arguments that we are making 10 lower
+16:45 
+
+16:45 right that's not an actionable analysis
+16:48 
+
+16:48 we're not giving ourselves any sort of
+16:50 
+
+16:50 edge in terms of what can we even
+16:51 
+
+16:51 anticipate can we look for a price to
+16:54 
+
+16:54 move upwards that would kind of make you
+16:56 
+
+16:56 fall into a very coping kind of mindset
+16:60 
+
+16:60 uh and and that's just refusing to be
+17:03 
+
+17:03 actionable that is very much falling
+17:05 
+
+17:05 into complacency uh continuing to make
+17:09 
+
+17:09 this argument of the four hour 200s even
+17:12 
+
+17:12 at times when they're largely irrelevant
+17:14 
+
+17:14 right we want to adapt we would want to
+17:16 
+
+17:16 say hey that's a range and then hey what
+17:19 
+
+17:19 are we respecting within that range hey
+17:21 
+
+17:21 maybe the two hour two hundreds are
+17:23 
+
+17:23 being respected as our Trend even though
+17:26 
+
+17:26 we're still trading in that range right
+17:27 
+
+17:27 we want to adapt to those lower time
+17:29 
+
+17:29 frames and build our argument sort of
+17:31 
+
+17:31 upwards so that's how I'm constantly
+17:34 
+
+17:34 adjusting and adapting with whatever the
+17:36 
+
+17:36 market is doing
+17:37 
+
+17:37 and that's how I was able to play the
+17:40 
+
+17:40 roast the most recent move on the way up
+17:42 
+
+17:42 into the four hour 200s even though on a
+17:46 
+
+17:46 high time frame I was still macro
+17:48 
+
+17:48 bearish right I'm still macro bearish
+17:51 
+
+17:51 but I'm longing so I'm out trading Bulls
+17:54 
+
+17:54 even and I'm a bear on high time frame
+17:57 
+
+17:57 still and the way that we're doing that
+17:59 
+
+17:59 is we're building up the argument we're
+18:01 
+
+18:01 constantly adapting and we're scaling
+18:04 
+
+18:04 something like our stop loss our
+18:06 
+
+18:06 invalidation along with that uh that
+18:10 
+
+18:10 Snowball right
+18:11 
+
+18:11 so the snowball starts here with our 15
+18:14 
+
+18:14 minute 200s and reclaiming those range
+18:17 
+
+18:17 lows reclaiming the range lows implies
+18:20 
+
+18:20 something like a deviation at the bottom
+18:23 
+
+18:23 of the range and obviously we would have
+18:26 
+
+18:26 to uptrend in order to reclaim anything
+18:28 
+
+18:28 right as support you'd have to be up
+18:30 
+
+18:30 trending first what are we uptrending
+18:32 
+
+18:32 along those 15 and 200s great so now we
+18:35 
+
+18:35 have 15 minute 200s and range deviation
+18:39 
+
+18:39 to the bottom which implies a push up
+18:41 
+
+18:41 into the mid-range as well as range
+18:43 
+
+18:43 highs right so now we have an uptrend
+18:46 
+
+18:46 and we have something telling us expect
+18:48 
+
+18:48 mid-range expect range highs
+18:51 
+
+18:51 we then go on to reclaim those two hour
+18:53 
+
+18:53 two hundreds
+18:55 
+
+18:55 right and now we have three arguments or
+18:58 
+
+18:58 really even four because you can say hey
+18:60 
+
+18:60 we have the 15 minute 200s we have the
+19:03 
+
+19:03 range deviation on the bottom side which
+19:05 
+
+19:05 implies range highs and mid-range which
+19:07 
+
+19:07 at this point is halfway fulfilled we
+19:09 
+
+19:09 have the two hour two hundreds which
+19:11 
+
+19:11 acted as a nice little sort of
+19:12 
+
+19:12 resistance on the way uh when we're kind
+19:15 
+
+19:15 of downtrending within that range and
+19:17 
+
+19:17 any sort of Market structure that you
+19:19 
+
+19:19 look at within this time frame is going
+19:21 
+
+19:21 to be bullish right it's going to be
+19:23 
+
+19:23 higher highs higher lows it's this
+19:25 
+
+19:26 coinciding idea now
+19:28 
+
+19:28 you tell me
+19:30 
+
+19:30 right and if you show this price action
+19:32 
+
+19:32 to a 10 year old what are they going to
+19:35 
+
+19:35 tell you we're heading to the top right
+19:37 
+
+19:37 corner right so we're probably going to
+19:40 
+
+19:40 continue heading to the top right corner
+19:41 
+
+19:41 that's how we were able to justify that
+19:44 
+
+19:44 very simple thought and idea is we use
+19:48 
+
+19:48 something like 15 minute 200s we used a
+19:51 
+
+19:51 range style analysis we used the two
+19:54 
+
+19:54 hour 200s and we can use something like
+19:56 
+
+19:56 Market structure and all of a sudden all
+19:58 
+
+19:58 that we did was further justify our very
+20:02 
+
+20:02 simple 10 year old understanding of we
+20:06 
+
+20:06 are now heading to the top right corner
+20:07 
+
+20:07 right so from here we would kind of
+20:11 
+
+20:11 assume things and scale those
+20:13 
+
+20:13 assumptions upwards okay we're heading
+20:15 
+
+20:15 to the top right corner
+20:17 
+
+20:17 and we're doing that along something
+20:19 
+
+20:19 like 15 minute 200s we have let's say
+20:22 
+
+20:22 our hourly Market structure is bullish
+20:24 
+
+20:24 right hourly is creating higher highs
+20:26 
+
+20:26 higher lows right and uh let's say we're
+20:29 
+
+20:29 above our two hour 200s
+20:31 
+
+20:31 um and what else did we say range
+20:32 
+
+20:32 deviation right so we would imply range
+20:34 
+
+20:34 highs so we can say okay let's look for
+20:37 
+
+20:37 mid-range let's look for range highs
+20:40 
+
+20:40 let's even look for those four hour two
+20:42 
+
+20:42 hundreds
+20:43 
+
+20:43 as long as right and that's the part
+20:46 
+
+20:46 that kind of follows up that analysis as
+20:49 
+
+20:49 long as we're still above our 15 minute
+20:51 
+
+20:51 200s we're still implying a range
+20:54 
+
+20:54 deviation from the bottom side and
+20:55 
+
+20:55 heading to the top side right and we're
+20:58 
+
+20:58 still above our two hour two hundreds
+20:60 
+
+20:60 and we're still uptrending on the hourly
+21:03 
+
+21:03 okay cool right so now we've given
+21:05 
+
+21:05 ourselves an expectation we are able to
+21:08 
+
+21:08 justify our expectation via 15 minutes
+21:13 
+
+21:13 200s Market structure yada yada right
+21:15 
+
+21:15 you get the point we're also able to
+21:18 
+
+21:18 invalidate that expectation of upside
+21:21 
+
+21:21 how do we know when we're no longer able
+21:24 
+
+21:24 to assume upside
+21:27 
+
+21:27 when we lose our 15-minute two hundreds
+21:29 
+
+21:29 right when we break out above the range
+21:32 
+
+21:32 only to fall back inside it now implying
+21:34 
+
+21:34 a deviation to the top side when our
+21:37 
+
+21:37 hourly Market structure breaks right
+21:40 
+
+21:40 bearishly and then it enters this
+21:42 
+
+21:42 consolidation pattern where we're seeing
+21:44 
+
+21:44 lower highs and higher lows right and
+21:47 
+
+21:47 then that consolidation breaks downwards
+21:49 
+
+21:49 right so now we've pretty much lost
+21:52 
+
+21:52 every single bullish argument that we
+21:55 
+
+21:55 possibly uh had right that we created
+21:59 
+
+21:59 down here to assume hey that's our
+22:02 
+
+22:02 snowball of strength let's roll this
+22:05 
+
+22:05 snowball down the hill and see how big
+22:07 
+
+22:07 it gets we've now lost that argument so
+22:10 
+
+22:10 in hindsight we're then able to say
+22:13 
+
+22:13 that was the test of the daily Trend as
+22:15 
+
+22:15 we assumed or not really as we
+22:17 
+
+22:17 anticipated right or kind of wanted to
+22:21 
+
+22:21 play into via the long side and range
+22:25 
+
+22:25 highs and so on and so forth and now in
+22:27 
+
+22:27 hindsight we would be able to say that
+22:29 
+
+22:29 here in hindsight that was probably a
+22:32 
+
+22:32 macro top we're now down trending along
+22:34 
+
+22:34 those 15 minute 200s our hourly Market
+22:37 
+
+22:37 structure is bearish
+22:39 
+
+22:39 um
+22:39 
+
+22:39 we've re-entered the range confirming a
+22:42 
+
+22:42 deviation on this side now which means
+22:44 
+
+22:44 mid-range and then what range lows right
+22:47 
+
+22:47 and let's see the only bullish argument
+22:50 
+
+22:50 left at this point would be the two hour
+22:52 
+
+22:52 two hundreds
+22:54 
+
+22:54 which we're currently testing we're kind
+22:56 
+
+22:56 of bouncing off of but you would at
+22:58 
+
+22:58 least be able to scale those assumptions
+23:00 
+
+23:00 into saying well the two hour two
+23:03 
+
+23:03 hundreds are the last kind of bullish
+23:05 
+
+23:05 argument left standing here so when we
+23:08 
+
+23:08 lose all of our lower time frame bullish
+23:10 
+
+23:10 arguments we can at least assume
+23:14 
+
+23:14 a pullback into our two hour two
+23:16 
+
+23:16 hundreds right kind of like a negative
+23:18 
+
+23:18 four negative three percent pullback
+23:20 
+
+23:20 really not anything too crazy
+23:23 
+
+23:23 um but that's kind of how we would scale
+23:25 
+
+23:25 assumptions so we would be able to roll
+23:27 
+
+23:27 that snowball down the hill and build it
+23:29 
+
+23:29 up and then we would be able to melt
+23:32 
+
+23:32 that snowball back into like a clump of
+23:34 
+
+23:34 snow or snowflake again and that's how
+23:36 
+
+23:36 we're just constantly ebbing and flowing
+23:38 
+
+23:38 with whatever the market is doing so
+23:40 
+
+23:40 when price action gives us a reason to
+23:43 
+
+23:43 want to adjust on any significant time
+23:45 
+
+23:45 frame even if it's a very very low time
+23:48 
+
+23:48 frame something like the 15 minute we
+23:50 
+
+23:50 can acknowledge that argument and we can
+23:52 
+
+23:52 build our way into a bullish mindset in
+23:55 
+
+23:56 this case a bullish mindset because we
+23:58 
+
+23:58 know that we're macro bearish because
+23:59 
+
+23:59 again we go back out to this daily
+24:03 
+
+24:03 a 10 year old can tell us hey this is a
+24:06 
+
+24:06 downtrend right so we need to build a
+24:09 
+
+24:09 bullish argument we need to build a
+24:11 
+
+24:11 bullish mindset and that's how we kind
+24:13 
+
+24:13 of refuse to be complacent or uh coping
+24:17 
+
+24:17 in the event that we eventually do go on
+24:20 
+
+24:20 to reclaim something as significant as
+24:22 
+
+24:22 those four hour two hundreds we're
+24:24 
+
+24:24 building our way into that mindset we're
+24:27 
+
+24:27 not just waking up one day and all of a
+24:30 
+
+24:30 sudden we're bearish right at 19k and
+24:33 
+
+24:33 then here we are at 23k 25 higher and
+24:36 
+
+24:36 then we're going to say oh now we're
+24:38 
+
+24:38 bullish guys right so this is kind of
+24:40 
+
+24:40 how I use my system uh I hope this kind
+24:43 
+
+24:43 of sums it up for everyone as well as my
+24:45 
+
+24:45 friend who's watching this right now if
+24:46 
+
+24:46 you manage to watch the whole I don't
+24:48 
+
+24:48 know 20 minutes of me rambling
+24:50 
+
+24:50 thank you guys as always very much
+24:52 
+
+24:52 appreciate all of your support uh if you
+24:55 
+
+24:55 want to use my buy bit referral link
+24:57 
+
+24:57 that would be very much appreciated come
+24:58 
+
+24:58 ape with me I love buy bit by the way
+25:01 
+
+25:01 um and yeah I have some donation links
+25:04 
+
+25:04 in the description below if you want to
+25:05 
+
+25:05 donate to me and get me out of my
+25:07 
+
+25:07 grandmother's basement
+25:09 
+
+25:09 um and also to be able to afford some
+25:10 
+
+25:10 avocado toast during the bear Market but
+25:13 
+
+25:13 thank you so much guys I hope you
+25:14 
+
+25:14 enjoyed the video I hope this clarified
+25:16 
+
+25:16 some
+25:17 
+
+25:17 um ideas about how I use my system and
+25:20 
+
+25:20 whatnot and yeah much love take it easy
