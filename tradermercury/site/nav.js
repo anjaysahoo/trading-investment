@@ -18,6 +18,11 @@ const CHAPTERS = [
   {n:16, part:'E · Loop',   file:'16-biweekly-ritual.html',   title:'The bi-weekly ritual checklist'},
 ];
 
+// ponytail: theme set at end of body, so a brief light flash is possible; inline <head> script per page if it shows.
+const root = document.documentElement;
+try { root.dataset.theme = localStorage.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'); }
+catch (e) { root.dataset.theme = 'light'; }
+
 (function () {
   const cur = +document.body.dataset.ch || 0;
   const base = cur ? '../' : '';            // chapter pages live in ch/
@@ -31,7 +36,15 @@ const CHAPTERS = [
       if (c.part !== part) { if (part) h += '</ol>'; part = c.part; h += `<h3>${esc(part)}</h3><ol start="${c.n}">`; }
       h += `<li${c.n === cur ? ' class="cur"' : ''}><a href="${href(c)}">${esc(c.title)}</a></li>`;
     }
-    side.innerHTML = h + `</ol><a class="gl" href="${base}glossary.html">Glossary</a>`;
+    side.innerHTML = h + `</ol><a class="gl" href="${base}glossary.html">Glossary</a><button class="theme" type="button"></button>`;
+    const btn = side.querySelector('.theme');
+    const label = () => btn.textContent = root.dataset.theme === 'dark' ? '☀ Light mode' : '☾ Dark mode';
+    label();
+    btn.onclick = () => {
+      root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
+      try { localStorage.theme = root.dataset.theme; } catch (e) {}
+      label(); drawMermaid();
+    };
   }
 
   const main = document.querySelector('main');
@@ -49,13 +62,18 @@ const CHAPTERS = [
     catch (e) { console.error('chart spec', el, e); }
   });
 
-  if (document.querySelector('.mermaid')) {
-    const v = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  // Mermaid replaces its source with SVG; keep the source so a theme toggle can redraw.
+  const graphs = [...document.querySelectorAll('.mermaid')].map(el => [el, el.innerHTML]);
+  function drawMermaid() {
+    if (!graphs.length) return;
+    const v = n => getComputedStyle(root).getPropertyValue(n).trim();
     import('https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs').then(m => {
+      graphs.forEach(([el, src]) => { el.removeAttribute('data-processed'); el.innerHTML = src; });
       m.default.initialize({startOnLoad: false, theme: 'base', themeVariables: {
         primaryColor: v('--paper2'), primaryTextColor: v('--ink'), primaryBorderColor: v('--ink2'),
         lineColor: v('--ink2'), fontFamily: v('--sans'), fontSize: '14px'}});
       m.default.run();
     });
   }
+  drawMermaid();
 })();
