@@ -1,0 +1,109 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ch 4 · Regime — TraderMercury</title>
+<link rel="stylesheet" href="../style.css"></head>
+<body data-ch="4">
+<nav id="side"></nav>
+<main>
+  <header><p class="kicker">Part A · Read — Chapter 4</p><h1>Regime: trend vs range vs chop; fair value</h1>
+    <p class="win">After this: classify any chart as trend, range or chop in one look, and switch tools to match.</p></header>
+
+  <section class="idea" id="regime-circles">
+    <h2>Green, red, orange</h2>
+    <p>He circles periods by regime: green is up, red is down, orange is sideways. "The way you screw up in markets is by trading these red periods as if they're green", or by treating orange as if it's about to turn. A trend is a persistence assumption: if it's heading top right, assume it keeps going top right until it stops.</p>
+    <figure><svg class="chart" data-spec='{"h":220,"seed":231,"title":"Three regimes, one chart","path":[100,120,112,140,130,150,120,128,104,118,108,119,107,118],"legs":[4,4,4,4,4,4,4,4,3,3,3,3,3],"zone":[{"x0":0,"x1":19,"kind":"good","label":"green: up"},{"x0":20,"x1":31,"kind":"bad","label":"red: down"},{"x0":32,"x1":46,"kind":"note","label":"orange: sideways"}]}'></svg><figcaption>Use a different toolkit in each zone.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=60s" target="_blank">▶ Rational 1:00</a> <a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=80s" target="_blank">▶ Rational 1:20</a> <a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=492s" target="_blank">▶ Rational 8:12</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="match-tool">
+    <h2>Match the strategy to the environment</h2>
+    <p>Don't mean-revert in a strong trend, don't buy dips in a downtrend, and don't run a trend system in a market that isn't trending. "Think big enough during expanding periods" and not too big in contraction.</p>
+    <table>
+      <tr><th></th><th>Trend tools (200s, buy HLs)</th><th>Range tools (lows→mid→highs)</th></tr>
+      <tr><th>Uptrend</th><td>✓</td><td>✗ (you sell too early)</td></tr>
+      <tr><th>Downtrend</th><td>✗ long-only: stand aside</td><td>✗ no dip-buying</td></tr>
+      <tr><th>Range / chop</th><td>✗ whipsawed</td><td>✓ or step away</td></tr>
+    </table>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=122s" target="_blank">▶ Rational 2:02</a> <a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=156s" target="_blank">▶ Rational 2:36</a> <a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=334s" target="_blank">▶ Rational 5:34</a> <a class="ts" href="https://www.youtube.com/watch?v=yZhUs2picXU&t=383s" target="_blank">▶ Transition 6:23</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="magic-trick">
+    <h2>The "magic trick": MAs draw the circles for you</h2>
+    <p>Hide the circles and show only the 200 MA/EMA, and they depict the same regimes. A trend has to skew the averages. Sideways shows up as price braiding through them.</p>
+    <figure><svg class="chart" data-spec='{"h":220,"seed":231,"title":"Same chart, only the 200s","path":[100,120,112,140,130,150,120,128,104,118,108,119,107,118],"legs":[4,4,4,4,4,4,4,4,3,3,3,3,3],"ma":[{"len":8,"label":"200s"}]}'></svg><figcaption>Up: price above a rising cloud. Sideways: price braiding through it.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=413s" target="_blank">▶ Rational 6:53</a> <a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=353s" target="_blank">▶ Rational 5:53</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="trend-count">
+    <h2>Count your trends</h2>
+    <p>Count how often your bias flips. One bias for ~35 days over 40% of price is a trend. Four bias shifts in a week over ~8–10% means the environment changed. "10 days, one outlook; three days, three different outlooks: maybe you're just getting chopped." Once you're at three flips, stop doing trend analysis and draw a range. "Fool me three times, we're probably not trending anymore."</p>
+    <figure><svg viewBox="0 0 640 120" class="chart" role="img" aria-label="Bias flip timeline: one long bias vs three short flips">
+      <text x="10" y="22" class="c-lbl">Trending: 1 bias / 10 days / +40%</text>
+      <rect x="10" y="30" width="420" height="18" fill="var(--good)" fill-opacity=".7"/>
+      <text x="10" y="76" class="c-lbl">Chop: 3 flips / 3 days</text>
+      <rect x="10" y="84" width="42" height="18" fill="var(--good)" fill-opacity=".7"/>
+      <rect x="54" y="84" width="42" height="18" fill="var(--bad)" fill-opacity=".7"/>
+      <rect x="98" y="84" width="42" height="18" fill="var(--good)" fill-opacity=".7"/>
+      <text x="150" y="98" class="c-mark">≥3 flips → range mindset / step away</text>
+    </svg><figcaption>The flip count, not price, tells you the regime changed.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=796s" target="_blank">▶ Rational 13:16</a> <a class="ts" href="https://www.youtube.com/watch?v=yZhUs2picXU&t=819s" target="_blank">▶ Transition 13:39</a> <a class="ts" href="https://www.youtube.com/watch?v=mxH2hCsoYj4&t=913s" target="_blank">▶ Level to Watch 15:13</a> <a class="ts" href="https://www.youtube.com/watch?v=dYszKKifkCY&t=285s" target="_blank">▶ Fear of Chop 4:45</a> <a class="ts" href="https://www.youtube.com/watch?v=yZhUs2picXU&t=965s" target="_blank">▶ Transition 16:05</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="failed-reclaim">
+    <h2>A weak reclaim is a tell</h2>
+    <p>After a −30% week, a trend reclaim that gives only +5% ("abysmal") and then breaks back down makes that high a deviation. A reclaim should resume the trend by a directionally proportional amount. If it doesn't, expect chop.</p>
+    <figure><svg class="chart" data-spec='{"h":220,"seed":241,"title":"Reclaim, measly pop, back under","path":[160,140,148,122,130,110,118,112,117,98],"legs":[4,4,4,4,4,3,3,3,5],"ma":[{"len":8}],"mark":[{"at":8,"text":"measly +5%"}]}'></svg><figcaption>The first big bounce after a big trend should be big. Small means weak.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=776s" target="_blank">▶ Rational 12:56</a> <a class="ts" href="https://www.youtube.com/watch?v=yZhUs2picXU&t=672s" target="_blank">▶ Transition 11:12</a> <a class="ts" href="https://www.youtube.com/watch?v=dYszKKifkCY&t=115s" target="_blank">▶ Fear of Chop 1:55</a> <a class="ts" href="https://www.youtube.com/watch?v=xDJHChnN2sc&t=136s" target="_blank">▶ Fear of Feb 2:16</a> <span class="tag swing">swing</span></p>
+  </section>
+
+  <section class="idea" id="range-mindset">
+    <h2>Range mindset, or step away</h2>
+    <p>Nothing significant happens inside a range. He stopped caring about the 15m 200s in a ~5% range, and only the break matters. "Confirmation" just means higher probabilities, nothing is ever confirmed. In chop, "take two steps back". If the range breaks down, use "vacation mode": take weeks off and come back to buy 20–40% lower.</p>
+    <figure><svg class="chart" data-spec='{"h":220,"seed":251,"title":"Ignore inside, act on the break","path":[110,130,112,129,111,131,113,130],"legs":5,"hl":[{"y":131,"label":"range high"},{"y":110,"label":"range low"}],"zone":[{"x0":2,"x1":34,"kind":"note","label":"inside: noise"}],"arrow":[{"x0":35,"y0":131,"x1":42,"y1":150,"text":"break up: trend"},{"x0":35,"y0":110,"x1":42,"y1":92,"text":"break down: vacation"}]}'></svg><figcaption>Both exits are planned in advance.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=903s" target="_blank">▶ Rational 15:03</a> <a class="ts" href="https://www.youtube.com/watch?v=mxH2hCsoYj4&t=973s" target="_blank">▶ Level to Watch 16:13</a> <a class="ts" href="https://www.youtube.com/watch?v=mxH2hCsoYj4&t=1007s" target="_blank">▶ Level to Watch 16:47</a> <a class="ts" href="https://www.youtube.com/watch?v=mxH2hCsoYj4&t=969s" target="_blank">▶ Level to Watch 16:09</a> <a class="ts" href="https://www.youtube.com/watch?v=GTWIyk5I5Qs&t=208s" target="_blank">▶ Fair Value 3:28</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="fair-value">
+    <h2>Range = fair value being built</h2>
+    <p>A long range is "value being built, it's fuel, the market deciding that this is a fair price". Anchor a VWAP where the range starts and it traces <a href="../glossary.html#fair-value">fair value</a>. The longer price spends there, the bigger the move when it leaves: at least 30–50%. Repeated tests of the range lows aren't strength.</p>
+    <figure><svg class="chart" data-spec='{"h":230,"seed":261,"title":"Months at fair value → repricing","path":[100,112,96,110,98,111,97,108,104],"legs":6,"hl":[{"y":104,"label":"AVWAP ≈ fair value","dash":true}],"box":[{"x0":0,"x1":47,"y0":95,"y1":113}],"arrow":[{"x0":47,"y0":104,"x1":56,"y1":150,"text":"expansion ±30–50%+"}]}'></svg><figcaption>The box is the fuel tank.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=GTWIyk5I5Qs&t=41s" target="_blank">▶ Fair Value 0:41</a> <a class="ts" href="https://www.youtube.com/watch?v=GTWIyk5I5Qs&t=66s" target="_blank">▶ Fair Value 1:06</a> <a class="ts" href="https://www.youtube.com/watch?v=_FXwBf5s1r0&t=286s" target="_blank">▶ Predicted Drop 4:46</a> <a class="ts" href="https://www.youtube.com/watch?v=_FXwBf5s1r0&t=491s" target="_blank">▶ Predicted Drop 8:11</a> <a class="ts" href="https://www.youtube.com/watch?v=GTWIyk5I5Qs&t=89s" target="_blank">▶ Fair Value 1:29</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="expansion">
+    <h2>Expansion = repricing. Don't fight it.</h2>
+    <p>A break out of fair value means the market has decided price was mis-valued. "Eventually this sideways will expand… you don't want to fight it." No revenge-shorting the leg, no fading it. His history: a ~2-month range led to an exaggerated leg up, a ~3-month distribution led to −50%, and the 2018 bottom (~130 days at ~3.8k) led to ~+230%.</p>
+    <div class="grid4">
+      <figure><svg class="chart" data-spec='{"h":170,"seed":271,"title":"2018: 3.8k base","line":true,"path":[60,40,44,39,43,40,62,56,92],"legs":[4,4,4,4,4,4,3,4],"box":[{"x0":4,"x1":23,"y0":38,"y1":45}],"mark":[{"at":8,"text":"+230%"}]}'></svg><figcaption>Long base, big leg.</figcaption></figure>
+      <figure><svg class="chart" data-spec='{"h":170,"seed":272,"title":"3-month distribution","line":true,"path":[60,100,88,99,87,98,70,76,50],"legs":[4,4,4,4,4,4,3,4],"box":[{"x0":4,"x1":23,"y0":86,"y1":101}],"mark":[{"at":8,"text":"−50%"}]}'></svg><figcaption>Same logic, downside.</figcaption></figure>
+    </div>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=GTWIyk5I5Qs&t=10s" target="_blank">▶ Fair Value 0:10</a> <a class="ts" href="https://www.youtube.com/watch?v=yZhUs2picXU&t=1045s" target="_blank">▶ Transition 17:25</a> <a class="ts" href="https://www.youtube.com/watch?v=_FXwBf5s1r0&t=359s" target="_blank">▶ Predicted Drop 5:59</a> <a class="ts" href="https://www.youtube.com/watch?v=_FXwBf5s1r0&t=419s" target="_blank">▶ Predicted Drop 6:59</a> <a class="ts" href="https://www.youtube.com/watch?v=_FXwBf5s1r0&t=541s" target="_blank">▶ Predicted Drop 9:01</a> <span class="tag both">both</span></p>
+  </section>
+
+  <aside class="example">
+    <p><b>BTC Jan–May 2022.</b> He anchored the VWAP at the range start (~Jan 5). Price spent ~90% of 4 months around ~40.2k, so fair value was ~40.5k. The Apr 6 break above was a deviation, and price went back through mid to the range lows. At those lows BTC was ~10–15% "undervalued", and then the range broke.</p>
+    <figure><svg class="chart" data-spec='{"h":220,"seed":281,"title":"BTC 2022: AVWAP 40.5k, Apr 6 deviation","path":[36,44,37,43.5,38,47.5,41,36.5,30],"legs":[5,5,5,5,5,4,5,5],"hl":[{"y":45,"label":"range high"},{"y":40.5,"label":"AVWAP 40.5k","dash":true},{"y":36.5,"label":"range low"}],"mark":[{"at":5,"text":"Apr 6 dev."}]}'></svg><figcaption>Sketch, not real OHLC.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=_FXwBf5s1r0&t=0s" target="_blank">▶ Predicted Drop 0:00</a> <a class="ts" href="https://www.youtube.com/watch?v=_FXwBf5s1r0&t=300s" target="_blank">▶ Predicted Drop 5:00</a> <a class="ts" href="https://www.youtube.com/watch?v=_FXwBf5s1r0&t=346s" target="_blank">▶ Predicted Drop 5:46</a></p>
+  </aside>
+
+  <aside class="adapt">
+    <p>At each two-week review, count how many times the 4H/daily bias flipped since the last review. One steady bias means trend rules apply (see <a href="02-timeframes.html#white-space">Ch 2</a>). Three or more flips means cancel the trend bids. Then either leave limit orders at the range low with a stop below the range and TP at mid/highs, or do nothing until the range breaks.</p>
+  </aside>
+
+  <aside class="evolution">
+    <p><b>Range trader → trend trader.</b> In 2019 he was only good at ranges ("range-low deviations" were his bread and butter). He missed the run to 13k and rebuilt his approach around structure + 200s + gray boxes <a class="ts" href="https://www.youtube.com/watch?v=yZhUs2picXU&t=54s" target="_blank">▶ Transition 0:54</a> <a class="ts" href="https://www.youtube.com/watch?v=yZhUs2picXU&t=91s" target="_blank">▶ Transition 1:31</a>.</p>
+    <p><b>Range lows: ideal vs overcrowded.</b> In 2022 the range low was an "ideal buy zone" <a class="ts" href="https://www.youtube.com/watch?v=dYszKKifkCY&t=12s" target="_blank">▶ Fear of Chop 0:12</a>. After 5–9 tests "even my grandmother has this range drawn", so he wants LTF strength first <a class="ts" href="https://www.youtube.com/watch?v=oINjcMK8-bU&t=303s" target="_blank">▶ Recency 5:03</a>.</p>
+  </aside>
+
+  <section class="rules"><h2>If → then</h2><ul>
+    <li>Bias flips ≥3 times in a few days → stop trend analysis, draw the range.</li>
+    <li>Trend reclaim gives a measly move and fails → it was a deviation. Expect the old trend to resume.</li>
+    <li>Inside a range → ignore LTF MAs. Act only on the break.</li>
+    <li>A long time at fair value (AVWAP from the range start) then a break → don't fight it. Expect 30–50%+.</li>
+    <li>A major range breakdown → vacation mode. Rebid much lower.</li>
+    <li>Range lows tested for the 5th+ time → overcrowded. Wait for LTF strength first.</li>
+  </ul></section>
+  <footer class="ask">Stuck? Ask your agent to explain any idea above, citing the timestamp.</footer>
+</main>
+<script src="../chart.js"></script><script src="../nav.js"></script>
+</body></html>

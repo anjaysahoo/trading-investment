@@ -1,0 +1,46 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TraderMercury — the system, compressed</title>
+<link rel="stylesheet" href="style.css"></head>
+<body>
+<nav id="side"></nav>
+<main>
+  <header><p class="kicker">TraderMercury · 68 videos → 16 chapters</p><h1>The system, compressed</h1>
+    <p class="win">One method for a long-term investor who swing-trades on a bi-weekly review. Every idea links to the moment he says it.</p></header>
+
+  <h2>The whole system on one page</h2>
+  <pre class="mermaid">
+flowchart LR
+  A[BTC context first] --> B[4-sec read: up/down/range/consol]
+  B -->|down/chop| X[Skip / do nothing]
+  B -->|up / RS vs BTC| C[Find 200s TF it respects<br/>= trend proxy]
+  C --> D[Stack confluence:<br/>200s + market structure + gray box]
+  D --> E{Regime?}
+  E -->|range/chop| R[Range rules: lows→mid→highs<br/>or step away]
+  E -->|trend| F[Setup: bid zone vs wait reclaim]
+  F --> G[Stop = where all reasons flip<br/>size = risk$ ÷ stop%]
+  G --> H[TP level-to-level / fibs in discovery<br/>keep core]
+  H --> I[Exit only on same-system invalidation]
+  </pre>
+
+  <h2>Every chart is one of four states</h2>
+  <div class="grid4">
+    <figure><svg class="chart" data-spec='{"h":180,"seed":3,"title":"Uptrend","path":[100,125,112,140,128,158],"legs":5,"mark":[{"at":1,"text":"HH"},{"at":2,"text":"HL"},{"at":3,"text":"HH"},{"at":4,"text":"HL"}]}'></svg><figcaption>Higher highs, higher lows.</figcaption></figure>
+    <figure><svg class="chart" data-spec='{"h":180,"seed":4,"title":"Downtrend","path":[158,130,145,118,132,100],"legs":5,"mark":[{"at":1,"text":"LL"},{"at":2,"text":"LH"},{"at":3,"text":"LL"},{"at":4,"text":"LH"}]}'></svg><figcaption>Lower highs, lower lows.</figcaption></figure>
+    <figure><svg class="chart" data-spec='{"h":180,"seed":5,"title":"Range","path":[112,140,110,141,111,139],"legs":5,"hl":[{"y":141,"label":"range high"},{"y":125.5,"label":"mid","dash":true},{"y":110,"label":"range low"}]}'></svg><figcaption>Bounded: lows → mid → highs.</figcaption></figure>
+    <figure><svg class="chart" data-spec='{"h":180,"seed":6,"title":"Consolidation","path":[100,135,128,134,129,133,130],"legs":[6,4,4,4,4,4],"box":[{"x0":6,"x1":26,"y0":127,"y1":136,"label":"tight"}]}'></svg><figcaption>Tight pause after a move.</figcaption></figure>
+  </div>
+  <p class="src">Can't tell which in four seconds → skip the chart.</p>
+
+  <h2>Chapters</h2>
+  <div class="cards">
+<div class="card"><h3>Part A · Read</h3><ol start="1"><li><a href="ch/01-simplicity.html">Simplicity: 4 states + 4-second rule</a><br><span class="cw">Name what any chart is doing in four seconds, and skip it if you can't.</span></li><li><a href="ch/02-timeframes.html">Timeframes: 200s cloud, snowball→snowman, scaling</a><br><span class="cw">Pick the 200s timeframe a chart respects, and know which bigger trend it stands in for.</span></li><li><a href="ch/03-three-part-system.html">The 3-part system; ranges &amp; deviations</a><br><span class="cw">Stack structure, 200s and gray boxes into one read, and trade a range by its rules.</span></li><li><a href="ch/04-regime.html">Regime: trend vs range vs chop; fair value</a><br><span class="cw">Classify any chart as trend, range or chop in one look, and switch tools to match.</span></li><li><a href="ch/05-btc-context.html">BTC context: spec vs interp, valid vs actionable, RS, recency</a><br><span class="cw">Read BTC first, label your guesses as guesses, and act only on analysis that's close enough to be proven wrong.</span></li></ol></div>
+<div class="card"><h3>Part B · Trade</h3><ol start="6"><li><a href="ch/06-scan-filter.html">Bi-weekly scan &amp; filter</a><br><span class="cw">Turn the whole market into a list of ≤5 coins worth a setup, in about 15 minutes.</span></li><li><a href="ch/07-setups-entries.html">Setups &amp; entries: archetypes, bid vs reclaim</a><br><span class="cw">Name which of 8 setups a listed coin is in, and choose to bid the zone or wait for the reclaim.</span></li><li><a href="ch/08-setup-math.html">Setup math: RR × probability × situation; sizing</a><br><span class="cw">Judge a setup on all three of his aspects, and size it from the stop in one line of math.</span></li><li><a href="ch/09-stops-plans.html">Stops = invalidation; Plan A/B/A2/C</a><br><span class="cw">Put the stop where your reasons die, and always know which plan (A, B, A2, C) you're in.</span></li><li><a href="ch/10-take-profit.html">Taking profit &amp; managing</a><br><span class="cw">Size each take-profit by the level's timeframe, keep a core, and exit fully only when your reasons die.</span></li></ol></div>
+<div class="card"><h3>Part C · Invest</h3><ol start="11"><li><a href="ch/11-cycle.html">Reading the cycle; dip vs downtrend; bottom buying</a><br><span class="cw">Name any drop as a dip, a pullback or a downtrend, and know the only place worth buying a bottom.</span></li><li><a href="ch/12-price-discovery.html">Riding the bull: price discovery, fib TPs, keeping profit</a><br><span class="cw">Map fib-extension take-profits in price discovery and exit on the trend break, not on a target.</span></li><li><a href="ch/13-doing-nothing.html">Doing nothing; narratives; investor vs trader books</a><br><span class="cw">Sit out without FOMO, exit only on your own signals, and keep the investor book and the trader book apart.</span></li></ol></div>
+<div class="card"><h3>Part D · Mind</h3><ol start="14"><li><a href="ch/14-never-wrong.html">Never wrong: adapt; confidence plateau</a><br><span class="cw">Hold a position without needing one outcome, and let confidence move with your arguments, not with price.</span></li><li><a href="ch/15-discipline.html">Discipline: domino, overtrading, human error, journaling</a><br><span class="cw">Spot an impulse chain before the second trade, press fewer buttons, and check every order for the dumb mistakes.</span></li></ol></div>
+<div class="card"><h3>Part E · Loop</h3><ol start="16"><li><a href="ch/16-biweekly-ritual.html">The bi-weekly ritual checklist</a><br><span class="cw">Run the whole system in one sitting every two weeks, leave limit orders behind, and touch nothing until the next review.</span></li></ol></div>
+  </div>
+  <p><a href="glossary.html">Glossary →</a></p>
+</main>
+<script src="chart.js"></script><script src="nav.js"></script>
+</body></html>

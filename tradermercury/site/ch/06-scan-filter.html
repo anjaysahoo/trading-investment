@@ -1,0 +1,132 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ch 6 · Scan & filter — TraderMercury</title>
+<link rel="stylesheet" href="../style.css"></head>
+<body data-ch="6">
+<nav id="side"></nav>
+<main>
+  <header><p class="kicker">Part B · Trade — Chapter 6</p><h1>Bi-weekly scan & filter</h1>
+    <p class="win">After this: turn the whole market into a list of ≤5 coins worth a setup, in about 15 minutes.</p></header>
+
+  <section class="idea" id="funnel">
+    <h2>The scan is a filter, not research</h2>
+    <p>The point of his watchlist is a sub-15-minute scan that removes the junk, so time goes only to the few coins with strength and a story. "Don't ask me what this coin does… I really don't care." The scan finds the same coins the researchers find, just faster. Fifteen minutes once a week, done consistently.</p>
+    <pre class="mermaid">
+flowchart TD
+  A[BTC: trending, sideways or down?] --> B[ETH vs BTC]
+  B --> C{Spacebar alts:<br/>better than BTC in 4 s?}
+  C -->|no| X1[skip]
+  C -->|yes| D{Tradable?<br/>liquid, no algo steps, no pump wicks}
+  D -->|no| X2[skip]
+  D -->|yes| E{Actionable?<br/>respected 200s nearby}
+  E -->|no| W[watch only]
+  E -->|yes| L[List of 5 or fewer → Ch 7 setup]
+    </pre>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=wYKIEw9WIf0&t=6s" target="_blank">▶ Watchlist W10 0:06</a> <a class="ts" href="https://www.youtube.com/watch?v=wYKIEw9WIf0&t=46s" target="_blank">▶ Watchlist W10 0:46</a> <a class="ts" href="https://www.youtube.com/watch?v=wYKIEw9WIf0&t=433s" target="_blank">▶ Watchlist W10 7:13</a> <a class="ts" href="https://www.youtube.com/watch?v=0l_d5qJdqew&t=10s" target="_blank">▶ Trend Reclaims 0:10</a> <a class="ts" href="https://www.youtube.com/watch?v=cr239ObsKEc&t=873s" target="_blank">▶ Watchlist W8 14:33</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="btc-first">
+    <h2>BTC first, then ETH, then alts</h2>
+    <p>BTC is the "base layer": is it trending, sideways or down, and which 200s has it reclaimed? Then compare ETH. If BTC is going sideways in 2% while ETH trends 6%, there is no reason to trade BTC over ETH. Higher beta leads to alts.</p>
+    <div class="grid4">
+      <figure><svg class="chart" data-spec='{"h":160,"seed":601,"title":"BTC: ~2% sideways","path":[100,102,99.5,101.8,99.6,102,100],"legs":4,"hl":[{"y":102.2,"dash":true},{"y":99.4,"dash":true}]}'></svg><figcaption>Nothing to do here.</figcaption></figure>
+      <figure><svg class="chart" data-spec='{"h":160,"seed":602,"title":"ETH: ~6% trend","path":[100,103,101.5,104.5,103,106.5,105,108],"legs":4,"ma":[{"len":6}]}'></svg><figcaption>Same market, better chart.</figcaption></figure>
+    </div>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=K4RLjOvY0iM&t=5s" target="_blank">▶ Watchlist W16 0:05</a> <a class="ts" href="https://www.youtube.com/watch?v=wYKIEw9WIf0&t=83s" target="_blank">▶ Watchlist W10 1:23</a> <a class="ts" href="https://www.youtube.com/watch?v=wYKIEw9WIf0&t=189s" target="_blank">▶ Watchlist W10 3:09</a> <a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=9s" target="_blank">▶ Watchlist W11 0:09</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="keep-strength">
+    <h2>Keep what already beats BTC</h2>
+    <p>Flip through the alts with the spacebar on the 4H. Apply the <a href="../glossary.html#four-second-rule">four-second rule</a>: does it obviously look better than BTC? <a href="../glossary.html#relative-strength">Relative strength</a> means it "did two months ago what BTC is just starting": it broke its range, made a HH, and is now retesting. Going sideways while the market bleeds also counts. One higher high on the 4H is a "polished turd". "Strength tends to attract more strength."</p>
+    <div class="grid4">
+      <figure><svg class="chart" data-spec='{"h":160,"seed":611,"title":"BTC: just breaking its range","line":true,"path":[100,106,100,105.5,100.5,106,101,109],"legs":4,"hl":[{"y":106,"label":"range high","dash":true}]}'></svg><figcaption>Seeking its first structure break.</figcaption></figure>
+      <figure><svg class="chart" data-spec='{"h":160,"seed":612,"title":"LTC: broke out months ago","line":true,"path":[100,106,100,106,114,109,120,114,124],"legs":4,"hl":[{"y":106,"label":"old range high","dash":true}],"mark":[{"at":6,"text":"HH"},{"at":7,"text":"retest"}]}'></svg><figcaption>Seeking continuation HHs.</figcaption></figure>
+    </div>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=1044s" target="_blank">▶ Watchlist W6 17:24</a> <a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=1061s" target="_blank">▶ Watchlist W6 17:41</a> <a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=770s" target="_blank">▶ Watchlist W11 12:50</a> <a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=799s" target="_blank">▶ Watchlist W11 13:19</a> <a class="ts" href="https://www.youtube.com/watch?v=K4RLjOvY0iM&t=947s" target="_blank">▶ Watchlist W16 15:47</a> <a class="ts" href="https://www.youtube.com/watch?v=WxoJ48swiC0&t=490s" target="_blank">▶ Watchlist W17 8:10</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="tradability">
+    <h2>Drop what you can't trade</h2>
+    <p>Outperforming isn't enough. Drop algo-driven stair-steps, wick-riddled and illiquid coins, manipulated pumps, "2017 dino" coins, strength built on a 1m trend, and fresh narratives with no structure. "I want to be able to see structure. I want to be able to trade trends." In year-end illiquidity, random 30% wicks mean skip first-test bids.</p>
+    <div class="grid4">
+      <figure><svg class="chart" data-spec='{"h":150,"seed":621,"title":"Clean: trends on its 200s ✓","path":[100,112,106,118,112,126,120,134],"legs":5,"ma":[{"len":8}]}'></svg><figcaption>Keep.</figcaption></figure>
+      <figure><svg class="chart" data-spec='{"h":150,"seed":622,"title":"Pump: one candle ✗","path":[100,102,99,101,140,112,106,104],"legs":[5,5,5,1,3,5,5]}'></svg><figcaption>Not actionable unless already in.</figcaption></figure>
+      <figure><svg class="chart" data-spec='{"h":150,"seed":623,"title":"Stair-step algo ✗","path":[100,100,110,110,120,120,130,130],"legs":[6,1,6,1,6,1,6]}'></svg><figcaption>No structure to lean on.</figcaption></figure>
+      <figure><svg class="chart" data-spec='{"h":150,"seed":624,"title":"Slow bleed into zone ✗","path":[130,112,116,108,110,104,105,97,98,91],"legs":[3,6,6,6,6,6,6,6,6],"box":[{"x0":14,"x1":51,"y0":104,"y1":108,"label":"ideal zone"}]}'></svg><figcaption>Grinds through the zone.</figcaption></figure>
+    </div>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=NpqDKKC8uIU&t=110s" target="_blank">▶ Watchlist W9 1:50</a> <a class="ts" href="https://www.youtube.com/watch?v=cr239ObsKEc&t=737s" target="_blank">▶ Watchlist W8 12:17</a> <a class="ts" href="https://www.youtube.com/watch?v=cr239ObsKEc&t=763s" target="_blank">▶ Watchlist W8 12:43</a> <a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=475s" target="_blank">▶ Watchlist W6 7:55</a> <a class="ts" href="https://www.youtube.com/watch?v=wYKIEw9WIf0&t=1580s" target="_blank">▶ Watchlist W10 26:20</a> <a class="ts" href="https://www.youtube.com/watch?v=xdHKDBoD0as&t=669s" target="_blank">▶ Watchlist W15 11:09</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="actionable">
+    <h2>Strong is not the same as actionable</h2>
+    <p>In a rising tide everything goes up, so pick by strength <em>and</em> actionability. GALA was the strongest coin but had nothing to buy. "Is that an actionable analysis or is it just analysis?" A HTF 200s 40% below price is a light bulb, not an entry. Either find a nearer MA the coin respects, or leave it as an honorable mention (see <a href="05-btc-context.html#valid-vs-actionable">Ch 5</a>).</p>
+    <div class="grid4">
+      <figure><svg class="chart" data-spec='{"h":160,"seed":631,"title":"Strongest, 200s far below","path":[100,130,122,160,150,190],"legs":5,"ma":[{"len":14,"label":"4H 200s"}]}'></svg><figcaption>Watch only.</figcaption></figure>
+      <figure><svg class="chart" data-spec='{"h":160,"seed":632,"title":"Pulling into its 200s","path":[100,118,110,126,117,134,125],"legs":5,"ma":[{"len":6,"label":"200s"}],"mark":[{"at":6,"text":"bid zone"}]}'></svg><figcaption>Actionable.</figcaption></figure>
+    </div>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=423s" target="_blank">▶ Watchlist W11 7:03</a> <a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=516s" target="_blank">▶ Watchlist W11 8:36</a> <a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=602s" target="_blank">▶ Watchlist W11 10:02</a> <a class="ts" href="https://www.youtube.com/watch?v=TvH1N4LCVvU&t=93s" target="_blank">▶ Top 5 (Mar) 1:33</a> <a class="ts" href="https://www.youtube.com/watch?v=s0ZjcdHp0eA&t=1093s" target="_blank">▶ Top 5 + BTC 18:13</a> <a class="ts" href="https://www.youtube.com/watch?v=TvH1N4LCVvU&t=730s" target="_blank">▶ Top 5 (Mar) 12:10</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="ma-ladder">
+    <h2>Find the 200s the coin respects</h2>
+    <p>Cycle 4H → 3H → 2H → 1H → 30m 200s and keep the one price actually touches. That's the coin's <a href="../glossary.html#trend-portrayal">trend portrayal</a>. HTF 200s are irrelevant if price never visits them. Only respect a line the coin respected recently: "don't suddenly use an MA price ignored". He splits them into HTF / local / parabolic tiers. The ladder then tells you what comes next: to reach the slow one, price must lose the fast one first (<a href="02-timeframes.html#snowball">Ch 2</a>).</p>
+    <figure><svg class="chart" data-spec='{"h":230,"seed":641,"title":"Two MAs, one is doing the work","path":[100,108,104,114,109,120,114,126,119,132],"legs":4,"ma":[{"len":4,"label":"fast: respected"},{"len":18,"label":"slow: untouched"}]}'></svg><figcaption>Trade the one with touches. The slow one is only the next target if the fast one breaks.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=LjNOWfW2rd4&t=840s" target="_blank">▶ Best Alts 14:00</a> <a class="ts" href="https://www.youtube.com/watch?v=xMKSiNaT5BI&t=139s" target="_blank">▶ Watchlist W13 2:19</a> <a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=907s" target="_blank">▶ Watchlist W6 15:07</a> <a class="ts" href="https://www.youtube.com/watch?v=xdHKDBoD0as&t=527s" target="_blank">▶ Watchlist W15 8:47</a> <a class="ts" href="https://www.youtube.com/watch?v=I8yIaDK6he8&t=1134s" target="_blank">▶ Watchlist W14 18:54</a> <a class="ts" href="https://www.youtube.com/watch?v=xMKSiNaT5BI&t=1235s" target="_blank">▶ Watchlist W13 20:35</a> <span class="tag swing">swing</span></p>
+  </section>
+
+  <section class="idea" id="tf-floor">
+    <h2>Too fast = not your coin</h2>
+    <p>If only the 5m 200s portray the trend, he skips it: he won't screen-watch for 8 hours. On 5m/3m "R changes 0.3R per tick". He sits and waits for 30m or higher, and is fine missing rallies below that. Your floor is higher (see the bi-weekly box), but the rule is the same.</p>
+    <figure><svg class="chart" data-spec='{"h":200,"seed":651,"title":"Only a very fast MA fits → skip","path":[100,112,110,124,122,138,135,152],"legs":[3,1,3,1,3,1,3],"ma":[{"len":2,"label":"5m 200s"}],"zone":[{"x0":0,"x1":14,"kind":"bad","label":"below your TF floor"}]}'></svg><figcaption>Strong, but untradable at your timeframe.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=I8yIaDK6he8&t=385s" target="_blank">▶ Watchlist W14 6:25</a> <a class="ts" href="https://www.youtube.com/watch?v=TvH1N4LCVvU&t=698s" target="_blank">▶ Top 5 (Mar) 11:38</a> <a class="ts" href="https://www.youtube.com/watch?v=TvH1N4LCVvU&t=856s" target="_blank">▶ Top 5 (Mar) 14:16</a> <a class="ts" href="https://www.youtube.com/watch?v=s0ZjcdHp0eA&t=1210s" target="_blank">▶ Top 5 + BTC 20:10</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="keep-drop">
+    <h2>Review last list: keep or drop</h2>
+    <p>Each new list starts with an honest review. A coin that shows up again next week means the pick worked. Keep it while its HTF trend (4H 200s + demand) holds. Drop it when it stalls into a range with no MA to play, when the trend breaks into downtrending structure, or when it's untradable and better choices exist.</p>
+    <pre class="mermaid">
+flowchart LR
+  P[Last list pick] --> H{Still above its<br/>4H 200s + demand?}
+  H -->|yes, trending| K[Keep · repeat pick = good pick]
+  H -->|ranging, no MA to play| D1[Drop]
+  H -->|lost trend + lower high| D2[Drop]
+  H -->|strong but untradable| D3[Drop once better choices exist]
+    </pre>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=LjNOWfW2rd4&t=53s" target="_blank">▶ Best Alts 0:53</a> <a class="ts" href="https://www.youtube.com/watch?v=I8yIaDK6he8&t=215s" target="_blank">▶ Watchlist W14 3:35</a> <a class="ts" href="https://www.youtube.com/watch?v=xMKSiNaT5BI&t=242s" target="_blank">▶ Watchlist W13 4:02</a> <a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=747s" target="_blank">▶ Watchlist W11 12:27</a> <a class="ts" href="https://www.youtube.com/watch?v=WxoJ48swiC0&t=48s" target="_blank">▶ Watchlist W17 0:48</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="gating">
+    <h2>BTC sets how many trades you take</h2>
+    <p>Opportunity comes in regimes: "utopia" (throw darts), "oasis", or "puddle". In the Nov–Dec 2022 bear/illiquid puddle his list was "polished turds": few trades, no pre-bids, wait for LTF strength. "When Tron is your strongest coin…" the list itself tells you the regime. BTC sideways with alts trending means trade the higher-beta outperformers. In a rising tide, pick the strongest <em>actionable</em> coins and think bigger. Three trades a week is fine. Go live your life.</p>
+    <figure><svg class="chart" data-spec='{"h":230,"seed":661,"title":"Same scan, three regimes","path":[140,120,126,110,114,104,108,103,108,103,110,120,116,132,126,146],"legs":4,"zone":[{"x0":0,"x1":19,"kind":"bad","label":"puddle: few trades"},{"x0":20,"x1":35,"kind":"note","label":"BTC flat: RS alts"},{"x0":36,"x1":59,"kind":"good","label":"rising tide: strong + actionable"}]}'></svg><figcaption>BTC regime decides activity, not your boredom.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=25s" target="_blank">▶ Watchlist W6 0:25</a> <a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=1051s" target="_blank">▶ Watchlist W6 17:31</a> <a class="ts" href="https://www.youtube.com/watch?v=cr239ObsKEc&t=535s" target="_blank">▶ Watchlist W8 8:55</a> <a class="ts" href="https://www.youtube.com/watch?v=cr239ObsKEc&t=67s" target="_blank">▶ Watchlist W8 1:07</a> <a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=439s" target="_blank">▶ Watchlist W11 7:19</a> <a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=1184s" target="_blank">▶ Watchlist W6 19:44</a> <span class="tag both">both</span></p>
+  </section>
+
+  <aside class="example">
+    <p><b>XMR, late 2022.</b> In the bear market XMR trended on its 30m 200s and broke a 2-week range while "99%" of coins were heading down on every timeframe. It was pure relative strength, so it made the list. Once the rising tide gave him real choices in Jan 2023, he dropped it as hard to trade.</p>
+    <figure><svg class="chart" data-spec='{"h":210,"seed":671,"title":"XMR: 2-week range breakout along its 200s","path":[100,106,100.5,106,101,106.5,112,108,116],"legs":[4,4,4,4,4,4,3,4],"ma":[{"len":8,"label":"30m 200s"}],"hl":[{"y":106.5,"label":"range high","dash":true}]}'></svg><figcaption>Sketch, not real OHLC.</figcaption></figure>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=757s" target="_blank">▶ Watchlist W6 12:37</a> <a class="ts" href="https://www.youtube.com/watch?v=NpqDKKC8uIU&t=29s" target="_blank">▶ Watchlist W9 0:29</a> <a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=747s" target="_blank">▶ Watchlist W11 12:27</a></p>
+  </aside>
+
+  <aside class="adapt">
+    <p>He scans weekly (Fridays, ~15 min, 4H charts). Your version runs every two weeks in the same order, but on daily + 4H: BTC state → ETH vs BTC → spacebar alts → tradability → actionability. Keep only coins whose respected 200s are 4H or slower, since those are the only trends a limit order left for two weeks can follow. A coin that only trends on 1H or lower is your "5m coin": acknowledge it, then skip it. Start each scan with the keep/drop review of the last list.</p>
+  </aside>
+
+  <aside class="evolution">
+    <p><b>Twitter thread → 15-minute video.</b> Week 5 (Nov 18 2022) replaced his Twitter lists with the top-5 video format <a class="ts" href="https://www.youtube.com/watch?v=z1CP2ztskS4&t=168s" target="_blank">▶ Watchlist W5 2:48</a>.</p>
+    <p><b>Bear filters → rising tide.</b> Weeks 6–9 were heavy on filters (slow bleed, liquidity, manipulation) and "won't trade" calls <a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=320s" target="_blank">▶ Watchlist W6 5:20</a>. Week 10 (Jan 2023) spelled out the BTC → ETH → alts template, with the 4H 200s reclaim as the main signal <a class="ts" href="https://www.youtube.com/watch?v=wYKIEw9WIf0&t=500s" target="_blank">▶ Watchlist W10 8:20</a>. Week 11 shifted selection from "anything outperforming" to "strong + actionable" <a class="ts" href="https://www.youtube.com/watch?v=jdnNtLfybVc&t=635s" target="_blank">▶ Watchlist W11 10:35</a>.</p>
+  </aside>
+
+  <section class="rules"><h2>If → then</h2><ul>
+    <li>BTC sideways while ETH/alts trend → trade the higher-beta outperformers, not BTC.</li>
+    <li>Coin doesn't look better than BTC within 4 s → skip.</li>
+    <li>Algo steps, pump wicks, illiquid, no structure → drop, even if outperforming.</li>
+    <li>Strong but no respected MA nearby → watch only.</li>
+    <li>Only a very fast MA portrays the trend → below your TF floor, skip.</li>
+    <li>Last pick still above its HTF 200s + demand → keep. Ranging or lost trend → drop.</li>
+    <li>Your best coin is a "polished turd" → the regime is a puddle. Take fewer trades.</li>
+  </ul></section>
+  <footer class="ask">Stuck? Ask your agent to explain any idea above, citing the timestamp.</footer>
+</main>
+<script src="../chart.js"></script><script src="../nav.js"></script>
+</body></html>
