@@ -1,0 +1,150 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ch 16 · Bi-weekly ritual — TraderMercury</title>
+<link rel="stylesheet" href="../style.css"></head>
+<body data-ch="16">
+<nav id="side"></nav>
+<main>
+  <header><p class="kicker">Part E · Loop — Chapter 16</p><h1>The bi-weekly ritual checklist</h1>
+    <p class="win">After this: run the whole system in one sitting every two weeks, leave limit orders behind, and touch nothing until the next review.</p></header>
+
+  <section class="idea" id="flow">
+    <h2>The ritual on one page</h2>
+    <p>Every step is a filter. Most review days end at one of the "do nothing" exits, and that's the system working. Buttons only get pressed at the end, and only as pre-placed limit orders. His "99% of the time is waiting" is built in.</p>
+    <pre class="mermaid">
+flowchart TD
+  O[0 · Open book: positions + old orders] --> A[1 · BTC context: HTF 200s, range, RS]
+  A -->|breakdown / puddle| N[Do nothing · vacation mode]
+  A --> B[2 · 4-sec scan: BTC → ETH → alts]
+  B -->|can't name it / down / untradable| N
+  B --> C[3 · Trend proxy: 200s TF it respects]
+  C --> D[4 · Confluence: 200s + structure + gray box]
+  D -->|one part only| N
+  D --> E{5 · Regime?}
+  E -->|chop ≥3 flips| N
+  E -->|range| R[Range rules: bid lows, TP mid/highs]
+  E -->|trend| F[6 · Setup: limit order at HTF zone]
+  R --> G
+  F --> G[7 · Stop where reasons flip · size = risk$ ÷ stop%]
+  G --> H[8 · TP ladder by level merit · keep core]
+  H --> Z[Close the platform until next review]
+  N --> Z
+    </pre>
+    <p class="src"><a class="ts" href="https://www.youtube.com/watch?v=6lnH1l3O17Q&t=644s" target="_blank">▶ Doing Nothing 10:44</a> <a class="ts" href="https://www.youtube.com/watch?v=wYKIEw9WIf0&t=6s" target="_blank">▶ Watchlist W10 0:06</a> <span class="tag both">both</span></p>
+  </section>
+
+  <section class="idea" id="step-0">
+    <h2>0 · Open book</h2>
+    <ul class="check">
+      <li>☐ Each open trade: are its justifications still standing? Yes → hold. All flipped → exit. <a href="09-stops-plans.html#three-ations">Ch 9</a> <a class="ts" href="https://www.youtube.com/watch?v=_gcfGyFBsRg&t=50s" target="_blank">▶ Stop Loss 0:50</a></li>
+      <li>☐ Which plan am I in: A, B, A2 or C? <a href="09-stops-plans.html#plan-abc">Ch 9</a> <a class="ts" href="https://www.youtube.com/watch?v=GaWUXOZyObQ&t=186s" target="_blank">▶ Giving Back 3:06</a></li>
+      <li>☐ Under water since the last review and the reason is gone → cut. <a href="15-discipline.html#journal">Ch 15</a> <a class="ts" href="https://www.youtube.com/watch?v=b-k0cMLvWUY&t=586s" target="_blank">▶ Top 5 Tips 9:46</a></li>
+      <li>☐ Cancel every limit order whose zone was lost or no longer matches a live setup. <a href="15-discipline.html#human-error">Ch 15</a> <a class="ts" href="https://www.youtube.com/watch?v=b-k0cMLvWUY&t=1022s" target="_blank">▶ Top 5 Tips 17:02</a></li>
+      <li>☐ Log hold time of each closed trade (wins vs losses). <a href="15-discipline.html#journal">Ch 15</a> <a class="ts" href="https://www.youtube.com/watch?v=b-k0cMLvWUY&t=586s" target="_blank">▶ Top 5 Tips 9:46</a></li>
+      <li>☐ Tired or rushed → move the review. <a href="15-discipline.html#human-error">Ch 15</a> <a class="ts" href="https://www.youtube.com/watch?v=b-k0cMLvWUY&t=1022s" target="_blank">▶ Top 5 Tips 17:02</a></li>
+    </ul>
+  </section>
+
+  <section class="idea" id="step-1">
+    <h2>1 · BTC context</h2>
+    <ul class="check">
+      <li>☐ BTC HTF first: 200D, weekly structure, the big range. <a href="05-btc-context.html#context-first">Ch 5</a> <a class="ts" href="https://www.youtube.com/watch?v=62K-hRKoR1M&t=12s" target="_blank">▶ Analyze Charts 0:12</a></li>
+      <li>☐ BTC weak / illiquid / bearish → fewer trades, only the strongest outperformers. <a href="06-scan-filter.html#gating">Ch 6</a> <a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=25s" target="_blank">▶ Watchlist W6 0:25</a></li>
+      <li>☐ Equities ↑ + BTC flat = weaker; equities ↓ + BTC flat = lagging. <a href="05-btc-context.html#relative-strength">Ch 5</a> <a class="ts" href="https://www.youtube.com/watch?v=KqEv4Os4BPU&t=33s" target="_blank">▶ Time Different? 0:33</a></li>
+      <li>☐ Label each thought: drawn = speculation, structure/200s = interpretation. <a href="05-btc-context.html#spec-vs-interp">Ch 5</a> <a class="ts" href="https://www.youtube.com/watch?v=FDUlrmXFCrU&t=13s" target="_blank">▶ Spec vs Interp 0:13</a></li>
+      <li>☐ Move feels huge → compare to the ADR and the bigger range. <a href="05-btc-context.html#recency">Ch 5</a> <a class="ts" href="https://www.youtube.com/watch?v=oINjcMK8-bU&t=1041s" target="_blank">▶ Recency 17:21</a></li>
+    </ul>
+  </section>
+
+  <section class="idea" id="step-2">
+    <h2>2 · 4-second scan</h2>
+    <ul class="check">
+      <li>☐ Spacebar through BTC → ETH → alts. Name the state in 4 s or skip. <a href="01-simplicity.html#four-second-rule">Ch 1</a> <a class="ts" href="https://www.youtube.com/watch?v=pUflMCUpVuo&t=278s" target="_blank">▶ Foundation 4:38</a></li>
+      <li>☐ Keep only coins that look better than BTC. Downtrenders: 10-ft pole. <a href="06-scan-filter.html#keep-strength">Ch 6</a> <a class="ts" href="https://www.youtube.com/watch?v=l61kW6fUZbo&t=1044s" target="_blank">▶ Watchlist W6 17:24</a></li>
+      <li>☐ Drop algo steps, pump wicks, illiquid, no structure. <a href="06-scan-filter.html#tradability">Ch 6</a> <a class="ts" href="https://www.youtube.com/watch?v=NpqDKKC8uIU&t=110s" target="_blank">▶ Watchlist W9 1:50</a></li>
+      <li>☐ Last list: still above HTF 200s + demand → keep; ranging or lost trend → drop. <a href="06-scan-filter.html#keep-drop">Ch 6</a> <a class="ts" href="https://www.youtube.com/watch?v=LjNOWfW2rd4&t=53s" target="_blank">▶ Best Alts 0:53</a></li>
+      <li>☐ End with ≤5 coins. <a href="06-scan-filter.html#funnel">Ch 6</a> <a class="ts" href="https://www.youtube.com/watch?v=wYKIEw9WIf0&t=6s" target="_blank">▶ Watchlist W10 0:06</a></li>
+    </ul>
+  </section>
+
+  <section class="idea" id="step-3">
+    <h2>3 · Trend proxy</h2>
+    <ul class="check">
+      <li>☐ Find the 200s (MA + EMA) timeframe the coin respects; crossed back and forth → not respected. <a href="02-timeframes.html#respects">Ch 2</a> <a class="ts" href="https://www.youtube.com/watch?v=3Tx0pCBcILY&t=392s" target="_blank">▶ Snowball 6:32</a></li>
+      <li>☐ Map it: 1H → 4H trend, 4H → daily, 200D → weekly. <a href="02-timeframes.html#proxy">Ch 2</a> <a class="ts" href="https://www.youtube.com/watch?v=tB8bNu3hcAk&t=311s" target="_blank">▶ Scaling 5:11</a></li>
+      <li>☐ Only a very fast MA portrays the trend → below the bi-weekly floor (4H/daily), skip. <a href="06-scan-filter.html#tf-floor">Ch 6</a> <a class="ts" href="https://www.youtube.com/watch?v=I8yIaDK6he8&t=385s" target="_blank">▶ Watchlist W14 6:25</a></li>
+      <li>☐ Bounces and wicks aren't strength. Need an HH on a meaningful TF. <a href="02-timeframes.html#bounces">Ch 2</a> <a class="ts" href="https://www.youtube.com/watch?v=tB8bNu3hcAk&t=774s" target="_blank">▶ Scaling 12:54</a></li>
+    </ul>
+  </section>
+
+  <section class="idea" id="step-4">
+    <h2>4 · Confluence</h2>
+    <ul class="check">
+      <li>☐ 200s + market structure + gray box at one price → valid. One part alone → skip. <a href="07-setups-entries.html#confluence-stack">Ch 7</a> <a class="ts" href="https://www.youtube.com/watch?v=s0ZjcdHp0eA&t=1163s" target="_blank">▶ Top 5 + BTC 19:23</a></li>
+      <li>☐ Write the justification. The invalidation is the same list reversed. <a href="14-never-wrong.html#justify-invalidate">Ch 14</a> <a class="ts" href="https://www.youtube.com/watch?v=m3UWRnVd9zk&t=168s" target="_blank">▶ Therapy 2:48</a></li>
+      <li>☐ Needs a 30–60% move to be proven wrong → not actionable; drop to a nearer proxy. <a href="05-btc-context.html#valid-vs-actionable">Ch 5</a> <a class="ts" href="https://www.youtube.com/watch?v=oINjcMK8-bU&t=143s" target="_blank">▶ Recency 2:23</a></li>
+    </ul>
+  </section>
+
+  <section class="idea" id="step-5">
+    <h2>5 · Regime</h2>
+    <ul class="check">
+      <li>☐ Bias flipped ≥3 times in a few days → chop: no trend trades, range mindset or step away. <a href="04-regime.html#trend-count">Ch 4</a> <a class="ts" href="https://www.youtube.com/watch?v=O_hvWBgai2Y&t=796s" target="_blank">▶ Rational 13:16</a></li>
+      <li>☐ Range → bid the lows, TP mid and highs; ignore LTF MAs. <a href="03-three-part-system.html#ranges">Ch 3</a> <a class="ts" href="https://www.youtube.com/watch?v=-p67RrcRPxw&t=112s" target="_blank">▶ Isolating 1:52</a></li>
+      <li>☐ Breakout holds → new trend, don't fade. Falls back in → deviation, expect mid then the other side. <a href="03-three-part-system.html#deviation">Ch 3</a> <a class="ts" href="https://www.youtube.com/watch?v=idw74oD1pS0&t=150s" target="_blank">▶ Winner's Mentality 2:30</a></li>
+      <li>☐ Lost 4H 200s + daily LL → downtrend, not a dip. No dip bids. <a href="11-cycle.html#dip-vs-downtrend">Ch 11</a> <a class="ts" href="https://www.youtube.com/watch?v=Y-MBePZlxNA&t=283s" target="_blank">▶ Bottom Buying 4:43</a></li>
+    </ul>
+  </section>
+
+  <section class="idea" id="step-6">
+    <h2>6 · Setup, placed as a limit order</h2>
+    <p>His LTF reclaim entries don't fit a two-week cadence. The adapted version is his Setup A: bid the stacked HTF zone in advance and let price come to you.</p>
+    <figure><svg class="chart" data-spec='{"h":220,"seed":16,"title":"Bi-weekly order: bid the zone, stop below structure, TP next level","path":[100,140,126,160,138,150],"legs":[7,5,6,5,4],"ma":[{"len":10,"label":"4H 200s"}],"box":[{"x0":11,"x1":30,"y0":124,"y1":130,"label":"gray box = bid"}],"hl":[{"y":118,"label":"stop: below last HL","dash":true},{"y":160,"label":"TP: prior high"}]}'></svg><figcaption>Set once on review day. Filled or not, look again in two weeks.</figcaption></figure>
+    <ul class="check">
+      <li>☐ Name the archetype. <a href="07-setups-entries.html#archetypes">Ch 7</a> <a class="ts" href="https://www.youtube.com/watch?v=xMKSiNaT5BI&t=1032s" target="_blank">▶ Watchlist W13 17:12</a></li>
+      <li>☐ Fast impulse into a stacked HTF zone → limit bid at the zone (A). <a href="07-setups-entries.html#bid-vs-reclaim">Ch 7</a> <a class="ts" href="https://www.youtube.com/watch?v=K4RLjOvY0iM&t=491s" target="_blank">▶ Watchlist W16 8:11</a></li>
+      <li>☐ Slow bleed / illiquid / dying narrative → no pre-bid. <a href="07-setups-entries.html#no-slow-bleed">Ch 7</a> <a class="ts" href="https://www.youtube.com/watch?v=z1CP2ztskS4&t=398s" target="_blank">▶ Watchlist W5 6:38</a></li>
+      <li>☐ Price already left the zone → no chase. Missing is fine. <a href="07-setups-entries.html#missing-is-fine">Ch 7</a> <a class="ts" href="https://www.youtube.com/watch?v=WxoJ48swiC0&t=615s" target="_blank">▶ Watchlist W17 10:15</a></li>
+    </ul>
+  </section>
+
+  <section class="idea" id="step-7">
+    <h2>7 · Stop and size</h2>
+    <ul class="check">
+      <li>☐ Stop where every entry reason has flipped (below the 200s + last HL + zone). <a href="09-stops-plans.html#textbook-stop">Ch 9</a> <a class="ts" href="https://www.youtube.com/watch?v=_gcfGyFBsRg&t=94s" target="_blank">▶ Stop Loss 1:34</a></li>
+      <li>☐ Position = (account × 1%) ÷ stop %. Wider stop → smaller position. <a href="08-setup-math.html#sizing">Ch 8</a> <a class="ts" href="https://www.youtube.com/watch?v=Y8eq314ENCM&t=463s" target="_blank">▶ Leverage 7:43</a></li>
+      <li>☐ RR × probability × my situation all OK? Textbook R ≲ 2.5 → probably skip. <a href="08-setup-math.html#three-aspects">Ch 8</a> <a class="ts" href="https://www.youtube.com/watch?v=hrAJSvSfVto&t=107s" target="_blank">▶ RR + Prob 1:47</a></li>
+      <li>☐ Plan up / sideways / down before placing. Need one outcome → don't. <a href="14-never-wrong.html#any-outcome">Ch 14</a> <a class="ts" href="https://www.youtube.com/watch?v=TEYiqDpI7GU&t=65s" target="_blank">▶ Never Wrong 1:05</a></li>
+      <li>☐ Check the order: price zeros, size zeros, right coin, stop attached. <a href="15-discipline.html#human-error">Ch 15</a> <a class="ts" href="https://www.youtube.com/watch?v=b-k0cMLvWUY&t=1022s" target="_blank">▶ Top 5 Tips 17:02</a></li>
+    </ul>
+  </section>
+
+  <section class="idea" id="step-8">
+    <h2>8 · Take profit and exit</h2>
+    <ul class="check">
+      <li>☐ TP size ∝ level timeframe: small at LTF lines, a good chunk at daily/weekly zones and range highs. <a href="10-take-profit.html#level-merit">Ch 10</a> <a class="ts" href="https://www.youtube.com/watch?v=1xyYRdB2i5I&t=43s" target="_blank">▶ Take Profit 0:43</a></li>
+      <li>☐ Keep a core while justifications stand. TP ≠ bearish. <a href="10-take-profit.html#tp-not-bearish">Ch 10</a> <a class="ts" href="https://www.youtube.com/watch?v=nTtIs4bY8yI&t=366s" target="_blank">▶ Manage Trades 6:06</a></li>
+      <li>☐ Price discovery → TP slices at 1.618 / 2.618 / 3.618 / 4.236. <a href="12-price-discovery.html#fib-ladder">Ch 12</a> <a class="ts" href="https://www.youtube.com/watch?v=xezwe9qNUh8&t=97s" target="_blank">▶ Retire Cycle 1:37</a></li>
+      <li>☐ First real trend break → take more. 4H 200s lost + daily LL → full exit, scaled out as scaled in. <a href="10-take-profit.html#first-break">Ch 10</a> <a class="ts" href="https://www.youtube.com/watch?v=nTtIs4bY8yI&t=687s" target="_blank">▶ Manage Trades 11:27</a></li>
+      <li>☐ Exit only on the system I entered on: no RSI, candle, news or tweet exits. <a href="13-doing-nothing.html#same-exit">Ch 13</a> <a class="ts" href="https://www.youtube.com/watch?v=6lnH1l3O17Q&t=124s" target="_blank">▶ Doing Nothing 2:04</a></li>
+      <li>☐ Price up, nothing new (level / trend / structure) → confidence and size unchanged. <a href="14-never-wrong.html#confidence-plateau">Ch 14</a> <a class="ts" href="https://www.youtube.com/watch?v=m3UWRnVd9zk&t=442s" target="_blank">▶ Therapy 7:22</a></li>
+    </ul>
+  </section>
+
+  <section class="idea" id="do-nothing">
+    <h2>Otherwise: do nothing</h2>
+    <ul class="check">
+      <li>☐ No signal → no order. Dodging the sell-off is how you catch the rally. <a href="13-doing-nothing.html#dodge-selloff">Ch 13</a> <a class="ts" href="https://www.youtube.com/watch?v=6lnH1l3O17Q&t=0s" target="_blank">▶ Doing Nothing 0:00</a></li>
+      <li>☐ No trades between reviews: boredom, 2am and "one more" trades are the domino's first tile. <a href="15-discipline.html#overtrading">Ch 15</a> <a class="ts" href="https://www.youtube.com/watch?v=gN8-dySfgWc&t=248s" target="_blank">▶ Unbiased 4:08</a></li>
+      <li>☐ Stopped out → 5 minutes, then move on. No averaging down. <a href="15-discipline.html#on-the-chin">Ch 15</a> <a class="ts" href="https://www.youtube.com/watch?v=Nh0hc1J7xk8&t=917s" target="_blank">▶ Winners vs Losers 15:17</a></li>
+    </ul>
+  </section>
+
+  <aside class="adapt">
+    <p>Investor book, same sitting, separate lane: DCA at support (HTF 200s, weekly demand), cold storage, untouched by anything above. Trader-book signals never move it. <a href="13-doing-nothing.html#two-books">Ch 13</a> <a class="ts" href="https://www.youtube.com/watch?v=TFJvx2ak5Q4&t=102s" target="_blank">▶ This Mistake 1:42</a> <a href="11-cycle.html#dca-support">Ch 11</a> <a class="ts" href="https://www.youtube.com/watch?v=Y-MBePZlxNA&t=588s" target="_blank">▶ Bottom Buying 9:48</a></p>
+  </aside>
+
+  <footer class="ask">Stuck? Ask your agent to explain any idea above, citing the timestamp.</footer>
+</main>
+<script src="../chart.js"></script><script src="../nav.js"></script>
+</body></html>
