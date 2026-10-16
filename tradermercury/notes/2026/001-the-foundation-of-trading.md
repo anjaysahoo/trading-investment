@@ -6,7 +6,7 @@
 ### Things we are learning
 
 - `Trend trading` [ _Every trend breaks, we will definitely incur losses but the amount we will make will be disproportionally higher than losses_ ]
-- We are learning to swing trade our spot position. We are `Long Bias`. Hence, we are not are trading 15min chart
+- We are learning to swing trade our spot position. We are `Long Bias`. Hence, we are not trading 15min chart
 
 
 ---
