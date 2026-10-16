@@ -37,5 +37,5 @@ for those region to be created
 In such situation we can do two things :-
 1. From visibility remove this level for lower time frame. Such that it does not confuse us on lower time frame
 ![img_15.png](img_15.png)
-2. On lower time frame you can draw range and again enable visibility for this on lower time frame only. This way you can make decision and not be indecisive for a months on certain price range
+2. On lower time frame you can draw range and again enable visibility for this on lower time frame only. This way you can make decision and not be indecisive for a month on certain price range
 ![img_16.png](img_16.png)
