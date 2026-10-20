@@ -39,3 +39,9 @@ In such situation we can do two things :-
 ![img_15.png](img_15.png)
 2. On lower time frame you can draw range and again enable visibility for this on lower time frame only. This way you can make decision and not be indecisive for a month on certain price range
 ![img_16.png](img_16.png)
+
+---
+### General approach to draw `Support & Resistence level`
+1. Start with weekly (1W)
+2. Then move on to daily (1D) -> while drawing in setting make visibility only daily and lower timeframe. Such when you view higher timeframe you don't less relevant timeframe levels which is not required
+3. Then move on to hourly (4H) -> Follow similar step like 1D
