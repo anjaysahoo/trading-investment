@@ -48,3 +48,5 @@
 - Definitely you would lose negative 6% but winning chance was highest when it broke out of month-long range
 
 - Winner do not pray to be right but adapt and be ready with next plan when things go wrong
+
+

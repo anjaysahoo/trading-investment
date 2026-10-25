@@ -70,3 +70,4 @@ As per Mercury whatever we can see visibly on daily can be considered as current
 
 Around same time when `HYPE` is breaking out, but `BTC` is still down-trending that shows _relative strength and outperformer_
 
+> We should be able to say about a chart within **4 seconds** whether given chart fall under any of above **4 chart type**. If we are **not able to tell then skip such asset** and don't waste your time
